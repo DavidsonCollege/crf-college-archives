@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search The Davidsonian</title>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script> <!-- Include jQuery -->
+</head>
+
+
+<body>
+  <!-- NAVIGATION BAR -->
+<nav class="navbar navbar-expand-lg navbar-custom">
+    <a class="navbar-brand" href="#" id="archive-search-icon">
+      <img src="{{ url_for('static', filename='assets/logo.png') }}" width="100" height="30" class="d-inline-block align-top" alt="Logo">
+      Archive Search
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#" id="home-link">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#" id="advanced-search-link">Advanced Search</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="aboutDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="aboutDropdown">
+              <a class="dropdown-item" href="#" id="about-link">About the Project</a>
+              <a class="dropdown-item" href="#" id="team-link">Our Team</a>
+              <a class="dropdown-item" href="#" id="instructions-link">Instructions</a>
+          </div>
+      </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#" id="cv-link">Controlled Vocabulary</a>
+        </li>
+      </ul>
+    </div>
+</nav>
+  <!-- HOME CONTENT -->
+  <div id="home-content" class="tab-content">
+    <h3>Welcome to the Archive Search Home Page</h3>
+    <div id="search-bar">
+      <p>Archive Search provides keyword searching of all The Davidsonian issues published between 1914-2010. 
+        These operators can be used between search terms: <strong>AND</strong> (default), <strong>OR</strong>, <strong>NOT</strong>, <strong>NEAR</strong>. These operators 
+        must be capitalized to be used properly. For more information, see <a href="#" id="go-to-instructions">Instructions.</a></p>
+        <p><em>We reccomend that while conducting your research with this tool, you look at the PDF documents for official reference. 
+          Although we are very confident in our text files, it is possible that we missed some errors that may cause confusion. 
+          Therefore, when citing or drawing important conclusions, look through the PDF attached for reference. To learn more about 
+          how these text files were generated and how errors were corrected, please refer to the "About the Project" page. </em></p>
+        <p><em>Some of the terminology used is reflective of the language used historically by members of the Davidson community. 
+            These terms may be, but are not necessarily, outdated, offensive, and/or harmful. While we would not use this terminology today, it is important to search 
+            for these terms in historical documents to surface valuable information for researchers today.</em></p>
+          <h5>Wondering Where to Start?</h5><p>For a list of commonly searched terms to help your research, click <a href="#" id="go-to-cv">here.</a></p>
+      <div class="input-group mb-3">
+        <input type="text" class="form-control" id="search-input" placeholder="Enter keyword" aria-label="Enter keyword" aria-describedby="basic-addon2">
+        <div class="input-group-append">
+            <button class="btn btn-maroon" type="button" onclick="performSearch()">Search</button>
+            <button id="sort-by-date" class="btn btn-secondary" type="button" style="display: none;">Sort by Date</button>
+            <button id="sort-by-score" class="btn btn-secondary" type="button" style="display: none;">Sort by Relevance</button>
+            <!-- <button class="btn btn-secondary" type="button" onclick="downloadCSV()">Download CSV</button> -->
+        </div>
+    </div>
+    <p>For more advanced search functionality, please visit the <a href="#" id="go-to-advanced-search">advanced search tab.</a></p>
+  </div>
+  <div id="search-results"></div>
+</div>
+<!-- ADVANCED SEARCH CONTENT -->
+<div id="advanced-search-content" class="tab-content" style="display:none;">
+  <h3><srtong>Advanced Search</srtong></h3>
+  <p>This search function grants you more ability to filter and contextualize your search. Use the <strong>"Date From"</strong> and <strong>"Date To"</strong> inputs to specificy what time period you want your 
+    results to include. Further, you may input the amount of <strong>"Context Lines"</strong> you want to reveal around your keyword. Higher context line inputs will reveal more of the surrounding 
+    text for any given search.</p>
+  <form id="advanced-search-form">
+      <div class="form-group">
+          <label for="keyword">Keyword</label>
+          <input type="text" class="form-control" id="keyword" name="keyword" placeholder="Enter keyword">
+      </div>
+      <div class="form-group">
+          <label for="date-from">Date From</label>
+          <input type="date" class="form-control" id="date-from" name="date-from">
+      </div>
+      <div class="form-group">
+          <label for="date-to">Date To</label>
+          <input type="date" class="form-control" id="date-to" name="date-to">
+      </div>
+      <div class="form-group">
+          <label for="context">Context Lines</label>
+          <input type="number" class="form-control" id="context-lines" >
+      </div>
+      <button type="button" class="btn btn-maroon" onclick="performAdvancedSearch()">Search</button>
+  </form>
+  <div id="advanced-search-results"></div>
+</div>
+  <!--INSTRUCTIONS CONTENT-->
+  <div id="instructions-content" class="tab-content">
+    <h3>How to Use our Tool:</h3>
+    <p><strong>Video:</strong></p>
+    <ul>
+      <p><li>When looking at the home page, at the top you will see the search bar. <strong>If you don’t know what to search</strong>, look under the <em>“Controlled Vocabulary”</em> section. 
+        You will see a bulleted list from the Davidson College Archives. Click on a name or term, and search results will appear automatically.</li></p>
+      <p><li>If you are not using the Controlled Vocabulary list, type your term or name into the search bar and click the “Search” button. 
+          Use operators like <strong>AND</strong>, <strong>OR</strong>, <strong>NOT</strong>, <strong>NEAR</strong> to refine your search. 
+          <br><br>The <strong>AND</strong> operator is the deafult, and will display results only if they contain 
+          all arguments written separated by the operator. 
+          <br><br>The <strong>OR</strong> operator will display all issues with <em>either</em> argument separated by the opeartor.
+          <br><br>The <strong>NOT</strong> operator displays issues that have only the preceeding argument without the other. 
+          <br><br>The <strong>NEAR</strong> operator will display all issues that have arguments in a near proximity of
+          each other. 
+          <br><br>Under that, you can specify how many context lines will be shown around your keyword. 
+          <br><br>Once you have completed the Keyword, Date From and To, and Context line boxes, click “Search.” </li></p>
+      <p><li>For a more advanced search, click on the “Advanced Search” tab at the top of the page. On this page, you can filter for a specific time frame in the “Date From” and “Date to.” <strong>
+        You must fill out month, day, and year</strong></li></p>
+      <p><li>Once you have your search results, you will see various issues and pages of the Davidsonian. 
+        To view the context lines (or the sentence(s) surrounding the term), click on the date and page number.</li></p>
+      <p><li> Click “View Document” once you find the Davidsonian page you want to explore. This button will bring you to the original scan of the Davidsonian, 
+        where your keyword was found. On this page, you can use <strong>crtl+F</strong> functionality to search for your term in the scan. This function is useable 
+        because of this project's production of pdfs as well as text files. <br><em>We highly encourage you 
+        to click “View Document” once you find what you are looking for. Although we are confident in our text files, there is the possibility that the context lines 
+        are not exactly what’s on the page.</em></li></p>
+    </ul>
+  </div>
+  <!-- CONTROLLED VOCABULARY CONTENT-->
+  <div id="cv-content" class="tab-content">
+    <h3>Wondering Where to Start?</h3>
+    <p>Below is a list of important key figures, groups, and events found in Davidson's History, 
+      known as the "Controlled Vocabulary." Click on a term below to begin your historical research.</p>
+    <h4><strong>Controlled Vocabulary:</strong></h4>
+    <p><em>Some of the terminology used is reflective of the language used historically by members of the Davidson community. 
+      These terms may be, but are not necessarily, outdated, offensive, and/or harmful. While we would not use this terminology today, it is important to search 
+      for these terms in historical documents to surface valuable information for researchers today.</em></p>
+      <ul id="vocab-list">
+        <h5>A</h5>
+        <li class="vocab-item">"George Lawrence Abernathy"</li><li class="vocab-item">"Anthony S. Abbot"</li><li class="vocab-item">"Tony Abbott"</li>
+        <li class="vocab-item">Accessibility</li><li class="vocab-item">"Ada Jenkins Center"</li><li class="vocab-item">"Affordable Housing"</li>
+        <li class="vocab-item">"African American"</li><li class="vocab-item">"AIDS Quilt"</li><li class="vocab-item">Alexander</li>
+        <li class="vocab-item">"Alpha Kappa Alpha"</li><li class="vocab-item">"Alpha Phi Alpha"</li><li class="vocab-item">"Alpha Tau Omega"</li>
+        <li class="vocab-item">Aboretum</li><li class="vocab-item">"Mary Archie"</li><li class="vocab-item">"Juanita Archie"</li>
+        <li class="vocab-item">Asbestos</li><li class="vocab-item">Asian</li><li class="vocab-item">"Asian Culture and Awareness Association"</li>
+        <li class="vocab-item">"Asian Studies"</li><li class="vocab-item">"Asian American"</li><li class="vocab-item">"Asian American Studies"</li>
+        <li class="vocab-item extra-space">Athletics</li>
+        <h5>B</h5>
+        <li class="vocab-item">Barbershop</li><li class="vocab-item">Baseball</li><li class="vocab-item">"Baseball field"</li>
+        <li class="vocab-item">Basketball</li><li class="vocab-item">"Beaver Dam"</li><li class="vocab-item">"Beta Theta Pi"</li>
+        <li class="vocab-item">"Beauty Supply"</li><li class="vocab-item">"Bicentennial Committee"</li><li class="vocab-item">"Biddle Memorial Institute"</li>
+        <li class="vocab-item">"Black Students"</li><li class="vocab-item">"Black Student Coalition"</li>
+        <li class="vocab-item">"Nancy Blackwell"</li><li class="vocab-item">"Renee Denise Fanuiel Blackwell"</li><li class="vocab-item">"Boarding House"</li>
+        <li class="vocab-item">Bookclub</li><li class="vocab-item">"Boone Neighborhood"</li><li class="vocab-item">"Boy Scout Troop"</li>
+        <li class="vocab-item">"Brady's Alley"</li><li class="vocab-item">"Fannie Brandon"</li><li class="vocab-item">"Marvin Brandon"</li><li class="vocab-item">"Brick Row"</li>
+        <li class="vocab-item">"Bridgeport Fabrics"</li><li class="vocab-item extra-space">"Leslie Brown"</li>
+        <h5>C</h5>
+        <li class= "vocab-item">"Bee Jay Caldwell"</li><li class="vocab-item">"Calvary Presbyterian Church"</li>
+        <li class="vocab-item">"Campus Revolutionaries Implementing Progress"</li><li class="vocab-item">CRIP</li><li class="vocab-item">Carr</li>
+        <li class="vocab-item">"Evelyn Carr"</li><li class="vocab-item">"Garfield Carr"</li><li class="vocab-item">"Rosa Carr"</li>
+        <li class="vocab-item">"Catawba River"</li><li class="vocab-item">Cemetery</li><li class="vocab-item">"Chambers Building"</li>
+        <li class="vocab-item">"Maxwell Chambers"</li><li class="vocab-item">"Christian Aid Society"</li><li class="vocab-item">Church</li>
+        <li class="vocab-item">Churches</li><li class="vocab-item">"Civil Rights"</li><li class="vocab-item">Coeducation</li><li class="vocab-item">Co-eds</li>
+        <li class="vocab-item">"The Coffee Cup"</li><li class="vocab-item">CoHo</li><li class="vocab-item">"Columbus Chapel"</li><li class="vocab-item">Commemoration</li>
+        <li class="vocab-item">"Common Ground"</li><li class="vocab-item">"Community Development"</li><li class="vocab-item">"Community Relations Committee"</li>
+        <li class="vocab-item">Confederate</li><li class="vocab-item">Conner</li><li class="vocab-item">"Cecelia Conner"</li><li class="vocab-item">Connor</li>
+        <li class="vocab-item">"Connor House"</li><li class="vocab-item">Cooks</li><li class="vocab-item">"Cotton Mill"</li>
+        <li class="vocab-item extra-space">"Wayne Crumwell"</li>
+        <h5>D</h5>
+        <li class="vocab-item">"Daughters of the American Revolution"</li><li class="vocab-item">"Chalmers Davidson"</li>
+        <li class="vocab-item">"Davidson African American Coalition"</li><li class="vocab-item">"Davidson College Presbyterian Church"</li>
+        <li class="vocab-item">"Davidson Colored School"</li><li class="vocab-item">"Davidson Colored Elementary"</li>
+        <li class="vocab-item">"Davidson Cotton Mill"</li><li class="vocab-item">"Davidson Elementary"</li><li class="vocab-item">"Davidson Lands Conservancy"</li>
+        <li class="vocab-item">"Davidson Housing Coalition"</li><li class="vocab-item">"Davidson Methodist Church"</li>
+        <li class="vocab-item">"Davidson Prebyterian Church"</li><li class="vocab-item">"Delta Sigma Theta"</li><li class="vocab-item">"Desegregation"</li>
+        <li class="vocab-item">Development</li><li class="vocab-item">Disability</li><li class="vocab-item">"Disability Rights"</li>
+        <li class="vocab-item">Discrimination</li><li class="vocab-item">Dixie</li><li class="vocab-item">"Charles Driesell"</li><li class="vocab-item">Lefty</li>
+        <li class="vocab-item">Donaldson</li><li class="vocab-item">"Enoch Donaldson"</li><li class="vocab-item">"Downtown Development Organization"</li>
+        <li class="vocab-item">"Downtown Revitalization Plan"</li><li class="vocab-item">"Duke Endowment"</li><li class="vocab-item">"Duke Energy"</li>
+        <li class="vocab-item extra-space">"Duke Power"</li>
+        <h5>E</h5>
+        <li class="vocab-item">"Eating House"</li><li class="vocab-item">"Ecological Preserve"</li><li class="vocab-item">"Bill Edwards"</li>
+        <li class="vocab-item">"Elm Row"</li><li class="vocab-item">Emanon</li><li class="vocab-item">"Enviornmental Action Coalition"</li>
+        <li class="vocab-item">EAC</li><li class="vocab-item">"Erwin Lodge"</li><li class="vocab-item">"Eumenean Society"</li>
+        <li class="vocab-item extra-space">"Exchange Students"</li>
+        <h5>F</h5>
+        <li class="vocab-item">"Nancy Fairley"</li><li class="vocab-item">"Fannie and Mabel"</li><li class="vocab-item">"Farmers Market"</li>
+        <li class="vocab-item">FIJI</li><li class="vocab-item">Fraternities</li><li class="vocab-item">"Friends of Lesbians and Gays"</li><li class="vocab-item">F.L.A.G</li>
+        <li class="vocab-item">"Foreign Students"</li><li class="vocab-item">"Foreign Missionaries"</li><li class="vocab-item">Forney</li>
+        <li class="vocab-item extra-space">"Cecelia Forney"</li>   
+        <h5>G</h5> 
+        <li class="vocab-item">"Gay-Straight Alliance"</li><li class="vocab-item">Gender</li><li class="vocab-item">"Gender Equity"</li>
+        <li class="vocab-item">"Gender Inclusive"</li><li class="vocab-item">"Gender Neutral"</li><li class="vocab-item">"Gender Resource Center"</li>
+        <li class="vocab-item">"Gender and Sexuality Studies"</li><li class="vocab-item">"General Time"</li><li class="vocab-item">"Gethsemane Baptist Church"</li>
+        <li class="vocab-item">"Greek Life"</li><li class="vocab-item">"Griffith Street"</li><li class="vocab-item">"Griffith Street Properties"</li>
+        <li class="vocab-item">"Grocery Store"</li><li class="vocab-item extra-space">Gunsmoke</li>
+        <h5>H</h5>
+        <li class="vocab-item">"Habitat for Humanity"</li><li class="vocab-item">"Janet Harrell"</li><li class="vocab-item">"Hearing Committee"</li>
+        <li class="vocab-item">"Doug Hicks"</li><li class="vocab-item">Hillel</li><li class="vocab-item">Hispanic</li>
+        <li class="vocab-item">"Honor Code"</li><li class="vocab-item">"Honor Council"</li><li class="vocab-item">"Horticulture Symposium"</li>
+        <li class="vocab-item">Housemother</li><li class="vocab-item">Houson</li><li class="vocab-item">"Lula Bell Houston"</li>
+        <li class="vocab-item">Howard</li><li class="vocab-item">"Brenda Howard"</li><li class="vocab-item">"Dovie Howard"</li>
+        <li class="vocab-item">"Huntersville Colored School"</li><li class="vocab-item extra-space">"Hurricane Hugo"</li>
+        <h5>I</h5>
+        <li class="vocab-item">I-77</li><li class="vocab-item">Ingersoll-Rand</li><li class="vocab-item">Integration</li>
+        <li class="vocab-item">"International Students"</li><li class="vocab-item extra-space">Interstate</li>
+        <h5>J</h5>
+        <li class="vocab-item">Janitor</li><li class="vocab-item">"Ernest Jeffries"</li><li class="vocab-item">"Jewish Student Union"</li>
+        <li class="vocab-item">"Johnson C. Smith University"</li><li class="vocab-item">"Erving Elizabeth Johnson"</li>
+        <li class="vocab-item">"Harry Johnson"</li><li class="vocab-item">"Lela Johnson"</li><li class="vocab-item">"Ralph Johnson"</li>
+        <li class="vocab-item">"Tobe Johnson"</li><li class="vocab-item">"Walter Johnson"</li><li class="vocab-item extra-space">"July Experience"</li>
+        <h5>K</h5>
+        <li class="vocab-item">"Kappa Alpha"</li><li class="vocab-item">"Kappa Sigma"</li><li class="vocab-item">Kindred</li>
+        <li class="vocab-item">Knox</li><li class="vocab-item extra-space">"Ku Klux Klan"</li>
+        <h5>L</h5>
+        <li class="vocab-item">Lake</li><li class="vocab-item">"Lake Campus"</li><li class="vocab-item">"Lake Norman"</li>
+        <li class="vocab-item">"Lake Norman Company"</li><li class="vocab-item">"Lakeside Apartments"</li><li class="vocab-item">"Lakeside Park Project"</li>
+        <li class="vocab-item">"Lakeside Terrace"</li><li class="vocab-item">"Lambda Pi Chi"</li><li class="vocab-item">Latino</li>
+        <li class="vocab-item">Latina</li><li class="vocab-item">Latinx</li><li class="vocab-item">"Latin American Studies"</li>
+        <li class="vocab-item">Laundress</li><li class="vocab-item">Laundrettes</li><li class="vocab-item">Laundry</li><li class="vocab-item">"Lavender Lounge"</li>
+        <li class="vocab-item">LGBT</li><li class="vocab-item">LGBTQ</li><li class="vocab-item">LGBT+</li><li class="vocab-item">LGBTQIA</li>
+        <li class="vocab-item">Linden</li><li class="vocab-item">"Linden Manufactoring Company"</li><li class="vocab-item">Lingle</li>
+        <li class="vocab-item">"Zach Long"</li><li class="vocab-item">"Zachary Long"</li><li class="vocab-item">Lowery</li><li class="vocab-item">"Annie Mildred Lowery"</li>
+        <li class="vocab-item">"Susan Lowery"</li><li class="vocab-item">"Susie Lowery"</li><li class="vocab-item">"Low-Income Housing"</li>
+        <li class="vocab-item extra-space">"Love of Learning"</li>
+        <h5>M</h5>
+        <li class="vocab-item">"Caroline MacBreyer"</li><li class="vocab-item">Machis</li><li class="vocab-item">"Masonic Lounge"</li>
+        <li class="vocab-item">McConnell</li><li class="vocab-item">"McConnell Neighborhood"</li> <li class="vocab-item">McKissock</li>
+        <li class="vocab-item">"Warren McKissock"</li><li class="vocab-item">"Mecklenburg Declaration of Independence"</li><li class="vocab-item">"M&M Soda Shop"</li>
+        <li class="vocab-item">"Mill Church"</li><li class="vocab-item">"Paula Moore Miller"</li><li class="vocab-item">Minorities</li>
+        <li class="vocab-item">Minstrels</li><li class="vocab-item">Missionary</li><li class="vocab-item">Missionaries</li>
+        <li class="vocab-item">"Mock Circle"</li><li class="vocab-item">"Mock Hill"</li><li class="vocab-item">Multicultural</li>
+        <li class="vocab-item">"Muslim Student Association"</li><li class="vocab-item extra-space">MSA</li>
+        <h5>N</h5>
+        <li class="vocab-item">"NAMES Project"</li><li class="vocab-item">"National Panhellenic Council"</li><li class="vocab-item">Negro</li>
+        <li class="vocab-item">"Cora Louise Nelson"</li><li class="vocab-item">Ney</li><li class="vocab-item">Norton</li>
+        <li class="vocab-item">"Hood Norton"</li><li class="vocab-item">"Benoit Nzengu"</li><li class="vocab-item extra-space">"George Nzongola"</li>
+        <h5>O</h5>
+        <li class="vocab-item">"Oak Row"</li><li class="vocab-item">"Old South"</li><li class="vocab-item">"Omicron Delta Epsilon"</li>
+        <li class="vocab-item">"Organization of Latino American Students"</li><li class="vocab-item extra-space">OLAS</li>
+        <h5>P</h5>
+        <li class="vocab-item">"Patterson Court"</li><li class="vocab-item">"Patterson Court Council"</li><li class="vocab-item">PCC</li>
+        <li class="vocab-item">PAX</li><li class="vocab-item">"James Christian Pfohl"</li><li class="vocab-item">"Phi Beta Kappa"</li>
+        <li class="vocab-item">"Phi Delta Theta"</li><li class="vocab-item">"Phi Gamma Delta"</li><li class="vocab-item">"Philanthropic Society"</li>
+        <li class="vocab-item">"Piedmont Development Assoication"</li><li class="vocab-item">"Pi Kappa Alpha"</li><li class="vocab-item">"The Pines"</li>
+        <li class="vocab-item">Potts</li><li class="vocab-item">"Nannie Potts"</li><li class="vocab-item">"Ron Potts"</li>
+        <li class="vocab-item">Pottstown</li><li class="vocab-item">"Project 87"</li><li class="vocab-item">"Project of the Americas"</li>
+        <li class="vocab-item">PRAM</li><li class="vocab-item extra-space">Protest</li>
+        <h5>Q</h5>
+        <li class="vocab-item">Quadrangle</li><li class="vocab-item">"Quadwranglers Wives Club"</li>
+        <li class="vocab-item">"Queens College"</li><li class="vocab-item extra-space">"Carol Quillen"</li>
+        <h5>R</h5>
+        <li class="vocab-item">"Race Relations"</li><li class="vocab-item">Raeford</li><li class="vocab-item">"James Raeford"</li>
+        <li class="vocab-item">Railroad</li><li class="vocab-item">"Red and Black Masquers"</li><li class="vocab-item">"Reeves Temple A.M.E Zion Church"</li>
+        <li class="vocab-item">"Reserve Officers Training Corps"</li><li class="vocab-item">"Richardson Scholars"</li>
+        <li class="vocab-item">"Georgia Ringle"</li><li class="vocab-item">Rivens</li><li class="vocab-item">"River Run"</li>
+        <li class="vocab-item">"Rosenwald School"</li><li class="vocab-item">ROTC</li><li class="vocab-item">"Roosevelt Wilson Park"</li>
+        <li class="vocab-item">"Royal Shakespeare Company"</li><li class="vocab-item">Rusk</li><li class="vocab-item extra-space">"Dean Rusk"</li>
+        <h5>S</h5>
+        <li class="vocab-item">"Sadler Square"</li><li class="vocab-item">Scouts</li><li class="vocab-item">Segregation</li><li class="vocab-item">Self-selection</li>
+        <li class="vocab-item">Servants</li><li class="vocab-item">Sexuality</li><li class="vocab-item">"Cornelia Shaw"</li><li class="vocab-item">"Sigma Alpha Epsilon"</li>
+        <li class="vocab-item">"Sigma Chi"</li><li class="vocab-item">"Sigma Phi Epsilon"</li><li class="vocab-item">"Maggie Smith"</li><li class="vocab-item">"Nancy Smith"</li>
+        <li class="vocab-item">Smithville</li><li class="vocab-item">"Janet Stovall"</li><li class="vocab-item">"South Asian Studies"</li>
+        <li class="vocab-item">Sororities</li><li class="vocab-item">"Sparrow's Nest"</li><li class="vocab-item">"Spencer House"</li><li class="vocab-item">Sports</li>
+        <li class="vocab-item">"Spring Frolics"</li><li class="vocab-item">"St. Alban's Episcopal Church"</li><li class="vocab-item">"Student Government Assoication"</li>
+        <li class="vocab-item">SGA</li><li class="vocab-item">"Summit Coffee"</li><li class="vocab-item extra-space">"The Swimming Hole"</li>
+        <h5>T</h5>
+        <li class="vocab-item">"Take Back the Night"</li><li class="vocab-item">"Brenda Tapia"</li><li class="vocab-item">"The Teen Canteen"</li>
+        <li class="vocab-item">"Willian Holt Terry"</li><li class="vocab-item">"Will Terry"</li><li class="vocab-item">"Title IX"</li>
+        <li class="vocab-item">Torrence</li><li class="vocab-item">"Torrence Chapel AME Zion Church"</li><li class="vocab-item">Torrence-Lytle</li>
+        <li class="vocab-item">"Lee Torrence"</li><li class="vocab-item">"Mabel Torrence"</li><li class="vocab-item">"Mable Torrence"</li>
+        <li class="vocab-item">"Marjeen Torrence"</li><li class="vocab-item">"Verdie Torrence"</li><li class="vocab-item">"Town Day"</li>
+        <li class="vocab-item">Trees</li><li class="vocab-item">Tuition</li><li class="vocab-item extra-space">"Turner House"</li>
+        <h5>U</h5>
+        <li class="vocab-item">"Unity Chapel"</li><li class="vocab-item extra-space">"Unity Church"</li>
+        <h5>V</h5>
+        <li class="vocab-item extra-space">"Vail Commons"</li>
+        <h5>W</h5>
+        <li class="vocab-item">"Warner Hall"</li><li class="vocab-item">"West Davidson"</li><li class="vocab-item">WestFest</li>
+        <li class="vocab-item">Westside</li><li class="vocab-item">WDAV</li><li class="vocab-item">"Theodore Roosevelt Wilson"</li>
+        <li class="vocab-item">"Roosevelt Wilson"</li><li class="vocab-item">Women</li><li class="vocab-item">"Women's Concerns Committee"</li>
+        <li class="vocab-item">"Women's Tennis"</li><li class="vocab-item">"Lillian Woo"</li><li class="vocab-item extra-space">Beadsie</li>
+        <h5>X</h5>
+        <p></p>
+        <h5>Y</h5>
+        <li class = "vocab-item">"Young Men's Christian Association"</li><li class = "vocab-item extra-space">YMCA</li>
+        <h5>#/Symbol</h5>
+        <li class="vocab-item">"4H Club"</li><li class="vocab-item extra-space">9/11</li>
+      </ul>
+  </div>
+  <!-- ABOUT THE PROJECT CONTENT -->  
+ <div id="about-content" class="tab-content">
+    <h3>About the Project</h3>
+    <p>In 2024, the Community Research Fellows were given a project that was different from the previous years. 
+      Our goal was to make Davidson’s history accessible to all. The student, faculty, and staff team took a deep 
+      dive into Davidson College history, including its connections to slavery, and how that history has shaped the community around the college. 
+      In collaboration with historian Hilary Green and the Davidson College archives, we scraped digital assets, including the Davidsonian, and built 
+      this tool to search, summarize and analyze them. This project has included data analysis and visualization, and archival research. </p>
+      <p>For more information about the process, click <a href="https://www.davidson.edu">here</a> to find our paper summarizing our work.</p>
+    <p> Davidson has received many requests from family members wanting to see their background...</p>
+    <h5>Methodology</h5>
+    <p>The goals of this project were to create searchable pdfs and readable text files from the Davidson scans currently housed in the Archives system. 
+      The central process in this goal was <strong>Optical Character Recognition</strong> (OCR). OCR refers to the process that converts an image of text 
+      into a machine-readable text format. Our project's aim was to use OCR to create searchable PDFs as well as a corpus of text files containing all the 
+      contents of the Davidsonian. With this corpus, we would be able to create a search tool to increase the accessibility of Davidson's history to 
+      researchers, families, and community members. </p>
+    <p>The OCR process necessitated subprocesses before and after, known as preprocessing and postprocessing. Both of the these subprocesses are intended 
+      to increase the content captured and the accuracy of the text in our final text files. Our workflow is briefly explained in the following sections, 
+      however, for a more in-depth explanation of our processing, please refer to our <a href="https://www.davidson.edu">research paper.</a></p>
+    <h6>Pre Processing</h6>
+    <p>Our preprocessing methodology required us first to classify scans according to their quality. Using the in-depth data that we collected on each 
+      scan, we constructed a composite score to compare across all the documents. If any document fell below a specified threshold, we deemed it a 
+      low-quality scan. Because preprocessing methods are intended to eliminate the image quality errors that may worsen OCR quality, we only 
+      wanted to pre-process scans we deemed as low-quality. In the image above, you can see one of our most extreme examples of this binarization 
+      process from a page of the January 15, 1920 Davidsonian issue. On the left you will see the original document, and on the right you will 
+      see the binarized version.</p>
+      <img src="{{ url_for('static', filename='assets/Composite_Score_Dist.png') }}" alt="Scan Data" class="img-fluid rounded">
+    <p>Once we identified the low-quality scans, we ran each of them through a binarization process adapted from 
+      the <a href="https://huggingface.co/SBB/sbb_binarization">Berlin State Library.</a> The binarization 
+      process greatly increased the amount of text captured from low-quality scans in the OCR process. </p>
+    <img src="{{ url_for('static', filename='assets/binarize.png') }}" alt="Binarized" class="img-fluid rounded">
+    <p></p>
+    <h6>OCR</h6>
+    <p>The second step of our process was to run all 23,000 documents through Tesseract, 
+      an open-source OCR engine by Google that recognizes and extracts text from documents. 
+      Through our research, we found Tesseract to be the most accessible and useful tool for our project. 
+      For more information as to why we chose Tesseract, please refer to the "something" section of 
+      our <a href="https://www.davidson.edu">research paper.</a> For each scan (inputted as a tif file) we produced 
+      a searchable pdf and a text file. Although the text files were comprehensible and had respectable 
+      levels of accuracy, there were still areas obfuscated by miscellaneous characters or errors in the text.</p>
+    <img src="{{ url_for('static', filename='assets/OCRPic.png') }}" alt="OCR" class="img-fluid rounded">
+    <p>See the above image for a side-by-side comparison of what 
+      Tesseract produced (left) versus what should have been produced, also known as the "Ground Truth" (right). 
+      To correct these errors and increase the accuracy of the text files, we began investigating methods of 
+      postprocessing to refine the files produced by Tesseract.</p>
+    <h6>Post Processing</h6>
+    <h6>Tool Building</h6>
+  </div>
+  <!-- TEAM CONTENT -->
+  <div id="team-content" class="tab-content">
+    <h3>Meet the Team</h3>
+    <img src="{{ url_for('static', filename='assets/Team_Picture.jpg') }}" alt="About Us" class="img-fluid rounded">
+    <p></p>
+    <p></p>
+    <h5>2024 Community Research Fellows</h5>
+    <p>Community-based research (CBR) is “a form of investigation in which the question to be studied arises from the needs of a group of 
+      individuals, such as undocumented workers or people who are homeless; from a concern of a nonprofit organization; 
+      or from the interwoven social challenges a geographic or other type of community faces (Beckman & Long, 2016, p. 1).”  
+      Over the past 10 years, the Center for Civic Engagement at Davidson has played a central role in several community needs 
+      assessments and facilitated community-based research projects through academic courses in partnership with faculty.  
+      In 2010, the Associate Dean served on the advisory board for the Lake Norman Area Community Needs Assessment and then 
+      the Center engaged students and faculty in ongoing updates to the 2010 structure in 2014 and 2018. In the summer of 2020, 
+      the Center for Civic Engagement and faculty in the Data CATS program collaborated to launch the community research fellows 
+      program that engages students in place-based community research. For more information on the Community Research Fellowship, and to see 
+      the work of past Fellows, click <a href="https://www.davidson.edu/offices-and-services/civic-engagement/community-based-learning-research/community-based-research">here.</a></p>
+    <p>This year, the Community Research Fellows took a deep dive into Davidson College history, including its connections to slavery, and 
+      how that history has shaped the community around the college. 
+      In collaboration with historian Hilary Green and the Davidson College archives, we scraped digital assets, 
+      including the Davidsonian, and built this tool that makes it easy to search, summarize 
+      and analyze them.</p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <img src="{{ url_for('static', filename='assets/hannah.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">
+    <p><strong>Hannah Holmes</strong> Class of 2026<br>Hannah is an Anthropology Major, Data Science Minor from Beaumont, Texas. 
+      She has greatly appreciated the interdisciplinary nature of the project and the opportunity to explore the Davidsonian. 
+      She is thrilled to present this tool to the community and takes immense pride in the achievements of the team.</p>
+    <img src="{{ url_for('static', filename='assets/kerem.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">
+    <p><strong>Kerem Atas</strong> Class of 2026<br>Kerem Bio Here</p>
+    <img src="{{ url_for('static', filename='assets/maryElizabeth.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">  
+    <p><strong>Mary Elizabeth Shoop</strong> Class of 2026<br>Mary Elizabeth is a Political Science Major, Data Science Minor from Asheville, NC. 
+      On campus, she works in the Writing Center, grades for the Computer Science Department, 
+      and runs on the Cross Country and Track teams. She has experience working on congressional campaigns, in policy research, 
+      and with public opinion polling.</p>
+    <img src="{{ url_for('static', filename='assets/philo.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">
+    <p><strong>Philo Gabra</strong> Class of 2025<br>Philo Bio Here</p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <h5>Faculty</h5>
+    <img src="{{ url_for('static', filename='assets/heyer.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">
+    <p><strong>Dr. Laurie Heyer</strong> <em>Associate Dean for Data & Computing, Kimbrough Professor of Mathematics and Computer Science, 
+      Chair of Genomics</em><br>Laurie came to Davidson in 2000 after a postdoctoral position in the Center for Computational and Experimental 
+      Genomics at the University of Southern California. She received my B.S. and M.S. from the University of Texas at Arlington, and was an 
+      operations research analyst before doctoral work at the University of Colorado at Boulder. As director of the genomics program and coordinator 
+      of the data science minor, she regularly supervises student projects at the intersection of mathematics, biology, and computer science, and at 
+      the intersection of data science and society.</p>
+    <img src="{{ url_for('static', filename='assets/reimer.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">
+    <p><strong>Dr. Stacey Reimer</strong> <em>Associate Dean of Students, Director of the Center for Civic Engagement</em><br>Stacey has over 25 years of 
+      experience in higher education as a practitioner and faculty member. Throughout her career, she has worked to develop student learning and 
+      leadership through various areas including community-based learning, civic engagement, leadership development, student activities, and union management. 
+      Immediately prior to coming to Davidson, she served as a lecturer in the Higher Education graduate program at Syracuse University and was involved with the 
+      development of innovative curricula around learning communities, community-based learning, and critical reflection. As Associate Dean of Students & Director 
+      of the Center for Civic Engagement at Davidson, she provides campus and community-wide direction and supervision for major programs and activities in the 
+      areas of Civic Engagement and Leadership including the coordination of community partnerships, support to faculty in the area of community- based pedagogy, 
+      and oversight for major programs. She also works on Title IX complaint resolution processes for students and division-wide learning outcome assessment efforts. 
+      Each spring, she teaches a seminar in Sociology that focuses on community engagement and change.</p>
+    <img src="{{ url_for('static', filename='assets/condor.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">
+    <p><strong>Dr. Aubrey Condor</strong><em></em><br>Dr. Condor Bio Here</p>
+    <img src="{{ url_for('static', filename='assets/green.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">
+    <p><strong>Dr. Hilary Green</strong><em> James B. Duke Professor of Africana Studies</em><br>Hilary has a Ph.D. in History from the University 
+      of North Carolina at Chapel Hill; M.A. in History from Tufts University; and B.A. in History with minors in Africana Studies and Pre-Healing 
+      Arts from Franklin and Marshall College. Prior to coming to Davidson for the Vann Professor of Ethics in Society, 2020-2021, she worked as 
+      an Associate Professor in the Department of Gender and Race Studies at The University of Alabama. Her work explores the intersections of 
+      race, class, and gender in pre-1920 African American history, Reconstruction Studies, and Civil War Memory.</p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <h5>Special Thanks to</h5>
+    <p><strong>Michael Blackmon</strong> Instructional & Research Computing Systems Administrator</p>
+    <p><strong>John McCann</strong> Director, User Services and Experience</p>
+    <p><strong>Luke Aeschleman</strong> Cloud Solutions Architect</p>
+    <p><strong>Molly Kunkel</strong> Digital Archivist</p>
+    <p><strong>Jessica Cottle-Hart</strong> Justice, Equality and Community Archivist</p>
+    <p><strong>Jacob Heil</strong> Assistant Director of Digital Learning</p>
+  </div>
+
+
+  <script>
+
+    // This function is the user-side search call that sends the request to the server
+  function performSearch(sortCriterion) {
+
+    // Getting the query
+    var query = document.getElementById('search-input').value;
+
+    // Processing the query as ajax request
+    $.ajax({
+        url: '/search',
+        type: 'GET',
+        data: { q: query },
+        success: function(data) {
+          // Sorting logic based on the criterion
+          if (sortCriterion === 'date') {
+                data.sort(function(a, b) {
+                    return new Date(a.date) - new Date(b.date);
+                });
+            } else if (sortCriterion === 'score') {
+                data.sort(function(a, b) {
+                    return b.score - a.score;
+                });
+            }
+            var resultsDiv = $('#search-results'); // search results id for interface functions???
+            resultsDiv.empty(); // this is reseting the results each time
+            resultsDiv.append('<a> Appears in ' + data.length + ' issues </a>'); //how many issues are hits 
+            if (data.length > 0) { //only show download csv button if there are search results being shown 
+                resultsDiv.append('<button id="download-csv-btn" class="btn btn-secondary" type="button" onclick="downloadCSV()">Download CSV</button>');
+            }
+            
+            // The data shown for each search hit:
+            data.forEach(function(item, index) {
+                var collapseId = 'collapse' + index;
+                var matchingLines = item.matching.map(function(match) {
+                    var highlightedContext = match.context.map(function(contextLine) {
+                      var regex = new RegExp(`\\b${query}\\b`, 'gi');
+                        return contextLine.replace(regex, function(matched) {
+                            return `<span class="highlight">${matched}</span>`;
+                        });
+                      }).join(' ');
+                    return `
+                        <div class="context">
+                            <p><strong>Line ${match.line_number}:</strong><br>
+                            <span class="context-text">${highlightedContext}</span></p>
+                        </div>
+                    `;
+                }).join('');
+                resultsDiv.append(`
+                    <div class="card">
+                        <div class="card-header" id="heading${index}">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#${collapseId}" aria-expanded="true" aria-controls="${collapseId}">
+                                    ${item.title}
+                                </button>
+                                <a href="${item.url}" target="_blank" class="btn btn-link">View Document</a>
+                            </h2>
+                        </div>
+                        <div id="${collapseId}" class="collapse" aria-labelledby="heading${index}" data-parent="#search-results">
+                            <div class="card-body">
+                                ${matchingLines}
+                            </div>
+                        </div>
+                    </div>
+                `);
+            });
+           
+            // Show the download CSV button after search results are displayed
+            $('#download-csv-button').show();
+            $('#sort-by-date').show();
+            $('#sort-by-score').show();
+          }
+    });
+}
+
+    // This function is the same user-side search call and performSearch(), but with the advanced search filters
+  function performAdvancedSearch() {
+    var keyword = $('#keyword').val();
+    var dateFrom = $('#date-from').val();
+    var dateTo = $('#date-to').val();
+    var contextLines = $('#context-lines').val();
+
+    $.ajax({
+        url: '/search',
+        type: 'GET',
+        data: { 
+            q: keyword,
+            date_from: dateFrom,
+            date_to: dateTo,
+            context_lines: contextLines
+        },
+        success: function(data) {
+            var resultsDiv = $('#advanced-search-results');
+            resultsDiv.empty();
+            resultsDiv.append('<a> Appears in ' + data.length + ' issues </a>');
+            if (data.length > 0) { 
+                resultsDiv.append('<button id="download-csv-btn" class="btn btn-secondary" type="button" onclick="downloadCSV()">Download CSV</button>');
+            }
+            data.forEach(function(item, index) {
+                var collapseId = 'collapse' + index;
+                var matchingLines = item.matching.map(function(match) {
+                    var highlightedContext = match.context.map(function(contextLine) {
+                        var highlightedLine = contextLine.replace(new RegExp(keyword, 'gi'), function(match) {
+                            return `<span class="highlight">${match}</span>`;
+                        });
+                        return highlightedLine;
+                    }).join(' ');
+                    return `
+                        <div class="context">
+                            <p><strong>Line ${match.line_number}:</strong></p>
+                            <p class="context-text">${highlightedContext}</p>
+                        </div>
+                    `;
+                }).join('');
+                resultsDiv.append(`
+                    <div class="card">
+                        <div class="card-header" id="heading${index}">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#${collapseId}" aria-expanded="true" aria-controls="${collapseId}">
+                                    ${item.title}
+                                </button>
+                                <a href="${item.url}" target="_blank" class="btn btn-link">View Document</a>
+                            </h2>
+                        </div>
+                        <div id="${collapseId}" class="collapse" aria-labelledby="heading${index}" data-parent="#advanced-search-results">
+                            <div class="card-body">
+                                ${matchingLines}
+                            </div>
+                        </div>
+                    </div>
+                `);
+            });
+        }
+    });
+}
+
+    // Server call to allow users to download csv of all their search results
+  function downloadCSV() {
+    var query = document.getElementById('search-input').value || document.getElementById('keyword').value;
+    var dateFrom = document.getElementById('date-from').value;
+    var dateTo = document.getElementById('date-to').value;
+    var contextLines = document.getElementById('context-lines').value;
+
+    var url = `/download_csv?q=${encodeURIComponent(query)}&date_from=${encodeURIComponent(dateFrom)}&date_to=${encodeURIComponent(dateTo)}&context_lines=${encodeURIComponent(contextLines)}`;
+    window.location.href = url;
+}
+
+
+    $(document).ready(function() {
+
+      // Event handlers for sorting buttons
+      $('#sort-by-date').click(function() {
+        performSearch('date');
+    });
+
+      $('#sort-by-score').click(function() {
+        performSearch('score');
+    });
+      
+    // Add click event listeners to vocabulary terms
+      $('.vocab-item').click(function() {
+        var term = $(this).text();
+        $('#search-input').val(term);
+        showTabContent('#home-content');
+        performSearch();
+      });
+
+      // Refresh the page when you click home tab or archive search icon
+      $('#home-link, #archive-search-icon').click(function() {
+        location.reload();
+    });
+
+      // Show specific tab content
+      function showTabContent(contentId) {
+        $('.tab-content').hide(); // Hide all tab contents
+        $(contentId).show(); // Show the selected tab content
+      }
+
+      // Add an event listener to the search input field to detect the "Enter" key press
+      $('#search-input').on('keypress', function(e) {
+        if (e.which == 13) { // Enter key corresponds to key code 13
+            performSearch();
+        }
+    });
+
+      // LINKS
+      $('#home-link').click(function() {
+        showTabContent('#home-content');
+      });
+      $('#instructions-link').click(function() {
+        showTabContent('#instructions-content');
+      });
+      $('#about-link').click(function() {
+        showTabContent('#about-content');
+      });
+      $('#cv-link').click(function() {
+        showTabContent('#cv-content');
+      });
+      $('#team-link').click(function() {
+        showTabContent('#team-content');
+      });
+      $('#go-to-cv').click(function() {
+        showTabContent('#cv-content');
+      });
+      $('#advanced-search-link').click(function() {
+        showTabContent('#advanced-search-content');
+      });
+      $('#go-to-advanced-search').click(function() {
+        showTabContent('#advanced-search-content');
+        });
+      $('#go-to-instructions').click(function() {
+        showTabContent('#instructions-content');
+        });
+      
+      // // Show home content by default
+      showTabContent('#home-content');
+    });
+
+  </script>
+
+  <!-- Bootstrap and jQuery scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

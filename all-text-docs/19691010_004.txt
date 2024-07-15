@@ -1,0 +1,959 @@
+Lal
+
+v
+
+Page Four
+
+October 10, 1969
+
+The DBavidsoriat
+
+Visiting Mathematician
+Resolves Map Problem
+
+By BILL BECKMAN
+Staff Writer
+
+Using only four colors, can
+you color a_ political map
+so that no two adjacent
+have the same
+color? This problem, a sim-
+plified version of one that
+has baffled mathematicians
+for over a hundred years,
+has been solved by Dr.
+Joseph Miller Thomas,
+former editor of the
+Mathematical Journ and
+former Director of Graduate
+Study in Mathematics at
+Duke.
+
+On October 1, Thomas pre-
+sented his proposed solution
+to a group of Davidson stu-
+
+countries
+
+dents and faculty members
+gathered at Jackson Court
+for a math coffee. His talk
+
+entitled
+of Equations of ~*
+
+was “A System
+GF(3)."
+Thomas discussed a special
+theory of equations, applying
+it t0 what he called ‘a
+famous problem of geometry
+which has received more at-
+tention than it
+For fifteen
+realized what
+
+deserves.”
+minutes
+the
+was,
+
+no one
+“famous
+
+problem” until Dr.
+
+Bernard recognized that
+Thomas was proposing a
+solution to the four color
+
+problem.
+This presenation at
+
+Duke. ~
+
+Davidson College marked the
+first time that Thomas has
+
+revealed his work on the
+problem.Thomas was invited
+to speak at Davidson by Dr.
+
+William G. McGavock and
+Dr. R. Bruce Jackson, pro-
+fessors of mathematics, both
+of whom had studied under
+Drs .Thomas when working
+on their doctorates «*
+
+The preblém itself is one
+of the most famous mathe-
+matical conjectures. It seems
+to have been proposed first
+by Moebieus in 1840. The first
+solution to the problem was
+published by Kempe in 1879,
+but in 1890 Heawood showed
+that Kempe’s reasoning was
+faulty. The fact that more
+than ten years. elapsed be-
+fore atiyone found an error
+in Kempe’s~ work implies
+that it may be some time
+before Thomas solution is
+accepted as valid by
+the mathematical communi-
+ty. But regardless of the
+final outcome, Thomas’ ap-
+proach to the problem is it-
+self a significant mathemati-
+cal contribution.
+
+Thomas’ approach is par-
+tially based on a result ob-
+tained earlier by the mathe-
+matician @, Veblen, ‘who
+showed that the solution of
+the four color problem was
+
+Up ’n , Coming
+
+Friday, October 10
+
+p.m. Soccer
+
+Davidson vs.
+
+p.m. JV ,Bootball
+Davidson vs
+
+p.m. Cross Country
+
+Davidson vs. Furman
+
+8:03 p.m. film festival
+
+Lees
+
+Greenville, S. C.
+
+Furman
+
+Here
+
+McRae
+Here
+
+Morrison Room
+
+-.“Smiles of g Summer Night”
+
+Saturday, October 11
+2 p.m. Football
+
+Here
+
+Davidson vs. Richmond
+
+4 p.m. after game get together
+
+8:03 p.m. film festival
+
+Morrison Room
+Morrison Room
+
+“Smiles of a Summer Night”
+
+Monday, October 13
+
+8:15 p.m. National Ballet
+of Washington
+
+Tuesday, October 14
+4 p.m. Cross Country
+
+Davidson vs.
+
+8:03
+
+Ovens Auditorium
+
+Here
+
+Wake Forest
+
+Morrison Room
+
+p.m. Movie:
+“Stagecoach’
+Wednesday, October 15
+
+11 p.m. Vietnam Moratorium Morrison Room
+Mr. L. F. Griffin
+
+3 p.m. Soccer Here
+Appalachian State :
+
+8:15 p.m. Charlotte Ovens Auditorium =
+
+Symphony Orchestra
+
+Thursday, October 16
+8:03 p.m. Movie:
+
+“Stagecoach”
+8:15 p.m. “‘The Countess Cathleen”
+
+Morrison Room
+
+St. Albans =
+
+. . « Moratorium
+
+(Continued From Page 2)
+
+ward peace. Over 5% of our
+troops were called out this
+summer with plans for 8%
+to 9% of the remaining forces
+to be pulled out in a month.
+
+This may seem unimpres-
+sive to someone who de-
+mands a total pullout im-
+mediately, but consider
+
+e Nixon’s progress compared
+to that of the past two ‘‘more
+liberal’’ presidents.
+
+(My point is this: The Pre-
+sident is due a pat on the
+back and not a slap in the
+face. Encouragement from
+
+would
+the
+
+the student masses
+double his efforts in
+coming months.
+
+Pressure may cause him
+to change his’ tack away
+from troop pullouts to some-
+thing else, maybe. less pro-
+gressive,
+
+One final point: Is it fair
+for the Davidson Collee Ad-
+ministration to respect. one
+opinion on campus by disen-
+franchising a privilege of the
+whole student body—even if
+this privilege is merely a
+single day of classes?
+
+Scott Carter ‘71
+Davidson’ College
+
+. .. Correction
+
+(Continued From Page 2)
+
+gave very sophisti-
+cated treatment to the
+*‘polycentrism’’ phenomenon
+
+among communist countries
+and the required readings
+were from excellent profes-
+sional journals.
+
+The instructor, a major,
+was described as a real ex-
+cention on the faculty by the
+students with whom I talk-
+ed.
+
+(2:) I was impressed by
+the disciplinary barracks
+(the “D.B."’) and the pro-
+gressive ideas on treatment
+
+of prisoners held by the
+colonel in charge.
+(3.) One of the nicest
+
+aspects of the trip was the
+fellowship. We got to know
+Col. Foster, an outstanding
+gentleman.
+
+Finally, the hospitality at
+Ft. Leavenworth was first-
+rate. But it should not: serve
+to dull one’s critical facul-
+ties. After all, we were tax-
+pzyers visiting a tax-sup-
+ported government institu-
+tion.
+
+William E. Jackson Jr.
+
+Davidson College
+
+equivalent to the solution of
+a system of linear equations.
+Thomas considers a: system
+of equations in a {certain
+algebraic structure which is
+called a Galois field of or
+det? three; in other words,
+he studies a system of equa
+tions in GF(3).
+
+Anyone who is familiar
+with the definition of a field
+can easily verify that the
+three integers -1, 0 and 1
+form a field under the usual
+operations of additions and
+multiplication if the excep
+tions are made that 1 plus
+1 equals -1 and -1 plus (-1)
+equals 1. This field is es-
+sentially GF(3).
+
+A “map” consists of arcs,
+faces, and Ona
+geographical these
+three terms
+boundaries,
+points
+meet. A “regular map”
+map where exactly three
+ares meet at each vertex.
+A simple characterization of
+Thomas’ proof -is that he
+showed that regular
+map_on a sphere can be
+assigned numbers from GF
+(3) in such a way. that each
+arc
+
+vertices.
+map,
+correspond to
+and
+boundaries
+
+countries,
+Where
+
+is a
+
+each
+
+s assigned one of the
+r. R
+
+numbers -1, 0, 1 and
+
+no vertex arcs
+
+three
+has. two
+which have been assigned the
+same number of GF(3).
+Thomas has been a semi
+retired mathematician work
+ing as a consultant in Phila-
+delphia. After a distinguished
+career as a mathematician
+and an educator, he feels
+ready to “Thomas'
+
+La&t
+
+an impressive
+
+retire.
+Theorem” is certainly
+
+denouement
+
+(Staff Photo by Ramachandran)
+
+SOPHOMORES OUT OF STEP WITH ROTC
+(See Story, Page Six.)
+
+Heart Storage
+Advances Seen
+
+A new method for the stor-
+age of donor hearts to be in-
+volved in transplant opera-
+-tions was presented by Dr.
+Francis Robiscek in his talk
+to Alpha Epsilon Delta\(AE-
+D) pre - med. honorary on
+Wednesday.
+
+Robiscek delivered his re-
+port with a film of his work
+to over one hundred people
+who attendéd the meeting.
+Perhaps the most prominent
+thoracic surgeon in  Char-
+lotte, Robiscek based his re-
+port on work done by he
+and his colleagues at Char-
+lotte Memorial Hospital.
+
+Basically the method _ in-
+volves the excision of both
+the heart and the lungs from
+
+Nyro’s Maiden Album ‘Very Heavy’
+In Lyrics, Melody, Performance
+
+A REVIEW
+
+By ASHTON TRICE
+Staff Writer
+
+One should be skeptical of
+a reviewer who isy entirely
+enthusiastic. So, if you must,
+
+be skeptical, because I'm
+very enthusiastic about
+Laura Nyro’s album “Eli
+
+and .the ‘Thirteenth Confes
+sion.”’ In fact, about the only
+bad thing I can say about it
+sometimes she ob-
+lyrics by. doing
+with her
+
+is ‘that
+scures the
+wonderful things
+voice.
+
+You probably ask, Who is
+Laura Nyro?
+
+Well,
+of the
+Dimension
+
+written many
+songs that the Fifth
+recorded,
+
+she's
+
+has
+
+Free 6 Courses
+
+Maintain
+
+Birth control student acti
+vism, theory, Marx-
+ism, courses dealing with all
+of these topics, and others as
+well, will be offered by the
+Davidson Free University in
+its fall term this year.
+
+guitar
+
+The Free University is an
+educational
+mented at Davidson last year
+
+concept imple-
+to provide a new channel for
+exploration in education and
+to complement the already
+existing facilities at David-
+son.
+
+Last year’s program was
+a tremendous success (Ac-
+cording to student co-ordina-
+tors,) in spite of some fin-
+ancial difficulties, “and an
+even more exciting curri-
+culum is predicted for 1969-
+
+70. a BER. (
+
+Variety
+
+Courses to be offered this
+term include Beyond Con-
+ception (a study. of the pop-
+ulation explosion and-its sub-
+sequent effects, taught by
+Jimmy Trussell), Sculpture
+(Dr. Clark),. A History
+of Davidson College (Dr.
+Davidson), Personal Finance
+(Dr. Griffin), and Astronomy
+(Dr. Manning).
+
+Other offerings deal with
+guitar theory and ham
+radio, and there is even a
+
+course entitled DON'T
+MUMBLE WHEN YOU
+TALK TO ME!!!
+
+A hand-picked group of
+students has already been
+selected to participate in an
+Encounter series of discus-
+sions and_ studies between
+Davidson and Queen’s stu-
+dents.
+
+Upperclassmen
+
+By PAUL JOHNSON
+Staff Writer
+
+On October 14, upperclass-
+men will elect SGA dormi-
+tory senators, RHC repre-
+sentatives, a Senior Class
+Cheerleader, and one Junior
+Class Senator. As of October
+6 the following candidates
+had. qualified:
+
+For SGA Senate: Roger
+Mills, Craig Garner, and
+Cliff Duke for Little; Al Nor-
+ris, Robin Gray, Danny
+‘Clodfelter, and Charlie Sum-
+mers for East Belk; Doug
+Gentry, Daniel Johnston,
+Joseph Turner, and Bill May-
+field-for West Belk; and
+Lawrence Wilkinson, Ben
+Lacy and Jonny Jewett for
+Center Belk.
+
+_All dorms had candidates
+for the RHC: for Duke they
+are Edward Dial and P. B.
+Irky; for Little, Bill Gre
+gory, Vance Simpson, and
+Jim Durant; for Richardson,
+
+Choose Tuesday
+
+Bob Wood and Stephen
+Roady; for East Belk, Don
+Parman and Steve Cross;
+for West Belk, Bob Stubbs,
+Ken Prestwich, and Tom
+Holcomb; and for Center
+Belk, Hal Mapes and David
+Russell.
+
+Candidates who wish their
+platforms to be mimeo-
+graphed may obtain a sten-
+cil from Jim Hinshaw
+(C211). -
+
+Freshman elections will be
+held October 21. Posts open
+to freshmen are: freshman
+RHC _representative, dorm
+senators,_reshman Class
+senator, 4nd one freshman
+cheerleader. These elections
+involve East, Watts, and
+‘Cannon dorms.
+
+In the fourth week of the
+winter term class senators
+will be elected and take of-
+fice, except for the class
+senator elected by the fresh-
+men; he will take office next
+year.
+
+“Sweet Blindness” and
+“Stoned Soul Picnic,’ which
+are on this album. If you
+liked the Dimension’s, you'll
+prefer her versions.
+
+But don't go on just that,
+because these two songs are
+the least impressive of the
+album.
+
+Besides the fact that each
+song on this album is worth
+while listening, the whole al-
+bum forms a cycle, describ-
+
+ing how a woman goes
+through an ‘inner journey,
+
+and gets & a series of bad
+: a
+
+trips (fri , pkeoverty,,
+
+dope, mer a joyous rela-
+
+tion to life fhat can lead her,
+at the end of the
+to shout: I confess
+fovething/Love is surely gos
+pel.”
+
+last. song,
+Love my
+
+\
+
+This album is a rarity ‘in
+poputar music: it is woman
+ly. Perhaps Laura’ Nyro’s
+only. Counterpart is Janis
+Ian, but two things make her
+better than Janis Ian. First,
+she looks at bad experiences
+after their resolution: Janis
+Tan is still bitter, but Laura
+Nyro is at peace with herself
+and her world, and’ for that
+alone she deserves. a~hear-
+ing.
+
+The second difference is
+the music itself. Janis Ian
+is writing from a traditional
+folk background. But Laura
+Nyro is under the influence
+of Motown (don’t be turned
+off) and Broadway, of the
+Blues, .and poets like
+Donovan and John Lennon.
+True, she does not do hard
+rock, so if you're of the
+opinion that nothing but
+“Blind Faith’? and Hendrix
+are worth listening to, you
+might be disappointed.
+
+But I doubt that you can
+fail to be moved by the sim-
+ple lyricism of an exquisite
+song like ‘‘Emmie,"’ about
+the strength found in friend-
+ship, or the incredibly pow-
+erful song in which she dis-
+covers her basis for life,
+“The .Confession,’’ a mind-
+
+blower about transcendental ~
+
+sexual experinece.
+
+On a campus such as
+Davidson, we might not want
+to look at the-womanly. point
+of view—true, it’s foreign,
+but her music and poetry
+(with such beautiful lines as:
+“See your brains on the floor/
+become God/become cripple/
+become funky . ’ about
+
+sweet cocaine) have magic
+in them, and her voice more
+
+than measures up to her
+songs. This album is very,
+
+very heavy, in every aspect:
+
+lyrics, melody, and perform-
+ance. Laura Nyro must be a
+very special person—mystié,,
+sensual, beautiful, fresh; I
+can't find the right words.
+
+the donor td form a closed
+system in which the heart
+may be maintained for up to
+27 hours by automatically
+perfusing itself and the
+lungs.
+
+The major advantage of the
+autoperfusion method is that
+it maintains the heart with
+a minimum of mechanical
+equipment. Conventipnal sy-
+stems may require an en-
+tire heart-lung machine to
+maintain a heart whereas
+Robisceks method requires
+only a simple air pump to
+bring oxygen to the lungs.
+
+The hearts may be obtain-
+ed from cadavers, and when
+prepared may be stored and
+plastic bags.
+
+Robiscek, however, did not
+forsee many chances for a
+great increase in heart
+transplant success until ad-
+vances are made in the field
+of overcoming the body's
+automatic rejection systems.
+
+He did predict that im-
+proved techniques will
+make heart transplants clin-
+ically feasible before artifi-
+ficial hearts can be made.
+
+STEP Reorganized
+
+For Better Service
+
+By BILL LINEAWEAVER -
+Staff Writer
+
+The Student Tutorial Edu
+cation Program, or STEP.
+the gospel extension
+of Davidson's YMCA has
+carried out a major intemal /
+hopes of
+making itself a more useful
+and coherent organization.
+
+social
+
+reconstruction in
+
+Originally founded to pro-
+vide a tutorial service for
+Davidson-Cornelius-area_ele-
+mentary-school children
+who find themselves in aca-
+demic trouble, STEP now
+wants to extend its activities
+to new areas of individual
+and community activity
+ranging from
+Mooresville.
+
+“Last year STEP was run
+very loosely by its leaders,”
+said James Parks, the pre-
+sent chairman of STEP. ‘‘No
+one’ knew what
+was doing.
+
+“This year, we are going
+to be organized enough to use
+all of our resources. We are
+going to do new things, and
+do the old things better.”
+
+The major structural
+change in STEP is the esta-
+blishment of three vice -
+chairmanships, each of which
+deals with a specific area
+in which STEP will be ac-
+tive this year.
+
+The tutorial program will
+be headed by Bill Naylor.
+Besides those from David-
+son and Cornelius, children
+from Mooresville will be in-
+cluded.
+
+According to Parks, the
+emphasis of the program
+will be changed’ from. ‘‘the
+academic-buddy relationship
+to an emphasis or the de-
+veloping personality of each
+kid involved.”
+
+About 50 Davidson students
+are expected to be partici-
+pating as tutors.
+
+STEP will also be working
+
+BAVORS glse
+
+Charlotte to
+
+with teen-agers in Charlotte
+and the Davidson area. This
+effort to’ become involved
+with junior high and high
+schcol students will be head
+ed» by Reggie Kennedy, a
+
+“freshman from Charlotte.
+
+{
+The third area will be that
+°
+
+of “community research,’”
+Headed by Vernon. Odum,
+this group will attempt to
+study, social problems in and
+around Davidson.
+
+A fourth vice-chairman,
+Adrian Long, will deal with
+daily admistration. ,
+
+Newspaper Wins 15th
+ACP Alt-American Prize
+
+This week THE DAVIDSONIAN continued its win-
+ning: Streak as it picked up its.15th straight All-Ameri-
+can rating from the Associated Collegiate Press.
+
+The All-American award is the highest rating
+given by the ACP. The judges granted the paper 3600
+points out of a possible 4000, well over the 3000 need-
+
+ed for the top rating.
+
+“You certainly dug for the news and hung on
+like bulldogs,’’ said the judge, who also made com-
+ments in his evaluation booklet on. THE .DAVIDSON-
+IAN’s “good reporting” and “forthright, documented
+and vigorous (editorial) policy.”
+
+In the evaluation the ACP awarded the paper
+marks of distinction in four of five areas: coverage
+and content, writing and editing, editorial leadership,
+
+and physical appearance.
+
+_The award was based on the issues published
+during the second and third terms of the 1968-69
+school year, under the editorships of Robbie Hooker,
+Franklin Anderson and Bob Dunham. ~
+
+The evaluation» was complimentary in all areas
+except one. In its only major criticism, the ACP award-
+ed only 75 per cent of the possible points for photog-
+
+raphy.
+
+Phone 892-2111
+
+PARKS REXALL DRUGS
+Hours: 9 A.m. to 8 P.M. — Sunday 9:30 to 10:30
+Davidson, N. C.
+Complete Prescription Service — Sundries — Toiletries
+
+Cosmetics — Russell Stover Candies
+
+131 N. Main St.
+
+MONEY
+
+Pick up a few dollars per week selling
+advertising for
+THE DAVIDSONIAN
+Contact Jack Wellman, R210, or
+Come by the office Sunday night at 10.
+
+SHRUDE M. F. HOLDEN CO.
+
+CHARLOTTE’S NO. 1 Boutique
+ziti 200 independence
+
+Belts, Unisex, Body Shirts
+Bell Bottoms, Leather & Incense
+
+~
+
+MEET YOUR FRIENDS
+
+GONDOLA RESTAURANT
+
+W. INDEPENDENCE AT WILKINSON BLVD.
+CHARLOTTE
+WHILE ENJOYING
+THE BEST «
+
+PIZZA and SPAGHETTI
+
+Before or After the Game
+Call Us For Your Needs For
+PARTIES OR LARGE GROUPS
+
+}
+
+We have not only
+
+Chicken but also Fish and
+Shrimp for your Satur-
+day outing.
+
+COLONEL SANDERS’ RECIPE
+
+Kentucky Fried Chicken.
+
+503 S..Broad, Mooresville, N.C. Phone 664-1505
+
+Lightly Stained
+Hand Burnished
+Leather Lined.
+
+Buckle Boot
+~ 28.00
+Buckle Oxford
+25.00
+
+BOSTONIAN’S Mansfields
+
+These Only Look Expensive
+
+Come try on a pair!
+
+You'll see what we mean ©
+
+Clothing for the Pace Setting Traditionalis*
+
+,
+
+Soha Mock & Son
+
+Our 57th Year — Mooresville
+Your Charge Account Invited
+

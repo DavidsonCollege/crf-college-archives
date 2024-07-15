@@ -1,0 +1,163 @@
+iLog in!
+
+n
+
+We’ ve got a new computer system; here’s how to use it
+
+by John Lusk ‘83
+
+. The Davidsonian sent its resident computer
+
+freak over to the computer center to find out some.
+
+stuff for all the non-computer freaks at this college:
+How do you use this new computer we just got?
+
+Logging on
+
+Well, go find a terminal. Right now, the only
+‘places you can find one are the old doctor’s offices,
+behind the post office; and the old computer room in
+basement Chambers. Sit down and tum on the
+terminal. There’s a little switch either under the front
+right corer, or way back in the back. If there’s a little
+blue box called “Gandalf” beside the terminal, turn it
+on, too. Wait for things to warm up.
+
+Now press the key labelled “New Line” after the
+terminal beeps at you. If you see an asterisk, type
+“20” and hit “New Line.” This will not show up on
+the screen, but don’t worry, it’s there. The computer
+will write “SERVICE 20,” and after. a moment,
+“START.” Press “New Line” again. Now type
+“LOGIN”, followed by your UFD, and your
+password, if you have one. Your UFD is your very
+own special thingamajig which you can ask for at the
+computer center. It stands for User File Directory. If
+you make up a password, you must enclose the whole
+thing (UFD and password) in single quotes.
+
+You are now logged into the system. Pat
+yourself on the back. Now what? You have two basic
+options. You can use the EDITOR to write stuff like a
+term paper or a letter, or you can write a program. We
+hope there will soon‘be a printer in the old computer
+
+room that will fiave some very nice print, so it won’t
+
+look like it came off a computer. There are already
+eight terminals there, four more than the old
+computer had. .
+
+Programming in the new system
+But suppose you want to write a program. Qnee
+you’re in PRIMOS (the screen says, “OK,”
+
+“ER!”), type “BASICV”, and hit “New Line.” Now.
+
+you can write a BASIC program, just like old times.
+But once you tire of Beginner’s All-purpose
+Symbolic Instruction Code (BASIC), there are more
+sophisticated options, like FORTRAN, PL/I,
+COBOL, SPSS, and PASCAL.
+
+To write a PASCAL program, for example, get
+into the EDITOR. Type in your program and save it.
+Get back to PRIMOS. (To get back to PRIMOS from
+anywhere, type “QUIT” and press “New Line”.)
+Compile the program by typing “PASCAL”,
+followed by your program's name (the name you
+saved it under), dnd “-L” (New Line). This
+transforms your program from the English of
+PASCAL, which you can understand and the
+computer can’t, to the Greek of binary numbers.
+which the computer can understand and you can’t. It
+also provides a listing so you can go back to see your
+errors.
+
+rf
+we . iat
+
+But let's assume it compiled , without. errors
+(Ha!). Now you must prepare your program to run.
+
+Type “SEG”, (New Line) to call up the segment.
+
+loader. Type “LOAD”, followed by your program’s
+name immediately preceded by a “ ”-(New Line).
+Type “LO” and the name of the file which contains
+your compiled program. This: loads -your program
+into the runfile named ““ PROGRAM”, Type “LI
+PASLIB,” (New Line) and “LI”, (New Line). This
+loads the various library modules your program calls
+for: The terminal should say, “LOAD COMPLETE”.
+Now type “EX” (New Line). The computer will save
+your runfile and then execute your program.
+
+Editing
+A word about the EDITOR: It has two modes,
+
+‘INPUT and EDIT. EDIT is nor the EDITOR. it’s just
+
+a part of the EDITOR. To get into the EDITOR, you
+must first be in PRIMOS. Type “ED” (New Line),
+and you are in the EDITOR. When you’re in INPUT,
+everything you type goes in as data. If you type “ED”
+in INPUT, that goes in as data. To get to EDIT, press
+
+“New: Line” twice. When you're in EDIT, everything
+MOM.” in the EDIT mode, the s screen will print,“*?”
+because “DEAR MOM"”..is ‘not a. valid EDITOR
+command. If you type * ‘ED” in the EDIT mode, the
+screen will print, “?” , because “ED” is not a valid
+EDITOR command. (It is a PRIMOS command.) To
+get to INPUT. press “New Line” twice.
+
+Obtaining output
+
+Now, if you want a hard copy of your program
+or EDITOR output, here’s what you do. In PRIMOS,
+type “COMO”, followed by the filename under
+which you want your output to appear. Then run your
+program. When it ends, type “COMO -END”. Then
+type “SPOOL”, followed by the COMO filename,
+followed by “—AT”
+which you want your output to appear. Voild!.
+
+To wind up: these are the doors you have
+available to choose from in the new computer system.
+The keys to those doors lie .in the manuals strewn
+around the terminals. Go rummage around in them —
+you might have some fun.
+
+The new computer system tells vou what vou need to know in minutes,
+as opposed to davs. People can talk directly to the computer now, too. If.
+something goes wrong, you have only vourself (or the computer) to blame.
+
+‘
+oe oe we oe oe oe ob we ot oe oe oe ees
+
+Lo oe wefee emwe es emece
+
+¢ RESULTS IN DAYS
+
+& ee nece co seew an acess sauce
+
+-
+
+peone ‘“e wo Oe ne aw me oe oe we ay
+
+im RESULTS IN MINUTES
+
+ane 08 08 ae we os we se
+
+RELATED
++DATA+ID —
+
+COMPUTER
+
+DAVIDSONIAN / Friday 23 October 1981. °*
+
+. and the name of the printer at
+
+graphic by Scot Myers

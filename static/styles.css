@@ -1,0 +1,148 @@
+
+
+/* BODY */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #F2F2F2;
+  color: #333;
+  padding-top: 20px;
+}
+
+
+
+/* NAVIGATION BAR */
+.navbar-custom {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+}
+.nav-link {
+  color: #666;
+}
+.navbar-custom .nav-link:hover {
+  color: rgb(14, 13, 13); /* Text color on hover */
+}
+
+
+
+/* SEARCH BAR */
+#search-bar {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+
+/* SEARCH RESULTS */
+#search-results {
+  margin-top: 20px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+/* CONTROLLED VOCAB */
+#controlled-vocab {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#controlled-vocab h3 {
+  color: #CE1B1B;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+#controlled-vocab h4{ 
+  color: #CE1B1B;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#controlled-vocab p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+#controlled-vocab h5{ 
+  color: #CE1B1B;
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+}
+#controlled-vocab li{ 
+  font-family: 'Times New Roman', Times, serif; 
+}
+#vocab-list li:hover {
+  color: #CE1B1B;
+  cursor: pointer; 
+}
+#vocab-list li.extra-space {
+  margin-bottom: 20px; /* Add more space after these items */
+}
+
+
+
+/* SEARCH BUTTON */
+.btn-maroon {
+  background-color: #CE1B1B;
+  color: #fff;
+  border-color: #CE1B1B;
+}
+.btn-maroon:hover {
+  background-color: #B40000;
+  border-color: #B40000;
+}
+
+
+
+
+#content-area { 
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#content-area h3{ 
+  color: #CE1B1B;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#content-area h5{ 
+  color: #CE1B1B;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+#content-area img{ 
+  max-width: 50%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.highlight {
+  background-color: yellow; /* Highlight color */
+  font-weight: bold;
+}
+
+

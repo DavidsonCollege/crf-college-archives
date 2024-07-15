@@ -1,0 +1,236 @@
+THE DAVIDSONIAN
+
+NEws
+
+TUESDAY, FEBRUARY 16,1999 5
+
+Christian coordinates physics web curriculum
+
+Continued from page 3
+
+Lee’s program, “Optics Bench,” allows
+students to simulate standard optic elements such
+is lenses, mirrors, light sources and apertures, and
+o observe the way in which light rays pass through
+hem. The program allows users to change the
+ocation of elements by simply clicking and drag-
+zing them. It also simulates more complex sys-
+ems such as laser cavity, a mirror exhibiting
+spherical aberrations and an optical fiber. The
+rogram also presents students with nine prob-
+ems keyed to the conceptual understanding of
+yptics they gain from the interactive graphical
+simulation.
+
+The magazine wrote, “The judges were im-
+oressed with the overall quality of ‘Optics Berich,’
+ts ability to be delivered to any student over the
+Web, and the wide range of explorations it makes
+dossible.”
+
+Christian said that Lee’s program illustrates
+yne of the most valuable aspects of instruction by
+-hyslets. “It allows you to create situations that
+you can’t replicate with real life materials,” he
+said. “That’s why we call these ‘media-focused’
+sroblems rather than multimedia—you have to in-
+eract with the medium to understand it.”
+
+The computers in Physics magazine contest
+udges agreed that the winning entries achieved
+something that is difficult to do in writing peda-
+zogical software,“engaging students in activities
+that will teach them something tangible . . . Stu-
+dents must do more than click and watch. They
+must be engaged in a process that regularly stimu-
+(ates cerebral activity. . . Ideally, the program
+should approximate an authentic dialogue between
+a learner and an expert.”
+
+Christian believes this approach to learning
+is better than traditional methods because it effec-
+tively teaches conceptual understanding and test-
+ing data being collected by physics education
+researchers supports his belief. He said, “Software
+must be able to do something you can’t do on the
+printed page with text and pictures. It should help
+students visualize abstract concepts such as phase
+relations in circuits or a mathematical formula, so
+that they can interact with it and see the results of
+that interaction.”
+
+Media-focused instruction takes advantage
+of the World Wide Web in ways that Christian
+believes are too rarely used. He explained, “The
+web is often used to publish megabytes of infor-
+
+discussions or extend beyond what the class has
+been studying. Students stay on-time and on-task
+by using the Web to create a feedback loop. By
+reviewing their assignments before class, Chris-
+
+@ Wolfgang ristian
+
+mation that could just as well have been printed on
+a page. But that’s not likely to have an impact on
+learning. You’re not changing the pedagogy or
+approach to what the student does. We’ re trying to
+change the basic approach.”
+
+In addition to the interactive Physlet pro-
+grams on the Web, Christian relies heavily on a
+“Just In Time Teaching,” (JiTT) technique in
+conjunction with Drs. Novak and Patterson. For
+homework assignments, students work Physlet
+problems on the Web that correspond to class
+
+Breathing once again:
+1999 Quiz Bowl revival
+
+Continued from previous page
+
+said, “We are extremely pleased with our victory
+in the College Bowl tournament. We worked hard
+to build a competitive team and feel confident
+heading into the regionals at Virginia Tech this
+weekend.” Marvin also said, “I think we’re
+sending some good people there (to the tourna-
+ment).”
+
+Coordinating the event with the help of Jer-
+emy Campbell ’02 and the Union staff, Marvin
+began making plans three weeks before the bowl.
+He explained that his original intention had been
+to start forming Quiz Bowl teams at the beginning
+of first semester, but that sufficient funding was
+not available from the Union Board until recently.
+Marvin would like to see the creation of a travel-
+
+“Davidson was the only small
+liberal arts school to win the
+National Quiz Bowl in the past
+twenty years.” To accomplish
+this win, Davidson beat Harvard
+in 1979.
+
+ing team which would pull from the entire cam-
+pus. - “It’s going to take lots of students to be
+involved,” Marvin said about the creation of a
+traveling team because he believes that an intra-
+mural Quiz Bowl competition would be neces-
+sary. From the intramural teams, the traveling
+team members would be picked on the basis of
+their performance. Tochoose these people, Marvin
+said that someone would have to keep statistics
+about who answers the quickest and who excels at
+
+certain types of questions. Evenifa traveling team
+is not possible, Marvin hopes at least that earlier
+
+Before its decline, the Quiz Bowl,
+. .. had been “huge in the
+seventies and eighties” at
+Davidson.
+
+planning and more volunteer support will be avail-
+able for next year’s Quiz Bowl, which Campbell
+will coordinate.
+
+Britton Taylor’ 98 revived the Davidson Quiz
+Bowl last year after it had disappeared at the end
+of the eighties. Last year, the Eumenean Society;
+whose members consisted of Marvin, Campbell,
+Soltys, and Mike Newman’01 won the tournament
+with the FIJI team, of which White was a member,
+taking second place. The Davidson team then won
+fourth place at the regional competition against
+thirteen other teams, including teams from large
+universities.
+
+Before its decline, the Quiz Bowl, Marvin
+reported, had been “huge in the seventies and
+eighties” at Davidson. Every eating house, frater-
+nity, hall, and organization had a team, and those
+teams competed in an intramural system. From
+this system, the four member College team was
+chosen. Marvin said, “Davidson was the only
+small liberal arts school to win the National Quiz
+Bowl in the past twenty years.” To accomplish
+this win, Davidson beat Harvard in 1979.
+
+Next weekend, Davidson’s team will com-
+pete with such schools as William and Mary, the
+University of South Carolina, East Carolina Uni-
+versity, Wofford College, and Virginia Polytech-
+nic University.
+
+Photo provided by Quips and Cranks 1997
+
+tian gets a good snapshot of the class’s understand-
+ing of the subject matter and can tailor the next
+class lesson with that in mind.
+
+During the.three-year duration of the NSF
+grant, Christian will develop an entire under-
+graduate Web-based physics curriculum that in-
+cludes Physlets and JiTT. The grantincludes money
+for the student assistants for two summers, as well
+as a full time post-doctoral assistant. The assistant
+will relieve Christian of part of his teaching load so
+
+that he can develop web physics curricula, and the
+assistant will also help develop some curricular
+material.
+
+The grant will also allow Christian to pro-
+duce a CD of Physlet problems and concept prob-
+lems for JiTT and to continue his regular presen-
+tations about Web Physics at professional meet-
+ings of the American Association of Physics Teach-
+ers. The software will be distributed free to educa-
+tors, but Christian is also involved ina commercial
+venture with Prentice Hall Publishers to create a
+CD of curricular material to accompany a forth-
+coming textbook.
+
+The grant rewards more than a decade’s work
+by Christian during which he gradually realized
+how three different areas of his interest could be
+synthesized in the new teaching method. He began
+exploring the web very early, downloading brows-
+ers from CERN long before they were widely
+available. He also began tinkering with personal
+computers in their infancy, building Altair and
+IMSAI computers from kits in the late 1970s. In
+addition, he has been working with students for
+many years to create stand-alone physics pro-
+grams.
+
+He begins teaching his Davidson students to
+write software for scientific purposes during their
+freshmen or sophomore years in a “computing
+physics” course that he developed. Christian said
+that most schools teach computational physics as
+an upper level course and as a specific skill, rather
+than teaching it early and urging students to apply
+it throughout the curriculum. He has recruited
+students from the course to help him create Physlets
+during their junior and senior years, and six of
+them have won prizes in the Computers in Physics
+contest.
+
+Christian believes that computational phys-
+ics represents a major change in the way the
+discipline is taught. He said, “The technology and
+the way we do this puts students on an equal
+footing with the faculty. They soak up the tech-
+nique and the technology as fast as faculty can, so
+our projects are much more a cooperative venture
+than the traditional relationship. I learn from them
+as often as they learn from me.”
+
+@ Laura Crimm participates in one Davidson’s
+interdisciplinary classes that combines Chemistry and Art
+History. One of the class’ projects was to create a fresco.
+
+|

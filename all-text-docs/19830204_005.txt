@@ -1,0 +1,291 @@
+Honor Code to Cover Computers
+
+Dr. Hansford Epes’s proposal clarifies computer plagiarism
+
+By JIM CROWE ’83
+
+Every student shall be honor bound
+to refrain from cheating (including pla-
+giarism). Every student shall be honor
+bound to refrain from stealing.
+
+—Davidson Honor Code
+
+Cheating and stealing are strong
+words, and their presentation in the Da-
+vidson Honor Code is terse and direct.
+The strict application of the principles
+behind these words in the day-to-day
+life of the student at Davidson is a diffi-
+cult, though manageable, affair.
+
+The great upsurge of interest in
+computer literacy and technology, stim-
+ulated by the installation of a completly
+new computer system on campus, has
+brought new challenges to the elabora-
+tion of the principles of the Honor Code.
+The concentration of information gener-
+ated by students and faculty into one re-
+source, the computer, creates the poten-
+tial for unauthorized examination or
+manipulation of the work of others in a
+way unforeseen in the days of mere pen
+and paper storage systems.
+
+Computer Services Director Robert
+DeSieno said, “It’s acomplex, difficult,
+and new issue at Davidson. There is no
+clear understanding among the constitu-
+ents about the use of the computer and
+considerations about the Honor Code.”
+
+DeSieno stated that a major diffi-
+culty in discussing the issue is the exist-
+ence of several standards by which to
+
+judge honor and computer use. First, he.
+
+pointed to the personal opinion and atti-
+tude of each computer user, and of-
+fered, “For me, the information that
+people store in the computer is private
+property, just like the possessions they
+have in their dorm rooms are their pri-
+vate property.”
+
+Second, DeSieno pointed to com-
+puter use standards of the non-academic
+world. “Theft in an industry that uses
+computers involves the unauthorized
+examination, removal, or changing of
+information in a computer..,,
+
+Third, DeSieno noted that the un-
+derlying standards of the Honor Code
+must be taken into account.
+
+Dean of Students Will Terry also al-
+luded to the problem of varied personal
+experience and opinion in the field of
+computer use. “One of the unclear
+things is that people come here having
+used computers in high school or other
+places where the expectations and the
+procedures are different. And that’s be-
+cause of the presence of the Honor Sys-
+tem here.”
+
+Terry said some type of special edu-
+cation may be in order in this regard for
+all Davidson students. “It may necessi-
+tate the kind of attention we give to pla-
+giarism in orienting to the Honor Sys-
+tem, as far as the freshman class is con-
+cerned.,,
+
+Honor Council Chairman Greg
+McFayden, commented ‘Students
+should be aware that all work done on
+
+The Computer Crush Poses New
+
+Problems
+
+(CPS) — As colleges rush into the com-
+puter age, they’re meeting some per-
+plexing new-age problems of student
+security and crime.
+
+Huge electronic erasures of student
+and faculty records have plagued some
+campuses, while others struggle with
+ways of keeping teacher-student rela-
+tionships confidential.
+
+At UCLA, for instance, two 17-
+year-olds broke into the university's
+files and erased thousands of student
+transcripts and instructors’ files stored
+there.
+
+Similarly, Lehigh University stu-
+dents were “cheated and robbed” of
+coursework stored in the Pennsylvania
+campus’ main computer when someone
+tampered with the machine last year.
+
+One new problem is keeping publi-
+cally-available files private.
+
+Last term, for example, Harvard
+students tried to convince administra-
+tors to regulate access to their electroni-
+cally-stored study materials. The uni-
+versity allows student tutors to see aca-
+demic files of their charges.
+
+While the tutors may have legiti-
+
+mate reasons for looking at certain files,
+the students argue their privacy rights
+become precarious if the tutors should
+misuse them.
+
+Such information is never totally
+safe, observers warn.
+
+Guarding the information “is a hu-
+man problem, not something caused by
+the computer itself,” notes Apple Com-
+puters spokesman Stan DeVaugn.
+
+“For every security system, there’s
+going to be someone working on a way
+to get around it. All students can do is
+save everything they do on their own
+discs, and be very careful who they give
+their passwords to.”
+
+But privacy “cannot be taken, light-
+ly,” adds IBM spokesman Bruce
+Schimming. “Universities are particu-
+larly sensitive to privacy and the con-
+cept of being passively observed and
+watched by some Big Brother-type sys-
+tem.”
+
+“Sure it’s possible to get into some-
+one else’s file,” says John Sutton, an Io-
+wa State junior who regularly submits
+his work electronically to his instruc-
+tors. “But it’s just as possible for some-
+
+the computer falls within the boundaries
+of the Honor Code. If they don’t, it
+should be made clear that it does apply.”
+
+McFayden advocated a broad clari-
+fication of the Honor Code. “I'd like to
+see something added to the Code, yet I
+don’t want any long, drawn-out, intri-
+cate statements about computer use.
+There’s a certain amount of responsibil-
+ity left to the student to use common
+sense about these matters.”
+
+Clearly, the Honor Code needs to be
+examined and clarified in this regard by
+the Student Conduct Council. DeSieno
+said, “I think the Honor Code really
+works here, and it needs to be broa-
+dened to embrace the computer. Once
+this is done, the Honor Code will work
+even more effectively for the use of the
+computer.”
+
+Along these lines, Coordinator for
+Academic Computing Hansford Epes
+has drafted a proposed text to be added
+to the Honor Code. The proposal, a
+five-paragraph examination of security
+considerations and the computer, strict-
+ly treats the User File Directory (UFD)
+contents as private property.
+
+The proposal reads, “Information
+created by one person is that person’s
+property: the information may be a text
+for a paper, an algorithm for a computer
+program, or data accumulated in any
+way. A file directory in the computer is
+as much a person’s property as are items
+stored in that person’s room, papers
+drafted in that person’s notebooks, or
+
+DeSeino works out bugs with Felix Gerdes '83.
+
+one to break into my dorm room and
+steal everything.”
+
+Despite the real concerns over se-
+curity and the dramatic cases of large-
+scale electronic erasures, most student
+problems so far seem to concern getting
+either too much or too little of the new
+technology.
+
+The editor of Toronto’s Erindale
+College student paper got too much, al-
+most losing his job for refusing to pro-
+duce the paper on the school’s new com-
+puter system.
+
+confindential data stored in administra- .
+
+tive, faculty or student offices..,,
+
+The proposal contains advisory
+warnings to students and faculty to pro-
+tect the contents of their UFD’s through
+initial naming procedures, passwords,
+and other like precautions.
+
+In regard to entering the school’s ad-
+ministrative files, the proposal states,
+“Any attempt by an unauthorized person
+to get into materials on the administra-
+tive computer will be viewed with the
+same tolerance as attempts to break into
+a safe or into the Comptroller’s or Re-
+gistrar’s (or other) offices. In other
+words, malice of intent will be as-
+sumed.”
+
+DeSieno spoke of the proposal, say-
+ing “I endorse it. It speaks to the issue.”
+
+Terry commented, “What we will
+use this for is more or less like the expla-
+nation of plagiarism in the Code, so that
+students will know what is expected and
+not expected.”
+
+In a recent memo, Epes urged im-
+mediate action. “It is very important
+that we move soon to clarify the position
+of the Honor Code on use of the facili-
+ties of the computer. Let us let no more
+time slip by.”
+
+DeSieno noted, “We [Computer
+Services] have been asking for some ac-
+tivity in this area for over a year.”
+
+Terry said that the proposal will be
+considered for addition to the Honor
+Code by the Student Conduct Council
+within the next few weeks.
+
+After arguing the system wasn’t
+good or reliable enough to do the job,
+the editor finally got to keep his job,
+though not before being docked $60 to
+make up the cost of producing the paper
+the old way.
+
+More typically, students are most
+upset about getting too little of the tech-
+nology. Lines at campus computers are
+
+From the Davidsonian Archives
+
+often long. At Idaho Stae, “it’s not un- .
+
+usual to have kids lined up three-deep to
+use a computer,” says computer Direc-
+tor Robert Watts.
+
+THE DAVIDSONIAN/4 February 1983
+
+5

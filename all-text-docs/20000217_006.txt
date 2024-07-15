@@ -1,0 +1,220 @@
+Davidson
+
+Press RELEASE
+
+Another award-winning software module
+written by a Davidson College student reaf-
+firms the college’s leadership in high-tech
+physics education.
+
+Senior Jim Nolen from Houston, Tex.,
+was named recently by Computing in Sci-
+ence and Engineering magazine as one of
+three winners in its 1999 software contest.
+Under the leadership of physics professor
+Wolfgang Christian, Davidson has brought
+home prizes in eight of the contest’s ten
+years, including the last six years straight. No
+other college or university anywhere has done
+as well in the international competition.
+
+Nolen’s software models the behavior of
+gasses inside containers, and is useful in
+understanding the relationship between pres-
+sure, volume, and temperature. He developed
+it during spring semester 1999 as an indepen-
+dent study project under Christian’s guid-
+ance. Christian himself has won several
+prizes in the contest through the years, in-
+clude the only “Grand Prize” ever issued.
+
+Nolen explained how his program, and
+many others developed at Davidson under
+Christian’ s leadership, make it easier for stu-
+dents to learn physics. “You can’t see a lot of
+the things you study in physics,” he said. “By
+developing interactive software that simu-
+lates molecular and atomic principles, users
+can get a much better conceptual understand-
+ing of what’s really happening.”
+
+Interactivity is Key
+
+The software contest judges noted that
+interactivity was a key reason they selected
+Nolen as a winner. They wrote, “The real
+strength is that instructors can use Javascript
+to modify it-changing the initial conditions,
+plotting physical quantities of their cheice,
+and using the*applet in different contexts.
+Such changes can be made without seeing the
+source code.” ‘
+
+Nolen’s program becomes part of
+Christian’s ongoing work to integrate inter-
+active, customizable exercises accessed
+through the World Wide Web into physics
+instruction. Christian and two collaborators,
+Dr. Gregor Novak (Indiana University) and
+Dr. Evelyn Patterson (United States Air Force
+Academy), received a $304,000 grant from
+the National Science Foundation two years
+ago for development of this instructional
+concept into a complete physics curriculum.
+
+Christian’s approach gives students the
+information necessary to solve physics prob-
+lems in an interactive simulation, rather than
+in a written text question. Students solve the
+problem through observation of motion, ap-
+plication of appropriate physics concepts,
+and measurements leading to mathematical
+calculations.
+
+A Different Approach
+
+Such an approach is remarkably differ-
+ent than typical novice strategies where stu-
+dents attempt to mathematically analyze a
+problem before qualitatively describing it.
+Teachers often call this approach “plug-and-
+chug” because it is characterized by the lack
+of conceptual thought during the problem
+solving process. Christian believes that re-
+quiring students to consider the problem quali-
+tatively, as is done in multimedia-focused
+problems, has a positive influence on their
+
+. problem-solving skills and conceptual un-
+
+derstanding.
+
+Christian and his students have so far
+developed about 25 of these interactive exer-
+cises, which he calls “Physlets,” (c) which are
+all accessible via the World Wide Web. The
+exercises are written as Java computer lan-
+guage “applets” so that they can be accessed
+via all popular computer operating systems.
+
+“They are free for non-commercial use.
+
+Christian noted that Physlets allow in-
+structors to create situations that can’t be
+replicated with real life materials. The “Op-
+
+tics” Physlet, for example, can demonstrate
+many different types of optical systems, from
+astronomical telescopes to cameras to micro-
+scopes. Students can click and drag to move
+the lens around, try different light sources,
+and actually grab the lens edge to make it
+thinner or thicker to change its focal length.
+Christian said, “You can’t do that in real life,
+so that’s why we call these ‘media focused’
+problems rather than multimedia - you have
+to interact with the medium to understand it.”
+
+Changing the Approach
+
+The magazine contest judges agreed that
+the Davidson entries have achieved some-
+thing that is difficult to do in writing peda-
+gogical software- “engaging students in ac-
+tivities that will teach them something tan-
+gible... Students must do more than click and
+watch, they must be engaged in a process that
+regularly stimulates cerebral activity... Ide-
+ally, the program should approximate an au-
+thentic dialogue between a learner and an
+expert.”
+
+Media-focused instruction takes advan-
+tage of the World Wide Web in ways that
+Christian believes are too rarely used. He
+explained, “The web is often used to publish
+megabytes of information that could just as
+well have been printed on a page. But that’s
+not likely to have an impact on learning.
+You’re not changing the pedagogy or ap-
+proach to what the student does. We’ re trying
+to change the basic approach.”
+
+In addition to the interactive Physlet
+programs on the Web, Christian relies heavily
+on a “Just In Time Teaching,” (JiTT) tech-
+nique developed in conjunction with Drs.
+Novak and Patterson. For homework assign-
+ments, students work Physlet problems on
+the web that correspond to class discussions,
+or extend just beyond what the class has been
+studying. Students stay on-time and on-task
+by using the Web to create a feedback loop.
+By reviewing their assignments just before
+
+THURSDAY, FEBRUARY 17, 2000
+
+student writes software module
+
+the next class, Christian gets a good snapshot
+of the class’s understanding of the subject
+
+‘matter, and can tailor the next class lesson
+
+with that in mind.
+
+During the three-year duration of the
+NSF grant, Christian is developing an entire
+undergraduate Web-based physics curricu-
+lum that Physlets and JiTT. The grant also
+funds production of a CD of Physlet prob-
+lems and concept problems for JiTT, and
+funds for Christian’s regular presentations
+about Web physics at professional meetings
+of the American Association of Physics
+Teachers.
+
+Learning the Basics Early
+
+Nolen, like other Davidson student win-
+ners before him, traced his initial interest in
+web physics to Christian’s “Computational
+Physics” course that he took as a sophomore.
+“I had never done any programming before
+that, but I enjoyed the course very much,”
+Nolen said.
+
+Christian said most schools teach com-
+putational physics as an upper level course
+and as a specific skill, rather than teaching it
+early and urging students to apply it through-
+out the curriculum. Nolen was one of the
+students Christian regularly recruits from that
+course to help him create Physlets during
+their junior and senior years as independent
+study projects. Nolen worked on it indepen-
+dently, with Christian helping test results and
+brainstorm about exercises and function.
+
+Christian believes that computational
+physics represents a major change in the way
+the discipline is taught. He said, “The tech-
+nology and the way we do this puts students
+on an equal footing with the faculty. They
+soak up the technique and technology as fast
+as faculty can, so our projects are much more
+a cooperative venture than the traditional
+relationship. I learn from them as often as
+they learn from me.”
+
+~ Work in Davidson
+This Summer
+
+Summer Employment in
+The Library
+
+The Library is now accepting applications for student summer
+workers. Positions are available in all departments.
+
+Interested Students should
+Contact Jean Coates, Library Circulation Office. Ext. 2332

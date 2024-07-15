@@ -1,0 +1,131 @@
+What to do ©
+about dogs,
+
+Soccer
+splits pair,
+
+| Volume LXXI, Number 4
+
+The Weekly Newspaper of Davidson College |
+
+Friday 9 October 1981 |
+
+~ Computer Director Bob DeSieno
+
+High technology
+
+Unveiling the new computer system
+
+by Hunter Monroe ’84
+
+This summer. Davidson, College
+
+~ entered'the modem age'of computing.”
+
+By- acquiring two Prime computers,
+the College has jumped two genera-
+tions of computer technology. The im-
+provements over the old system are
+vast and numerous.
+
+The new system consists of a
+
+-Prime 750 Computer for acedemic use,
+
+and a Prime 450 Computer for admi-
+nisrtative use. They are located-in the
+new Computer Center behind the Post
+Office.
+
+The two sytems will be enough to
+handle 32 users at any given time.
+
+The computers will store most of
+their information on disc drives. A disc
+drive records memory on a stack of
+large rigid discs and bears a strong re-
+semblance to a washing machine.
+
+Long term memory storage can be
+done on magnetic tapes, using a tape
+drive.
+
+- Users will communicate with the.
+computer using video terminals that |
+
+will be in various locations on the cam-
+pus. These terminals consist of a video
+screen, a keyboard, and a little black
+
+‘box to connect the terminal to the com-
+
+puter.
+Several printers will also be scat-
+
+‘tered around in useful locations. A
+high-speed printer, to be located in the
+. ‘Computer center itself, will-print at a
+Staggering Tate of 600 lines per minute.
+
+"The old system does not compare
+
+Z well against the new one.
+
+It consisted of-a PDP/8f and an
+
+NER Century 101. The NCR was the
+
+marion bine and was used excla-
+
+sively by the administration. Com-
+puter Center Director Robert Desieno
+describes both these computers as “old
+and:impoverishéed.” ©
+
+The average time for the comple-
+tion of a job on the old system was
+three days, while the expected run-on
+time for the new system will be a mat-
+ter of minutes or seconds.
+
+The memory capacity of the new
+system is about 100 times that of the
+old.
+
+The old system did not have a tape
+drive. Magnetic tape is extremely por-
+table and will allow for the transporta-
+tion of large amounts of information to
+and from other universities and com-
+puter centers.
+
+The new computer can handie
+more programming languges than the
+old computer did. The PDP had a poor
+version of BASIC and the NCR had the
+COBOL, FORTRAN IV, RPG, and
+NEAT/3 ‘languages. The new. system
+offers two versions of BASIC, two
+versions .of .FORTRAN, PASCAL,
+COBOL, and assembly language, (As-
+sembly language is a very simple lan-
+guage, one step away from the compu-
+ter’s language.)
+
+A Statistical -package, called
+SPSS, will be useful in analyzing lagre
+amounts of data.
+
+,. Another big advantage of the new
+computer’ is its use of video terminals
+rather than: punch eards. The terminals
+
+allow direct contact with the computer
+
+by each’ user... This arrangement is
+
+‘called . interactive computing. ‘The
+
+streamlining of iad computing process
+
+[please j jump to page 5}

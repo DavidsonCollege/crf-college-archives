@@ -1,0 +1,399 @@
+. THE DAVIDSONIAN
+
+NATION
+
+THURSDAY, APRIL 6 2000.
+
+J udge rules Microsoft violated antitrust laws
+
+WASHINGTON (AP) — Humbling a
+proud giant of the computer age, a federal
+judge ruled Monday that Microsoft Corp.
+violated U.S. antitrust laws by keeping “an
+oppressive thumb” on competitors during the
+race to link Americans to the Internet.
+
+In a sweeping verdict against the empire
+that Bill Gates built, U.S. District Judge Tho-
+mas Penfield Jackson said Microsoft violated
+the Sherman Act, the same law used to crush
+monopolies from Standard Oil to AT&T.
+
+He concluded that the company was
+guilty — as the federal government, 19 states
+including North Carolina, and the District of
+Columbia had alleged in a case that began in
+May 1998 — of “unlawfully tying its Web
+browser” to its Windows operating system
+that dominates the computer market world-
+wide.
+
+“Microsoft placed an oppressive thumb
+on the scale of competitive fortune, thereby
+effectively guaranteeing its continued domi-
+nance,” Jackson wrote.
+
+The verdict affirms Jackson’s previous
+ruling in November that the software giant is
+a monopoly, one that illegally used its power
+to bully competitors and stifle innovation,
+hurting consumers in the process.
+
+_ The judge’s ruling can be appealed, de-
+laying its impact for years, and Gates said the
+company would pursue that avenue.
+
+While Microsoft “did everything we
+could to settle this case, we believe we have
+a strong case on appeal,” Gates said. “... This
+ruling turns on its head the reality that con-
+sumers know: that our software has helped
+make PCs accessible and more affordable to
+millions of Americans.”
+
+Microsoft didn’t lose all of the case:
+Jackson ruled that the government failed to
+prove that Microsoft’s exclusive marketing
+arrangements with other companies “consti-
+tuted unlawful, exclusive dealing” under fed-
+eral antitrust law.
+
+Jackson’s verdict opens the door for the
+
+federal government to seek drastic penalties
+against Microsoft.
+
+The options range from breaking up the
+company that made Gates a billionaire to
+forcing it to share its proprietary software
+code with competitors. Jackson also paved
+the way for states to seek penalties under their
+own anticompetition laws.
+
+“Microsoft maintained its monopoly
+power by anticompetitive means and at-
+tempted to monopolize the Web browser
+market,” Jackson said in a ruling that caused
+a record-plunge in the Nasdaq market even
+before its release. Microsoft stock dropped
+by more than $15 a share to close at $90.87 1/
+2, costing Gates about $12.1 billion in paper
+losses.
+
+The Justice Department vowed to press
+the case until
+
+Reno’s antitrust chief, Joel Klein, said he
+was still open to a settlement but that it would
+have to redress the violations cited in
+Monday’s ruling.
+
+Microsoft Chief Executive Steve Ballmer
+also said the company would be open to more
+negotiations but it “would need to see an
+approporaite openness” from the government.
+
+“We’ve spent the past 25 years thinking
+of ourselves as a small aggressive company
+playing catch up to industry giants even though
+at some point along the way we became a
+large company,” Ballmer said. “... Our in-
+tense focus on moving forward has at times
+been seen as threatening and our passion for
+being the best has been misinterpreted. We
+can do better. But that doesn’t mean innovat-
+ing any less or delivering any less value to
+
+consum-
+
+consumers are
+rewarded.
+
+“Microsoft
+has been held
+accountable
+for its illegal
+
+“Microsoft placed an
+oppressive thumb on the scale
+of competitive for tune.”
+
+ers.”
+
+‘In his
+ruling,
+Jackson
+wrote
+that
+“Mic -
+
+conduct by a
+
+court of law,” Attorney General Janet Reno
+said. “Thanks to.this ruling, consumers who
+have been harmed can now look forward to
+benefits.”
+
+Attorneys general for the states that joined
+the case called for strict sanctions. Connecti-
+cut Attorney General Richard Blumenthal
+urged Jackson to “adopt remedies that are as
+far-reaching and fundamental as Microsoft's
+abuses of its monopoly.”
+
+North Carolina Attorney General Mike
+Easley applauded the ruling.
+
+“There are many members of the com-
+puter software industry that call North Caro-
+lina home. They deserve to compete on a
+level playing field that encourages excel-
+lence and innovation,” Easley said.
+
+rosoft’s
+anti-competitive actions trammeled the com-
+petitive process through which the computer
+software industry generally stimulates inno-
+vation and conduces to the optimum benefit
+of consumers.”
+
+He said Microsoft adopted “aggressive
+measures” with computer manufacturers and
+Internet providers that “successfully ostra-
+cized” Navigator, a browser made by
+Microsoft rival Netscape Communications,
+in favor of the company’s Internet Explorer.
+
+Substantial business was lost to com-
+petitors “as aresult of Microsoft’s decision to
+bundle Internet Explorer with Windows,”
+Jackson wrote. The bundling “caused
+Navigator’s usage share to drop substantially
+from 1995 to 1998, and that as a direct result
+
+Netscape suffered a severe drop in revenues
+from lost advertisers, Web traffic and pur-
+chases of server products.”
+
+All the parties to the suit, including the
+states, tried to postpone a ruling by working
+the last four months through a court-appointed
+mediator, Judge Richard Posner. The talks .
+collapsed over the weekend, prompting Jack-
+son to release his verdict.
+
+Both sides in the case had reasons to
+settle. For Microsoft, the verdict is expected
+to spur more consumer lawsuits. Microsoft
+already faces dozens of class-action lawsuits
+seeking potentially billions of dollars in dam-
+ages. Private lawyers plan to use the ruling to
+bolster their contentions that Microsoft abused
+its software monopoly to illegally drive up
+prices of its Windows operating system.
+
+“This is a manna from heaven for the
+private plaintiffs because it basically should
+eliminate a lot of their need for proof,” said
+Robert Litan, a former Justice Department
+attorney who negotiated with Microsoft in a
+related 1994 case.
+
+For the government, an out-of-court
+settlement could have meant immediate sanc-
+tions against Microsoft for its alleged
+anticompetitive acts. Such relief, however,
+would be delayed with a lengthy legal battle
+now expected to find its way through the U.S.
+Court of Appeals, where the case is likely to
+be tied up for several years.
+
+In addition, the U.S. attorney general’s
+office will be under a new administration by
+the time the case reaches the appellate court
+level.
+
+The federal government has spent more
+than $7 million in its lawsuit and used tens of
+thousands of pages of e-mail and other docu-
+ments to portray Microsoft as an industry
+bully. Justice Department lawyers said the
+company illegally used its heft to undermine
+competing technologies and to discourage
+support for its rivals.
+
+Questions and answers about the Microsoft rulin
+
+WASHINGTON (AP)_ It could be years
+before consumers see any impact of the land-
+mark Microsoft ruling handed down Mon-
+day.
+
+Another phase in the antitrust case, in
+which possible punishments will be explored,
+along with expected appeals of the verdict
+could tie the case up for several more years.
+
+Here, in question and answer form, is a
+look at what the decision means for Ameri-
+cans and what they can expect to see next:
+
+Q: My computer uses Microsoft Windows.
+How will this trial affect me?
+
+A: The verdict is unlikely to affect Microsoft
+customers immediately, since there’s no prod-
+uct recall being considered. But the judge
+could eventually order Microsoft to change
+the way it designs Windows, such as requir-
+ing it to offer a version without an Internet
+browser or requiring it to include rival soft-
+ware programs within Windows.
+
+In the most extreme case, the judge could
+break up Microsoft into smaller companies
+and set them to compete against each other by
+selling different versions of Windows. Al-
+most any punishment is likely to be deferred
+until the case completes its journey through
+the federal appeals courts, which could last
+until 2002. _
+
+Jackson did contend that Microsoft's
+practices cannot be explained “‘as an attempt
+to benefit consumers” but were rather an
+effort to “quash innovation that threatened its
+monopoly position.”
+
+Microsoft Chairman Bill Gates said the-
+company will focus its efforts on delivering
+new innovation to consumers.
+
+Q: How did the judge issue his ruling?
+
+A: The judge decided on a very unusual
+process. First, he issued his “factual find-
+ings” on Nov. 5, in which he made the crucial
+determination that Microsoft is a monopoly.
+On Monday, the judge ruled that Microsoft
+violated the Sherman Antitrust Act. The judge
+found that the company used its position to
+“monopolize the Web browser market” to the
+detriment of competitors and that the soft-
+ware giant could also be liable under state
+anti-competition laws.
+
+Q: What specific sections of law did the judge
+cite in handing down his verdict? ,
+
+A: The judge ruled that Microsoft violated
+Sections | and 2 of the Shermafi Antitrust Act
+in addition to various state antitrust laws.
+Section | of the Sherman Act prohibits con-
+tracts and. combinations in restraint of trade.
+Section 2 makes it unlawful for a person or
+firm to attain or preserve monopoly power
+through anti-competitive acts.
+
+The judge found that Microsoft violated
+the first section of the 1890 law by tying
+Microsoft’s Internet Explorer Web browser
+to its Windows operating system. It violated
+the second section because: the company
+“maintained its monopoly power by anti-
+competitive means and attempted to mo-
+nopolize the Web browser market,” the judge
+found.
+
+Q: What happens next?
+
+A: The judge will set a schedule for the next
+phase of the case to consider possible punish-
+
+ments of Microsoft.
+
+The company has promised to appeal the
+ruling and believes it has a strong case in
+higher courts.
+
+“Until the appeal is over, nothing is
+settled. We’ ve learned that from experience,”
+said Microsoft chief executive Steve Ballmer.
+That process could tie up the case for several
+years in appeals courts.
+
+Q: What about future settlement talks?
+
+A: Government lawyers said any settlement
+would have to reflect the determination of
+law made by the judge.
+
+“The department is always prepared to
+settle so long as the remedy will deal with
+
+now the legal violations that have been fully
+established by the court,” said Joel Klein, the
+Justice Department's antitrust chief.
+
+Citing previous attempts to resolve the
+case through mediated negotiations, Gates
+said he believes there were parties who were
+not interested in settling, resulting in the
+eventual collapse of those talks.
+
+“We remain open-minded to that, but
+we’ ll have to see what develops,” Gates said
+in a CNBC interview.
+
+Q: Where can I read the judge’s decision?
+
+A: The judge’s decision has been posted on a
+
+Web site run by the Government Printing
+Office, at http://usvms.gpo.gov
+
+Lottery. from page 4.
+
+students who choose that kind of living envi-
+ronment,” said Sara Cole, an RA in Sentelle
+next year.
+
+The Student’ Government Association
+debated the issue of smoking in residence
+halls last week—and voted overwhelmingly
+to advise RLO to convert one building to
+smoke-free status.
+
+Holmes solicited student input after the
+meeting, and explained that most students
+lobbied for the new. building—currently
+known as “West”—to go smoke-free. But
+because of the heavy concentration of single
+rooms in that new building, RLO opted to dub
+Sentelle—which is mostly comprised of
+double rooms—as smoke-free. “So many
+people are going to those singles in West
+
+because they wanted to smoke without of-
+fending a roommate,” said Holmes.
+
+RLO is also likely to dub one all-fresh-
+man building (or a few scattered freshman
+halls) as smoke-free. “We heard so much
+positive support from SGA,” said Holmes. “I
+was hearing overwhelming support for an-
+other smoke-free building.”
+
+Much of that decision will be based upon
+feedback received from freshmen on their
+housing cards. Students will have the option
+of indicating a preference for a smoke-free
+living environment, and those totals will be
+considered when planning next year’s fresh-
+men halls.
+
+Looking ahead.
+
+The next major step will be the full
+lottery night, to be held on Wednesday, April
+19:

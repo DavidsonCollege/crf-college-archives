@@ -1,0 +1,144 @@
+-eatures
+
+John Brockway‘s Memory Re Search |
+
+Dr. John P.. Brockway is a scholar of human memo-
+ry. Despite the fact that he studied at Penn State under
+Charles N. Cofer, one of the most widely respected me-
+mory researchers in the world, as well as the fact that
+he published, while in graduate school, one of the few
+papers in the field to receive more citations in the
+eighth year after it was published than in its first year,
+he is far from a traditionalist. Rather, his ideas chal-
+lenge the consensus of more than 2000 years of specu-
+lation and scholarship, and today threaten the very
+foundations of the psychology of memory (which, in the
+estimation of some, has run a very fast race around a
+short circular track). Nor are the means by which he
+elucidates this theory limited to any one discipline. He
+draws upon philosophical arguments, innovations in
+computer science and artificial intelligence, as well as
+the past.and present findings of memory researchers,
+in support of his position. Two years ago, at a Greens-
+boro conference, his statements were spurned by a
+group of psychologists with a vested interest inthe very
+paradigm he sought to reject; last fall, in Konstanz,
+West Germany, his most recent paper was selected to
+set the tone for the Language Use, Meaning and Inter-
+pretation International conference; in a few months,
+he will chair a discussion on the field that he has sin-
+glehandedly created, at the prestigious American Py-
+schological Association annual meeting in Washing-
+ton, D.C. His ideas, at first considered quite radical,
+are now gaining increasing acceptance. This article
+attempts to present, albeit nonexhaustively, an histori-
+cal overview and some of the central features of Dr.
+Brockway’ s theory of human memory.
+
+In order to understand what Dr. Brockway’s re-
+search, it is important .to realize at the outset that much
+of what scientists dois to attempt to relate the known to
+the unknown through the: use of metaphor. For exam-
+
+ple, a physicist may note that light tends:to “bend” —
+
+when it passes through a hole or around a relatively
+large object. This property is referred to.as diffraction.
+Since waves in waterexhibit a similar property, it may
+seem reasonable, for piitposes of research, to describe
+light as a wave. What the physicist has done, then, in
+the words of Richard Boyd, is to attribute to something
+for which there exists no literal paraphrase the proper-
+ties of a known thing with which he is more directly fa-
+miliar, The:metaphor he has created, however, is more
+than just shorthand scientific jargon; rather, it tends to
+guide research in the direction of discovering further
+similarities between the primary and secondary subject
+of the metaphor. Since light exhibits at least one prop-
+erty of a wave, it'seems reasonable to assume that it
+will share other characteristics as well. And in this case
+it does, as any good quantum mechanics text will tell
+you. But a metaphor can just as-easily be misleading.
+For instance, Benjamin Franklin and his contemporar-
+ies believed electricity to be a fluid. One characteristic
+of a fluid is that it can be contained; hence, myerie
+
+‘Dr. Brockway —
+
+tors during this time strove to construct a device which
+could contain electricity. The result of their efforts was
+the Leydn jar, which, to all external tests, appeared to
+work, but the construction of which was based on a
+
+metaphor now known to be limited in scope. The point.
+
+is that while metaphors can serve as a guide for re-
+search, they can also serve as a constraint on the types
+of questions that can be asked about a phenomenon.
+In psychology, especially in the study of human me-
+mory, the object of scrutiny is far more ubiquitous. As
+far back as Pavlov, it was believed that memory for an
+
+event resulted from the reactivation of some neural
+. connection between two’ points in the brain that were
+
+both active at the time of the original event. This would
+
+' séém to imply that memories exist in some specific lo-
+
+cation of the brain, and could be characterized as actu-
+al, literal things, namely, the connection between two
+points in the brain. However, in the 1940’s, Karl Lash-
+ley trained rats to run through a maze and then surgical-
+ly removed varying portions of their cortex. Surpris-
+
+-ingly enough, he found that decrements in maze per-
+
+formance were a function only of the overall amount of
+cortex removed, and not of the specific: area from
+
+' which tissue was removed. Even then, the impairment -
+
+was not, severe—rats with as much as 90% of their
+brains removed were still able to creep, crawl or other-
+wise struggle their way through the maze. Lashley and
+
+. many others after him have taken: these findings as
+“strong evidence. against the notion that memories, es-
+
+pecially memories for complex events, are localized in
+
+any specific region of the brain. However, it is argua-
+ble that learning complex events involves several dif-
+ferent sensory modalities, and that damage in any part
+of the brain would disrupt performance by disrupting
+one of the sensory modalities used in the learning task.
+The more brain area damaged, the more sensory mo-
+dalities destroyed, and hence, the greater the perfor-
+mance decrement. Lashley argued against this inter-
+pretation by demonstrating that the effects of damage
+to. the occipital (visual) cortex. were: not the same as
+blindness. He took two groups of rats, blinded the eyes
+of one group, and left the other group’s eyes intact.
+Then he excised.portions of the occipital cortex from
+both groups. He found that occipital lesions still pro-
+duced as much disruption in maze performance for the
+blinded group as for the unblinded group. Evidently,
+the occipital cortex contributes to rats’ memory for
+mazes in more general ways than just through vision.
+Much later, in the early 10’s, a great deal of research
+was directed toward the attempt to characterize memo-
+ry as the formation of specific RNA molecules. Ungar
+(1972) trained a group of rats to fear the dark (a behav-
+ior that almost no normal rat will spontaneously exhib-
+it), then ground up their brains, extracted one type of
+RNA that had not existed before the training, and in-
+jected this extract into another, untrained group of rats.
+Incredibly, these rats now exhibited a fear of the dark
+as strong as that. found in their trained counterparts.
+But, as it happened, this was a fairly isolated finding.
+
+Porn ea kaa to lag act Ragas eRe eae hy Brit SN hd DiS Ba isos Ph is ees bk AERTS
+: ACs Cnn diner scnm ps Mean Lod Reena tL Ree eae tay, nein Sante are de hrs "
+
+DAVIDSONIAN / Friday 9 April 1982
