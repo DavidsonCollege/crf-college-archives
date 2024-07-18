@@ -1,0 +1,8 @@
+Here is the cleaned OCR text, preserving the original meaning and punctuation:
+
+```
+rad = 4
+
+2 THE DAVID’S ONION
+* 73, 1989 *
+```

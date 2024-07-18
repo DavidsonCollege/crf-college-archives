@@ -1,0 +1,97 @@
+Page Six April 19, 1968
+
+COMPUTER BARD She Davidsonian Mad Machine Turns Poet
+
+The lights blink, and suddenly the typewriter comes to life and types: “HIS SECOND YELLOW YEAR BEHOLD IN LOVE.” Davidson's IBM 1320 is writing poetry—at least that is the claim of sophomore Don Hoyt, who has been working on the program for five months. While he admits that the computer has not yet produced any immortal lines, he hopes that eventually it will produce poems that make “at least a little bit of sense.”
+
+Hoyt began writing his program last semester while taking Dr. Jerry Roberts’ Math 21 course, an introduction to computers. “Since then I’ve gotten more than a little extra help from Dr. Roberts,” Hoyt admitted. “The problems involved in a program like this are just tremendous. Even the simplest operations, which people take for granted, such as providing each word with the proper amount of space in the line, require complex instructions when working with a computer.”
+
+Hoyt explains the program as consisting of three basic steps:
+—The computer reads from cards a list of words, in this case the words of Shakespeare's Sonnet No. 73 (“There's no particular reason for the choice; I just needed a list of words.) Each word is coded for length, stress, and part of speech.
+—The computer “memorizes” the words.
+—The computer fetches the words from its “memory” and strings them together into a line of ‘poetry.’
+
+“Actually,” Hoyt explained, “there are several programs in existence now. One of them puts any old words together, so that the result is non-sensical free verse.” Hoyt grew tired of nonsense and he began working on a program that could compose meaningful lines. With this program he types in a series of numbers which provide the machine a pattern. A zero, for example, stands for a noun. “I've had the best success with 1220171220. This is the pattern of the sentence found in most typing texts, ‘The quick red fox jumped over the lazy brown dog.’ The computer will typically hand me back a response like: “HIS SECOND YELLOW YEAR HANG IN HIS YELLOW BLACK LOVE THOSE STRONG BLACK DAY SEEST BY THOSE FEW SWEET NIGHT.”
+
+Many people ask how the computer knows which word to choose so that it will fit the meter or the syntax of the line. Hoyt answers, “It doesn’t. It just keeps choosing words at random and if the coding for that word happens to fit, then it uses it. If it doesn’t, then the computer just keeps on looking.”
+
+Others question Hoyt's seriousness. He smiles and says, “Oh, I’m deadly serious. The computer even signs its own work. At the end of every composition it types: THE IBM 1620.” “No, really, I don't expect the computer to write great poetry. I'm just interested in seeing what I can program it to do. Not only have I learned a great deal about programming, but I’m being forced to take a good look at the English language and see how it works. In a sense I suppose that working on the program is sort of like taking Latin... you get a much better understanding of English from it.”
+
+Hoyt hopes eventually to combine the meter and syntax programs into one program that will write, if not good, at least interesting poetry.
+
+Warnings about violations of Student Government Association regulations—in particular those concerning dormitory damage, fireworks, and firearms in the dormitories—were issued by the Student Government Court Wednesday night. The court also elected junior Jim Marrow chairman and freshman Jack Steele recording secretary. Speaking for the court, sophomore Stagg Newman said that regulations in the old constitution are still in effect, and that the penalties range from removal from the dormitory to suspension. “We are asking to be self-governing,” explained Newman, “and if we are, we must be able to enforce our own regulations.” Several violations of the regulations are now under investigation, Newman said, and may be tried soon. Investigation is conducted by the investigating committee, headed by senior Buddy Newsom. Under the current rules, there is no way for the court to impose any penalty other than suspension for violation of the firearms rule, which prohibits the possession of firearms in the dormitories or the possession at any time of pistols.
+
+Future Businessmen Ask How To Help Community By ED HAY Staff Writer
+
+A symposium concerning the role businessmen can take in involving themselves with the problems of society will be held in Phi Hall on Monday night at 7:30. The program, sponsored by Kappa Alpha fraternity, will consist of addresses by two speakers from the business world. These will be followed by a discussion period and individual discussions with students.
+
+DEFENDING EXCELLENCE OF THE CRAP REPORT
+
+Carroll (Second from L.) explains that it was the preliminary draft.
+
+Drinking Change Sparks Trustee Disagreement By BOB REID Associate Editor
+
+Trustee opinion on drinking on campus seems divided in the face of the proposals of the Committee on Rules and Punishments (CRAP). A random sampling of trustees revealed a wide variation on the issue. “I’m old fashioned,” said The Reverend John Redhead of Greensboro. “I've known too many men here in Greensboro who started drinking in college and are miserable today as a result.” But Dr. Redhead's colleague, The Reverend B. Frank Hall of Wilmington, differed on the subject. “I think it's mere realism,” he said concerning the proposals. “I have never been able to reconcile telling a man what he must do and training him to make moral decisions. Prohibition denies the right of moral decisions.”
+
+The issue of on-campus drinking was again raised this month when CRAP proposed modification of the college’s position to allow limited drinking on campus. According to the present faculty regulation, drinking or possession of intoxicants on campus may be punished by suspension from the college. But since the student regulations prohibition was lifted two years ago, no student found guilty under the
+
+Senate Approves Judicial Bylaws By DANNY WHITE Staff Writer
+
+The Senate Thursday approved the judiciary section of the proposed student by-laws after Honor Court chairman BillWilliams suggested several changes in the original draft of that section. Williams told the Senate that he hoped the Honor Court would not become an “adversary court” but a court whose primary function is simply the pursuit of the truth of a specific case. Accordingly, Article VI, Section 2, dealing with the defense adviser, was amended to say that the defense adviser would act only as an adviser to the defendant and not as a legal counsel and therefore would not in any case be required to testify against the accused. Article IV was passed by the Senate with Williams’ proposed amendments with only one dissenting vote, that of sophomore senator Richard Howard. John Passmore was absent.
+
+In other business, Rich Cowart reported to the Senate on the progress of the Experimental College, which is expected to begin during the first two weeks of the 1968-69 school year. Faculty rule has been suspended. But if there are to be any real changes in the college's stand, the trustees must grant their approval. And not all trustees want to do this. “With all the problems I've seen resulting from drinking, I cannot in good faith condone any change in the rule,” said The Reverend Eugene D. Witherspoon of Belmont. “Practically all marital problems I've handled have resulted from drinking.” “I'm scared of liquor,” he added. “I'm dealing with a boy right now whose family is on the rocks for this very reason.”
+
+Mr. Peyton Woodson, president of the Occidental Life Insurance Company, and Jim Bradley, a Davidson graduate now studying at the University of North Carolina at Chapel Hill, will be the main speakers. “This is not a career day,” according to Rick Harrell, director of the program. “It is an opportunity for students who are interested in business as a career to find out what they can do as businessmen and to talk about these problems.” Harrell said that over half of Davidson graduates go on to business careers, and that many of them feel that they are “running away” from the problems of the world. “This is not just for students who know they will go into business,” said Harrell. “Since so many Davidson students end up in business, they should all look into it.”
+
+Student Fined Tuesday
+
+A Davidson freshman convicted Tuesday in Mecklenburg County Recorder's Court of trespassing on a runway at Charlotte’s Douglas Airport said Wednesday he would not appeal. Jim Bradley, fined court costs of about $14, said he had neither the time nor the money to appeal Judge Winfred Ervin's decision. Similar charges against three other freshmen were dropped because of lack of evidence. The trespassing incident took place April 9 when the four, returning from Winthrop College, stopped at the airport to watch the planes land. Bradley said he was convicted on the testimony that he was standing on the grass near a runway with a police officer.
+
+Finest Steaks Served Anywhere
+SWAIN’S CHARCOAL STEAK HOUSE
+1800 West Morehead Street
+CHARLOTTE, N. C.
+Phone 332-2414
+
+THE FUN BEGINS AT HATTIE'S
+“just up the road”
+
+Top Writers: Gwynn, Trice
+By ROB KREHBIEL
+Staff Writer
+
+Junior Robert S. Gwynn received the Vereen Bell Award for creative writing in Wednesday's assembly for his “Songs from Eden.” Gwynn won first place for his collection of poems about Eden, N. C., entitled “Songs from Eden.” Junior Ashton Trice won second place, and sophomore Joe Jones third place. The award of $75 is supported by a fund established in memory of Vereen Bell, a promising writer and Davidson graduate who was killed at age 32 in the second battle of the Philippine Sea. Twelve entries were submitted this year. George Core, Charles Lloyd, and James Purcell of the Davidson English department, the preliminary judges, selected the best entries and sent them to Paul M. Cubeta at Middlebury College. Cubeta made the final selection and announced the winners in an assembly Wednesday.
+
+‘Alternate Newspaper Needed’
+
+Junior Ashton Trice has proposed an “underground newspaper” to be published and distributed by students here. Trice said that the main purpose of the newspaper was to give the student body a paper directed toward them and not toward persons outside the college, such as the alumni. “I don't think THE DAVIDSONIAN really serves the function of a school newspaper as it’s too oriented outside and also comes out only once a week,” Trice said. “THE DAVIDSONIAN has never been involved in telling the student what's happening every day,” Trice said, “so we want to come out about every other day, maybe Monday, Wednesday, and Friday.”
+
+WAS KEATS THE BOB DYLAN OF HIS DAY?
+
+Who was the greatest of the English Romantic Poets—Byron, Shelley, or Keats? This question has given rise to many lively campus discussions and not a few stabbings. Let us today try to find an answer.
+
+First, Keats (or The Louisville Slugger, as he is commonly called). Keats’ talent bloomed early. While still a schoolboy at St. Swithin’s he wrote his epic lines:
+If I am good I get an apple,
+So I don’t whistle in the chapel.
+
+From this distinguished beginning, he went on to write another 40 million poems, an achievement all the more remarkable when you consider that he was only five feet tall! I mention this fact only to show that physical problems never keep the true artist from creating. Byron, for example, was lame. Shelley suffered from prickly heat all winter long. Nonetheless, these three titans of literature never stopped writing poetry for one day. Nor did they neglect their personal lives. Byron, a devil with the ladies, was expelled from Oxford for dipping Nell Gwynne’s pigtails in an inkwell. (This later became known as Guy Fawkes Day.) He left England to fight in the Greek war of independence. He fought bravely and well, but women were never far from his mind, as evidenced by these immortal lines:
+How splendid it is to fight for the Greek,
+But I don’t enjoy it half as much as dancing cheek to cheek.
+
+While Byron fought in Greece, Shelley stayed in England, where he became razor sharpener to the Duke of Gloucester. Shelley was happy in his work, as we know from his classic poem,
+Hail to thee, blithe strop,
+but no matter how he tried he was never able to get a proper edge on the Duke's razor, and he was soon banished to Coventry. (This later became known as The Industrial Revolution.)
+
+One wonders how Shelley’s life—and the course of English poetry—would have differed if Personna Super Stainless Steel Blades had been invented 200 years earlier. For Personna is a blade that needs no stropping, honing, or whetting. It's sharp when you get it, and sharp it stays through shave after luxury shave. Here truly is a blade fit for a Duke or a freshman. Moreover, this Personna, this jewel of the blade-maker’s art, this boon to the cheek and bounty to the dewlap, comes to you both in double-edge style and Injector style. Get some now during “Be Kind to Your Kisser Week.”
+
+But I digress. Byron, I say, was in Greece and Shelley in England. Meanwhile, Keats went to Rome to try to grow. Who does not remember his wistful lyric:
+Although I am only five feet high,
+Some day I will look in an elephant’s eye.
+
+But Keats did not grow. His friends, Shelley and Byron, touched to the heart, rushed to Rome to stretch him. This too failed. Then Byron, ever the ladies' man, took up with Lucrezia Borgia, Catherine of Aragon, and Annie Oakley. Shelley, a more domestic type, stayed home with his wife Mary and wrote his famous poem:
+I love to stay home with the missus and write,
+And hug her and kiss her and give her a bite.
+
+Mary Shelley finally got so tired of being bitten that she went into another room and wrote Frankenstein. Upon reading the manuscript, Shelley and Byron got so scared they immediately booked passage home to England. Keats tried to go too, but he was so small that the clerk at the steamship office couldn’t see him over the top of the counter. So Keats remained in Rome and died of shortness. Byron and Shelley cried a lot and then together composed this immortal epitaph:
+Good old Keats, he might have been short,
+But he was a great American and a heck of a good sport.

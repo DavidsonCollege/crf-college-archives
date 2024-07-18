@@ -1,0 +1,134 @@
+Lal v Page Four October 10, 1969 The Davidsonian
+
+Visiting Mathematician Resolves Map Problem
+
+By BILL BECKMAN
+Staff Writer
+
+Using only four colors, can you color a political map so that no two adjacent countries have the same color? This problem, a simplified version of one that has baffled mathematicians for over a hundred years, has been solved by Dr. Joseph Miller Thomas, former editor of the Mathematical Journal and former Director of Graduate Study in Mathematics at Duke.
+
+On October 1, Thomas presented his proposed solution to a group of Davidson students and faculty members gathered at Jackson Court for a math coffee. His talk was entitled “A System of Equations of GF(3).” Thomas discussed a special theory of equations, applying it to what he called “a famous problem of geometry which has received more attention than it deserves.” For fifteen minutes no one realized what the “famous problem” was, until Dr. Bernard recognized that Thomas was proposing a solution to the four-color problem. This presentation at Davidson College marked the first time that Thomas has revealed his work on the problem. Thomas was invited to speak at Davidson by Dr. William G. McGavock and Dr. R. Bruce Jackson, professors of mathematics, both of whom had studied under Dr. Thomas when working on their doctorates.
+
+The problem itself is one of the most famous mathematical conjectures. It seems to have been proposed first by Moebius in 1840. The first solution to the problem was published by Kempe in 1879, but in 1890 Heawood showed that Kempe’s reasoning was faulty. The fact that more than ten years elapsed before anyone found an error in Kempe’s work implies that it may be some time before Thomas’ solution is accepted as valid by the mathematical community. But regardless of the final outcome, Thomas’ approach to the problem is itself a significant mathematical contribution.
+
+Thomas’ approach is partially based on a result obtained earlier by the mathematician O. Veblen, who showed that the solution of the four-color problem was equivalent to the solution of a system of linear equations. Thomas considers a system of equations in a certain algebraic structure which is called a Galois field of order three; in other words, he studies a system of equations in GF(3). Anyone who is familiar with the definition of a field can easily verify that the three integers -1, 0, and 1 form a field under the usual operations of addition and multiplication if the exceptions are made that 1 plus 1 equals -1 and -1 plus (-1) equals 1. This field is essentially GF(3).
+
+A “map” consists of arcs, faces, and boundaries. On a geographical map, these three terms correspond to countries, boundaries, and points where boundaries meet. A “regular map” is a map where exactly three arcs meet at each vertex. A simple characterization of Thomas’ proof is that he showed that a regular map on a sphere can be assigned numbers from GF(3) in such a way that each arc corresponds to a boundary and each face to a country, where each country is assigned one of the numbers -1, 0, or 1, and no vertex has three arcs which have been assigned the same number of GF(3).
+
+Thomas has been a semi-retired mathematician working as a consultant in Philadelphia. After a distinguished career as a mathematician and an educator, he feels ready to retire. “Thomas’ Last Theorem” is certainly an impressive denouement.
+
+(Staff Photo by Ramachandran)
+
+SOPHOMORES OUT OF STEP WITH ROTC (See Story, Page Six.)
+
+Heart Storage Advances Seen
+
+A new method for the storage of donor hearts to be involved in transplant operations was presented by Dr. Francis Robicsek in his talk to Alpha Epsilon Delta (AED) pre-med honorary on Wednesday. Robicsek delivered his report with a film of his work to over one hundred people who attended the meeting. Perhaps the most prominent thoracic surgeon in Charlotte, Robicsek based his report on work done by him and his colleagues at Charlotte Memorial Hospital. Basically, the method involves the excision of both the heart and the lungs from...
+
+Nyro’s Maiden Album ‘Very Heavy’ In Lyrics, Melody, Performance
+
+A REVIEW By ASHTON TRICE Staff Writer
+
+One should be skeptical of a reviewer who is entirely enthusiastic. So, if you must, be skeptical, because I'm very enthusiastic about Laura Nyro’s album “Eli and the Thirteenth Confession.” In fact, about the only bad thing I can say about it is that sometimes she obscures the wonderful things she is doing with her lyrics by...
+
+Free University Courses Maintain Variety
+
+Birth control, student activism, theory, Marxism, courses dealing with all of these topics, and others as well, will be offered by the Davidson Free University in its fall term this year. The Free University is an educational concept implemented at Davidson last year to provide a new channel for exploration in education and to complement the already existing facilities at Davidson. Last year’s program was a tremendous success (according to student coordinators), in spite of some financial difficulties, and an even more exciting curriculum is predicted for 1969-70.
+
+Courses to be offered this term include Beyond Conception (a study of the population explosion and its subsequent effects, taught by Jimmy Trussell), Sculpture (Dr. Clark), A History of Davidson College (Dr. Davidson), Personal Finance (Dr. Griffin), and Astronomy (Dr. Manning). Other offerings deal with guitar theory and ham radio, and there is even a course entitled DON'T MUMBLE WHEN YOU TALK TO ME!!! A hand-picked group of students has already been selected to participate in an Encounter series of discussions and studies between Davidson and Queen’s students.
+
+Upperclassmen By PAUL...JOHNSON Staff Writer
+
+On October 14, upperclassmen will elect SGA dormitory senators, RHC representatives, a Senior Class Cheerleader, and one Junior Class Senator. As of October 6, the following candidates had qualified:
+
+For SGA Senate: Roger Mills, Craig Garner, and Cliff Duke for Little; Al Norris, Robin Gray, Danny Clodfelter, and Charlie Summers for East Belk; Doug Gentry, Daniel Johnston, Joseph Turner, and Bill Mayfield for West Belk; and Lawrence Wilkinson, Ben Lacy, and Jonny Jewett for Center Belk.
+
+All dorms had candidates for the RHC: for Duke they are Edward Dial and P. B. Irby; for Little, Bill Gregory, Vance Simpson, and Jim Durant; for Richardson, Bob Wood and Stephen Roady; for East Belk, Don Parman and Steve Cross; for West Belk, Bob Stubbs, Ken Prestwich, and Tom Holcomb; and for Center Belk, Hal Mapes and David Russell.
+
+Candidates who wish their platforms to be mimeographed may obtain a stencil from Jim Hinshaw (C211).
+
+Freshman elections will be held October 21. Posts open to freshmen are: freshman RHC representative, dorm senators, freshman Class senator, and one freshman cheerleader. These elections involve East, Watts, and Cannon dorms. In the fourth week of the winter term, class senators will be elected and take office, except for the class senator elected by the freshmen; he will take office next year.
+
+“Sweet Blindness” and “Stoned Soul Picnic,” which are on this album. If you liked the Dimension’s, you'll prefer her versions. But don't go on just that, because these two songs are the least impressive of the album. Besides the fact that each song on this album is worth listening to, the whole album forms a cycle, describing how a woman goes through an inner journey, and gets a series of bad trips (from poverty, dope, etc.) to a joyous relation to life that can lead her, at the end of the last song, to shout: “I confess something/Love is surely gospel.”
+
+This album is a rarity in popular music: it is womanly. Perhaps Laura Nyro’s only counterpart is Janis Ian, but two things make her better than Janis Ian. First, she looks at bad experiences after their resolution: Janis Ian is still bitter, but Laura Nyro is at peace with herself and her world, and for that alone she deserves a hearing. The second difference is the music itself. Janis Ian is writing from a traditional folk background. But Laura Nyro is under the influence of Motown (don’t be turned off) and Broadway, of the Blues, and poets like Donovan and John Lennon. True, she does not do hard rock, so if you're of the opinion that nothing but “Blind Faith” and Hendrix are worth listening to, you might be disappointed. But I doubt that you can fail to be moved by the simple lyricism of an exquisite song like “Emmie,” about the strength found in friendship, or the incredibly powerful song in which she discovers her basis for life, “The Confession,” a mind-blower about transcendental sexual experience.
+
+On a campus such as Davidson, we might not want to look at the womanly point of view—true, it’s foreign, but her music and poetry (with such beautiful lines as: “See your brains on the floor/become God/become cripple/become funky” about sweet cocaine) have magic in them, and her voice more than measures up to her songs. This album is very, very heavy, in every aspect: lyrics, melody, and performance. Laura Nyro must be a very special person—mystic, sensual, beautiful, fresh; I can't find the right words.
+
+The donor to form a closed system in which the heart may be maintained for up to 27 hours by automatically perfusing itself and the lungs. The major advantage of the autoperfusion method is that it maintains the heart with a minimum of mechanical equipment. Conventional systems may require an entire heart-lung machine to maintain a heart whereas Robiscek’s method requires only a simple air pump to bring oxygen to the lungs.
+
+The hearts may be obtained from cadavers, and when prepared may be stored in plastic bags. Robiscek, however, did not foresee many chances for a great increase in heart transplant success until advances are made in the field of overcoming the body's automatic rejection systems. He did predict that improved techniques will make heart transplants clinically feasible before artificial hearts can be made.
+
+STEP Reorganized For Better Service
+
+By BILL LINEAWEAVER Staff Writer
+
+The Student Tutorial Education Program, or STEP, the gospel extension of Davidson's YMCA, has carried out a major internal social reconstruction in hopes of making itself a more useful and coherent organization.
+
+Originally founded to provide a tutorial service for Davidson-Cornelius-area elementary-school children who find themselves in academic trouble, STEP now wants to extend its activities to new areas of individual and community activity ranging from Mooresville.
+
+“Last year STEP was run very loosely by its leaders,” said James Parks, the present chairman of STEP. “No one knew what was doing. This year, we are going to be organized enough to use all of our resources. We are going to do new things, and do the old things better.”
+
+The major structural change in STEP is the establishment of three vice-chairmanships, each of which deals with a specific area in which STEP will be active this year. The tutorial program will be headed by Bill Naylor. Besides those from Davidson and Cornelius, children from Mooresville will be included. According to Parks, the emphasis of the program will be changed from “the academic-buddy relationship to an emphasis on the developing personality of each kid involved.” About 50 Davidson students are expected to be participating as tutors.
+
+STEP will also be working with teenagers in Charlotte and the Davidson area. This effort to become involved with junior high and high school students will be headed by Reggie Kennedy, a freshman from Charlotte.
+
+The third area will be that of “community research,” headed by Vernon Odum. This group will attempt to study social problems in and around Davidson. A fourth vice-chairman, Adrian Long, will deal with daily administration.
+
+Newspaper Wins 15th ACP All-American Prize
+
+This week THE DAVIDSONIAN continued its winning streak as it picked up its 15th straight All-American rating from the Associated Collegiate Press. The All-American award is the highest rating given by the ACP. The judges granted the paper 3600 points out of a possible 4000, well over the 3000 needed for the top rating.
+
+“You certainly dug for the news and hung on like bulldogs,” said the judge, who also made comments in his evaluation booklet on THE DAVIDSONIAN’s “good reporting” and “forthright, documented and vigorous (editorial) policy.”
+
+In the evaluation, the ACP awarded the paper marks of distinction in four of five areas: coverage and content, writing and editing, editorial leadership, and physical appearance. The award was based on the issues published during the second and third terms of the 1968-69 school year, under the editorships of Robbie Hooker, Franklin Anderson, and Bob Dunham.
+
+The evaluation was complimentary in all areas except one. In its only major criticism, the ACP awarded only 75 percent of the possible points for photography.
+
+Phone 892-2111
+
+PARKS REXALL DRUGS
+Hours: 9 A.M. to 8 P.M. — Sunday 9:30 to 10:30
+Davidson, N. C.
+Complete Prescription Service — Sundries — Toiletries
+Cosmetics — Russell Stover Candies
+131 N. Main St.
+
+MONEY
+Pick up a few dollars per week selling advertising for THE DAVIDSONIAN
+Contact Jack Wellman, R210, or Come by the office Sunday night at 10.
+
+SHRUDE
+M. F. HOLDEN CO.
+CHARLOTTE’S NO. 1 Boutique
+200 Independence
+Belts, Unisex, Body Shirts
+Bell Bottoms, Leather & Incense
+
+MEET YOUR FRIENDS
+GONDOLA RESTAURANT
+W. INDEPENDENCE AT WILKINSON BLVD.
+CHARLOTTE
+WHILE ENJOYING THE BEST
+PIZZA and SPAGHETTI
+Before or After the Game
+Call Us For Your Needs For
+PARTIES OR LARGE GROUPS
+
+We have not only Chicken but also Fish and Shrimp for your Saturday outing.
+
+COLONEL SANDERS’ RECIPE
+Kentucky Fried Chicken
+503 S. Broad, Mooresville, N.C.
+Phone 664-1505
+
+Lightly Stained Hand Burnished Leather Lined
+Buckle Boot 28.00
+Buckle Oxford 25.00
+BOSTONIAN’S Mansfields
+These Only Look Expensive
+Come try on a pair! You'll see what we mean
+Clothing for the Pace Setting Traditionalist
+Soha Mock & Son
+Our 57th Year — Mooresville
+Your Charge Account Invited

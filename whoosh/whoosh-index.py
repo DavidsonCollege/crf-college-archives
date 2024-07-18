@@ -17,7 +17,7 @@ ix = index.create_in("index", schema)
 writer = ix.writer()
 
 # Path to the directory containing the text files
-docs_path = "all-text-docs"
+docs_path = "all-txt-openai-final"
 
 # Index each file
 for filename in os.listdir(docs_path):

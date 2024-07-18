@@ -1,0 +1,33 @@
+By Colin EAGAN Staff Writer
+
+The Davidson Internet home page will undergo a facelift before 2002. Though serviceable, the current site has grown cumbersome and inefficiently organized. A new design is being developed in response to observations that Davidson Online has been weaving a tangled web.
+
+The home page we now know so well has been active since 1997, when it was completed by the company Vialogix, headed by alumnus Ron Chapple ’79. Bryan Skelton ’93 was also instrumental in the development of the site.
+
+“The current site has served us very well,” said Meg Kimmel ‘77, Director of College Communications. “But, it’s been around for five years now, and we’ve learned a lot about how people use the Internet in that time.”
+
+Kimmel points to a change in the logic behind web page programming as it has developed over the years. “Many early web pages were created with less of an idea of how people were going to use them and how navigation really works,” she continued. “The current Davidson page mirrors in many ways the organizational structure of the college, rather than focusing on how site visitors will navigate it efficiently.”
+
+The new page, which will be built on a completely new server, should be a good deal more user-friendly. The graphic design will be completely new, although the basic components of the homepage will be much the same.
+
+Redesigning the page is no easy task. College web designers face the dual task of creating a page that must serve the college community and represent Davidson to the rest of the world. Many prospective students and their parents are introduced to the school not in person, but electronically. And you only get one chance to make a first impression.
+
+“For many students it’s the first time they come across us,” commented Kimmel. “We certainly want to reflect as much as possible about what Davidson is and what we believe in.”
+
+School’s Web site will get facelift before 2002
+
+Tucker had been formulating ideas on how to restructure the site for a full year before her arrival. “The current site is usable and efficient, with appeal to both the Davidson community and the external audience,” Tucker said. “But there is room for improvement. I observed difficulty with page management on the current site, in the sense that it was a bit cumbersome to get around. It prompted me to think of ways that we could better implement a management system.”
+
+Tucker hopes to represent the nature of an entire school on one website. “There are many on campus who hope to liberate the minds of young people through leadership and service,” she said.I can convey the classical sentiment at Davidson: "Ways of Giving Welcome to Davidson College." Content information and message management continued. "But Davidson’s website will get a facelift in the coming months. How you translate that into a workable, useable, manageable website is a whole other thing."
+
+To assure that such a challenge is met head-on, a new employee has been brought to Davidson. Sandra Tucker has taken on the position of Editor of New Media and has worked extensively on developing the new page since August. Tucker has collaborated with the Joint Committee on Information and Technology and the Web Oversight Committee, whose members had been generating content.
+
+Earth Systems Science and Astronomy programs are offered for Science and Non-science majors at Columbia University Biosphere 2 campus near Tucson, Arizona. Assisted by Jaimie Beatty in ITS, she has been developing prototypes involving Active Server Page technology, or ASP. This technology, developed by Microsoft, allows those with pages on the Davidson site to manage their web space more easily. Currently, knowledge of HTML is required for editing purposes. ASP coding will allow for easier page maintenance, without dependence on HTML familiarity. Kimmel hopes this will assist many on campus who deal with the cumbersome system that currently exists.
+
+"There are a lot of faculty on campus who enjoy web work, but their job is to teach," she said. "They don’t have the time to be updating content, even if they are fluent in HTML coding." Beatty speaks highly of the new technology. "Active Server Pages technology allows us to create dynamic, data-driven web pages," she commented. "Many of the new pages won’t be HTML code at all; they will be built dynamically from information stored in a database. We also plan to use ASP to create a searchable Image Catalog of photos and graphics, which the campus can use in their web pages or download for print material."
+
+Because individual page authors will no longer have to program from scratch, ASP technology should assist in developing more continuity among pages on the Davidson site. Tucker also hopes to develop a web page guide for all those editing web space online. The result should be a neater and more user-friendly website. "Our goal is to achieve graphic unity without uniformity, and consistency without cookie-cutter sameness," said Tucker. After all, any website is only as strong as its weakest link. Hopefully, the new systems will come in handy for the not-so-technologically-inclined among us. Just ask Wes Chaney ’04. "I hear the page will operate with a new flux capacitor," he avowed. "Now that’s technology."
+
+Those in College Communications hope to have the new site up before the start of the new calendar year. Kimmel assures the Davidson community that an instantaneous changeover will mean we are not left for even a second without a website. As she observed, "We’re all too dependent on it!"
+
+Davidson College Undergraduate Students can earn up to 18 course credits. At Davidson, contact Michael Dorcas, Dept. of Biology, at 894-2727 or midorcas@davidson.edu. You may also visit Biosphere 2 at...

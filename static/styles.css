@@ -1,3 +1,4 @@
+/* STYLE DOCUMENT */
 
 
 /* BODY */
@@ -8,7 +9,12 @@ body {
   padding-top: 20px;
 }
 
-
+.open-davidson {
+  font-family: 'quattrocento';/* Change 'YourDesiredFont' to the desired font family */
+  font-size: 1.8rem; /* Adjust the font size as needed */
+  font-weight: bold; /* Adjust the font weight as needed */
+  color: #333; /* Adjust the text color as needed */
+}
 
 /* NAVIGATION BAR */
 .navbar-custom {
@@ -26,8 +32,20 @@ body {
 .navbar-custom .nav-link:hover {
   color: rgb(14, 13, 13); /* Text color on hover */
 }
-
-
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
+.dropdown-menu {
+  background-color: #343a40;
+  border: none;
+}
+.dropdown-item {
+  color: white;
+}
+.dropdown-item:hover {
+  background-color: #50575e;
+}
 
 /* SEARCH BAR */
 #search-bar {
@@ -38,23 +56,10 @@ body {
   margin-left: 15%;
   margin-right: 15%;
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
-
-
-
 /* SEARCH RESULTS */
-#search-results {
-  margin-top: 20px;
-  margin-left: 15%;
-  margin-right: 15%;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-
-/* CONTROLLED VOCAB */
-#controlled-vocab {
+#search-results{
   background-color: #fff;
   padding: 20px;
   border-radius: 8px;
@@ -64,39 +69,178 @@ body {
   margin-top: 10px;
   margin-bottom: 10px;
 }
-#controlled-vocab h3 {
+
+/* HOME CONTENT */
+#home-content h3{ 
+  max-width: 33%;
+  font-family: 'quattrocento';
+  border-radius: 8px;
+  color: #CE1B1B;
+  font-size: 2.2rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+}
+#home-content h5{ 
+  font-family: 'quattrocento';
+  color: #CE1B1B;
+  font-weight: bold;
+}
+
+/* INSTRUCTIONS CONTENT */
+#instructions-content h3{
+  font-family: 'quattrocento';
   color: #CE1B1B;
   font-size: 1.8rem;
   font-weight: bold;
   margin-bottom: 20px;
 }
-#controlled-vocab h4{ 
+#instructions-content{ 
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* CONTROLLED VOCAB */
+#cv-content {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#cv-content h3 {
+  font-family: 'quattrocento';
+  color: #CE1B1B;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+#cv-content h4{ 
+  font-family: 'quattrocento';
   color: #CE1B1B;
   font-size: 1.5rem;
   font-weight: bold;
   margin-bottom: 10px;
 }
-#controlled-vocab p {
+#cv-content p {
   font-size: 1.1rem;
   line-height: 1.6;
 }
-#controlled-vocab h5{ 
+#cv-content h5{ 
+  font-family: 'quattrocento';
   color: #CE1B1B;
   font-size: 1.2rem;
   margin-bottom: 5px;
 }
-#controlled-vocab li{ 
-  font-family: 'Times New Roman', Times, serif; 
+#cv-content li{ 
+  font-family: 'quattrocento';
 }
 #vocab-list li:hover {
   color: #CE1B1B;
   cursor: pointer; 
 }
 #vocab-list li.extra-space {
-  margin-bottom: 20px; /* Add more space after these items */
+  margin-bottom: 20px; 
 }
 
+/* ABOUT CONTENT */
+#about-content{ 
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#about-content h3{ 
+  font-family: 'quattrocento';
+  color: #CE1B1B;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+#about-content h5{ 
+  font-family: 'quattrocento';
+  color: #CE1B1B;
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+}
+#about-content h6{ 
+  font-family: 'quattrocento';
+  color: #CE1B1B;
+  font-size: 1.4rem;
+  margin-bottom: 10px;
+}
+#about-content img{ 
+  max-width: 40%;
+  margin-left: 0%;
+  margin-right: 35%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#about-content p{ 
+  margin-top: 0%;
+}
 
+#about-content .logo-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40%;  /* Adjust the width as needed to make it medium-sized */
+}
+
+/* TEAM CONTENT */
+#team-content{ 
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#team-content h3{ 
+  font-family: 'quattrocento';
+  color: #CE1B1B;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+#team-content h5{ 
+  font-family: 'quattrocento';
+  color: #CE1B1B;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+#team-content img{ 
+  max-width: 50%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+team-content li.smaller{ 
+  max-width: 15%;
+  margin-left: 0%;
+  margin-right: 15%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 
 /* SEARCH BUTTON */
 .btn-maroon {
@@ -109,40 +253,40 @@ body {
   border-color: #B40000;
 }
 
-
-
-
-#content-area { 
+/* ADVANCED SEARCH FUNCTION */
+#advanced-search-content {
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+  margin-top: 20px;
   margin-left: 15%;
   margin-right: 15%;
   margin-top: 10px;
-  margin-bottom: 10px;
 }
-
-#content-area h3{ 
+#advanced-search-content h3 {
+  font-family: 'quattrocento';
+  background-color: #fff;
   color: #CE1B1B;
   font-size: 1.8rem;
   font-weight: bold;
-  margin-bottom: 20px;
+}
+#advanced-search-form .btn-maroon {
+  background-color: #800000;
+  color: #ffffff;
+}
+#advanced-search-form .btn-maroon:hover {
+  background-color: #660000;
 }
 
-#content-area h5{ 
-  color: #CE1B1B;
-  font-size: 1.5rem;
-  margin-bottom: 20px;
-}
-
-#content-area img{ 
-  max-width: 50%;
-  margin-left: 15%;
-  margin-right: 15%;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
+/* Highlight Style for Keyword Search Reults */ 
 .highlight {
-  background-color: yellow; /* Highlight color */
-  font-weight: bold;
+  background-color: yellow;
 }
 
 

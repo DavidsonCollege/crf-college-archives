@@ -1,0 +1,33 @@
+**Bandwidth increases, but new problems surface**
+
+*By PK Patel, Staff Writer*
+
+While heavy machines dug ditches and construction workers laid brick this summer, campus computer wizards worked on another kind of renovation: the upgrade from a T1 to a T3 Internet connection. Last semester, disgruntled students sat impatiently at their computers, waiting with frustration for a Web page to load or file to download. Upon returning to campus, many were delighted to see performance increase and wait decrease. However, the problems of spring have resurfaced this fall.
+
+Last year, Information Technology Services (ITS) and Business Services received numerous complaints about what continues to be a growing problem for many educational institutions. The Internet connection was simply too slow. Students and professors trying to do Internet-based research were hindered by the painstakingly long time it took to load Web pages and download educational material.
+
+“By the middle of last spring, the bandwidth was maxed out,” said Robert Norfleet, Vice President for Business and Finance. This problem was “compromising the ability of students to get their work done.”
+
+The school decided it was time to take action. The Internet bandwidth was more than tripled from last year’s three megabytes per second (MB/s) to 10 MB/s this year. However, the upgrade comes with a hefty payment - $125,000 per year.
+
+Testing over the summer showed that the upgrade was a success. Unfortunately, as students returned to campus, so did the problem. People once again reported slow Internet performance, and the monitoring service for the college website (www.davidson.edu) reported sluggish results.
+
+The problem is simple: as more bandwidth became available to students, they used more of it. Monitoring Internet traffic has shown that approximately 50% of the incoming traffic is consumed by three protocols used to share music and video files: KaZaA, Gnutella, and IMesh. An even more startling statistic is that these protocols consume over 75% of the outbound traffic. Adding to the consumption of bandwidth is other Internet traffic, including live video streams, Internet radio, downloading of video games, and non-educational software.
+
+In order to facilitate educational uses of the Internet, ITS reduced the priority on media protocols, limiting peer-to-peer file sharing to 10% of the available bandwidth at any given time. Some improvement was noticed in other Web traffic, which accounts for about two-thirds of all campus Internet use, but not enough to satisfy all users.
+
+“This is a problem everywhere in higher education,” said Norfleet, noting that Davidson is not the only college that will have to find a solution to this problem. Norfleet emphasized that the college provides the Internet as a tool for expanding the availability of information to students and faculty, and not as a toy for entertainment. This does not mean that students are not allowed to use the Internet as a form of entertainment, but such use should not interfere with its legitimate use for educational purposes.
+
+ITS has determined that increasing bandwidth once again would be ineffective because the cost would be unreasonable and the relative consumption of bandwidth would be unlikely to decrease. The amount of information transferred over the Internet is increasing every day; so, too, is student use.
+
+The most feasible solution involves cooperation from all on-campus Internet users. ITS e-mailed the link to their newsletter (www.davidson.edu/computing/network/resnet/itsnews) to the college community, explaining the bandwidth crisis and actions that should be taken to improve connection speed.
+
+According to ITS, Internet users should use the Internet only when needed and eliminate any unnecessary use. Minimizing the use of media protocols such as KaZaA, Gnutella, IMesh, Morpheus, Audio Galaxy, LimeWire, and BearShare would see the largest improvement. By using these programs “students don’t realize their computer is being turned into a server,” commented Norfleet. “It makes students vulnerable.”
+
+The use of these programs allows any Internet user access to individual computers. That is, anyone with the appropriate software can scan through and download files from a peer’s computer. This not only limits privacy but also consumes an enormous amount of bandwidth.
+
+What many students and faculty may not realize is that once the programs are turned on, files may be uploaded from their computer without their knowledge. These programs automatically share files saved to a user’s hard drive.
+
+The most recent ITS newsletter emphasizes that this sharing should be deactivated. This action alone would greatly reduce the consumption of bandwidth. Live audio and video streams constantly consume bandwidth, so it is suggested that live streams be only used if essential. It is also suggested that the Internet be used for entertainment purposes during off-peak hours, from 1 a.m. to 8 a.m. and Fridays and Saturdays after 9 p.m.
+
+Davidson Undergraduate Students can earn 16 or more course credits.
