@@ -80,9 +80,11 @@
   <h3><srtong>Advanced Search</srtong></h3>
   <p>This search function grants you more ability to filter and contextualize your search. 
     Use the <strong>"Date From"</strong> and <strong>"Date To"</strong> inputs to specificy what 
-    time period you want your results to include. Further, you may input the amount 
-    of <strong>"Context Lines"</strong> you want to reveal around your keyword. 
-    Higher context line inputs will reveal more of the surrounding text for any given search.</p>
+    time period you want your results to include.</p>
+    <p>Further, you may input the amount of <strong>"Context Lines"</strong> you want to reveal around your 
+      keyword. Context lines control the amount of text revealed before and after your query. Higher 
+      context line inputs will reveal more of the surrounding text for any given search. There is a 
+      limit of 20 context lines for any search. </p>
   <form id="advanced-search-form">
       <div class="form-group">
           <label for="keyword">Keyword</label>
@@ -115,7 +117,7 @@
         list from the Davidson College Archives. Click on a name or term, and search results will appear automatically.</li></p>
       <p><li>If you are not using the Controlled Vocabulary list, type your term or name into the search bar and click 
         the “Search” button. You can use various search operators to refine your search. These operators are explained 
-        below. For more inforamtion, view our <a href="static/assets/Search_Operators.png" class="image-link">table on search operators.</a></p></li>
+        below. For more inforamtion, view our <a href="static/assets/SearchOperatorsTable.png" class="image-link">table on search operators.</a></p></li>
             <ul>
               <li><strong>AND</strong> (default): This will produce search results that include every 
                 scan in which the operated terms both appear in. </li>
@@ -375,8 +377,6 @@
         OCR, generative AI assistants, APIs, and RAG, and learned about the Digital Humanities 
         field as a whole. We hope that more people will be able to gain valuable information 
         about Davidson’s history by using this website.</p>
-      <p>For more information about the process, click <a href="https://www.davidson.edu">here</a> 
-        to find our paper summarizing our work.</p>
     <h5>Methodology</h5>
     <p>The goals of this project were to create searchable pdfs and readable text files from the 
       Davidson scans currently housed in the Archives system. The central process in this goal was
@@ -389,9 +389,7 @@
       postprocessing. Both of these subprocesses are intended to increase the content captured and 
       the accuracy of the text in our final text files. Accuracy measurements and tests were based 
       on 5 ground truth documents, or pages of the Davidsonian that were manually typed out. 
-      Our workflow is briefly explained in the following sections, however, for a 
-      more in-depth explanation of our processing, please refer to 
-      our <a href="https://www.davidson.edu">research paper.</a></p> 
+      Our workflow is briefly explained in the following sections.
     <h6>Pre Processing</h6>
     <p>Our preprocessing methodology required us first to classify scans according to their quality. 
       Using the in-depth data that we collected on each scan, we constructed a composite score to 
@@ -410,9 +408,7 @@
     <h6>OCR</h6>
     <p>The second step of our process was to run all 23,000 documents through <a href="https://github.com/tesseract-ocr/tesseract">Tesseract</a>, 
       an open-source OCR engine by Google that recognizes and extracts text from documents. 
-      Through our research, we found Tesseract to be the most accessible and useful tool for our project. 
-      For more information as to why we chose Tesseract, please refer to the "something" section of 
-      our <a href="https://www.davidson.edu">research paper.</a> For each scan (inputted as a tif file) we produced 
+      Through our research, we found Tesseract to be the most accessible and useful tool for our project. For each scan (inputted as a tif file) we produced 
       a searchable pdf and a text file. Although the text files were comprehensible and had respectable 
       levels of accuracy, there were still areas obfuscated by miscellaneous characters or errors in the text.</p>
     <img src="{{ url_for('static', filename='assets/OCRPic.png') }}" alt="OCR" class="img-fluid rounded">
@@ -497,7 +493,8 @@
     <img src="{{ url_for('static', filename='assets/philo.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">
     <p><strong>Philo Gabra</strong> Class of 2025<br>Philo is a Computer Science Major, Data Science Minor from Cairo, Egypt. On campus, 
       he works for Davidson Technology & Innovation (T&I) as a Student Consultant and for the Department of Mathematics and 
-      Computer Science as a grade. He has been an active member and secretary of the Davidson International Association (DIA).</p>
+      Computer Science as a grade. He has been an active member and secretary of the Davidson International Association (DIA). He has 
+      researched and developed in many fields including VR, machine learning, mobile development, etc.</p>
     <p></p>
     <p></p>
     <p></p>
@@ -546,6 +543,7 @@
     </ul>
     <h6>Additional</h6>
     <ul>
+    <li><p>Funding through the Community Research Fellows Program, with support from Davidson College and the Bonner Foundation</p></li>
     <li><p><strong>Stella Mackler</strong> (and the 100+ years of student journalism that made this project possible!) <em>Class of 2026, 
       Editor-in-Chief of the Davidsonian</em></p></li>
     <li><p><strong>Software Developers</strong> <em>Tesseract, sbb_binarization, OpenAI Assistant API</em></p></li>
@@ -630,7 +628,7 @@
                                 <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#${collapseId}" aria-expanded="true" aria-controls="${collapseId}">
                                     ${item.title}
                                 </button>
-                                <a href="${item.pdf_url}" target="_blank" class="btn btn-link">View Page</a>
+                                <a href="${item.url}" target="_blank" class="btn btn-link">View Page</a>
                                 </button>
                                 <a href="${item.url}" target="_blank" class="btn btn-link">View Issue</a>
                             </h2>

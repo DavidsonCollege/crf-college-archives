@@ -16,7 +16,7 @@ import csv
 app = Flask(__name__)
 ix = index.open_dir("index")
 
-# Creating dictionary from permalinks csv and pdf links
+# Creating dictionary from permalinks
 def read_csv_to_dict(csv_file):
     url_dict = {}
     with open(csv_file, mode='r', newline='', encoding='utf-8') as file:
@@ -37,7 +37,6 @@ def search_index(query_str, date_from_str='', date_to_str='', context_lines_str=
 
     # Dictionaries for urls to pdf and tifs
     url_dict = read_csv_to_dict('static/assets/Permalinks.csv')
-    # pdf_url_dict = read_csv_to_dict('static/assets/pdf_Links.csv')
 
     # Advanced search parameters 
     date_from = datetime.strptime(date_from_str, "%Y-%m-%d").date() if date_from_str else None
@@ -91,7 +90,7 @@ def search_index(query_str, date_from_str='', date_to_str='', context_lines_str=
                     "title": transform_title(hit["title"]),
                     "matching": matching_lines,
                     "url": url, 
-                    "pdf_url": "", # this is where the pdf url variable: pdf_url will go 
+                    #"pdf_url": "", # this is where the pdf url variable: pdf_url will go 
                     "date": file_date.strftime("%Y-%m-%d"),
                     "score": hit.score # This is the relevance score
                 })
