@@ -7,36 +7,70 @@ SGA pushes for Internet voting system by Spring elections
 By Jessica MERING
 Staff Writer
 
-The members of the Student Government Association and Honor Council are supposed to represent the entire student body but, in fact, are chosen by only about one third of it. In an effort to increase voter turnout, the SGA passed a resolution last night that encourages Information Technology Services to make voting online available as soon as possible.
+The members of the Student Government Association and Honor Council are supposed to represent the entire student body but, in
+fact, are chosen by only about one third of it. In an effort to increase voter turnout, the SGA passed
+a resolution last night that encourages Information Technology Services to make voting online available as soon as possible.
 
-“...[W]e, the Student Government Association, representing the best interest of the students, ask ITS to have online voting in effect before Category II Elections of Spring 2001,” states the resolution. The resolution was proposed by Bobby Pittenger ’02, Kevin Epps ’03, and Randy Skattum ’01.
+“...[W]e, the Student Government Association, representing the best interest of the students, ask ITS to have online voting in effect
+before Category II Elections of Spring 2001,” states the resolution. The resolution was proposed by Bobby Pittenger ’02, Kevin Epps
+’03, and Randy Skattum ’01.
 
-Low voter turnout in recent elections has spurred the demand for online voting, which SGA members say would make the process much more accessible to students. “We could leave the polls open for 24 hours a day and allow students to vote from any computer on campus. This would make it possible to fit voting into any busy schedule,” asserted Skattum, co-chairman of the Election Council.
+Low voter turnout in recent elections has spurred the demand for online voting, which SGA members say would make the
+process much more accessible to students. “We could leave the polls open for 24 hours a day and allow students
+to vote from any computer on campus. This would make it possible to fit voting into any busy schedule,” asserted
+Skattum, co-chairman of the Election Council.
 
-The SGA is working with ITS to bring the idea to life, and hopes to have a system ready for the Category II elections this spring. “The request for development of a balloting system is on a list of about two dozen requests from around the college. A subcommittee of the Joint Committee for Information Technology is working on prioritizing the requests,” explained John Casey, Executive Director and Professor of ITS.
+The SGA is working with ITS to bring the idea to life, and hopes to have a system ready for
+the Category II elections this spring. “The request for development of a balloting system is on a list of about
+two dozen requests from around the college. A subcommittee of the Joint Committee for Information Technology is working on prioritizing
+the requests,” explained John Casey, Executive Director and Professor of ITS.
 
-Many area schools, including UNC Charlotte and N.C. State, have already held online elections, and UNC Chapel Hill and Wake Forest plan to hold their first ones next semester. Winthrop and Johnson C. Smith universities also are considering a switch. Some schools, such as UNCC, use their on-campus computer networks, while others contract with Internet companies to tally the votes.
+Many area schools, including UNC Charlotte and N.C. State, have already held online elections, and UNC Chapel Hill and Wake
+Forest plan to hold their first ones next semester. Winthrop and Johnson C. Smith universities also are considering a switch.
+Some schools, such as UNCC, use their on-campus computer networks, while others contract with Internet companies to tally the votes.
 
-While members of the Election Council are capable of developing some of the Web programming needed, ITS officials would need to write the script to process the program and tally the results. To vote, each student would sign in at a designated website by using either their student ID number or another assigned identification number. They would then select candidates and submit the form. Results would be tallied continuously and would be available.
+While members of the Election Council are capable of developing some of the Web programming needed, ITS officials would need
+to write the script to process the program and tally the results. To vote, each student would sign in at
+a designated website by using either their student ID number or another assigned identification number. They would then select candidates
+and submit the form. Results would be tallied continuously and would be available.
 
 Students draw ire for night under the stars
 
 By Linny BALDWIN
 Staff Writer
 
-The lack of things to do in the small town of Davidson, North Carolina is a frequent cause of complaint for Davidson students. Students usually have to create their own fun in the form of parties, hall socials and study breaks. Thinking along these lines, Nathan Flaim ’04 and Brad Bridges ’04 came up with the idea of camping on the lawn in front of Little and Watts. They thought it would be fun to set up their tents and sleep under the stars for a few nights. The campus police, however, disagreed.
+The lack of things to do in the small town of Davidson, North Carolina is a frequent cause of complaint
+for Davidson students. Students usually have to create their own fun in the form of parties, hall socials and study
+breaks. Thinking along these lines, Nathan Flaim ’04 and Brad Bridges ’04 came up with the idea of camping on
+the lawn in front of Little and Watts. They thought it would be fun to set up their tents and
+sleep under the stars for a few nights. The campus police, however, disagreed.
 
-Flaim, Bridges and Elijah Smith ’04 spent the night of Thursday, October 12 in tents after pitching them around 2:30 pm. According to Flaim, this was “accomplished ... with absolutely no problem, or even comment, from authorities.” Flaim took down his tent the following day to leave on a trip; Bridges slept outside on Friday and Saturday nights without incident. Since he’d asked his hall counselors if it was all right and been told it was, he was not expecting a Sunday afternoon visit from a police officer who told him the tent needed to come down — immediately.
+Flaim, Bridges and Elijah Smith ’04 spent the night of Thursday, October 12 in tents after pitching them around 2:30
+pm. According to Flaim, this was “accomplished ... with absolutely no problem, or even comment, from authorities.” Flaim took down
+his tent the following day to leave on a trip; Bridges slept outside on Friday and Saturday nights without incident.
+Since he’d asked his hall counselors if it was all right and been told it was, he was not expecting
+a Sunday afternoon visit from a police officer who told him the tent needed to come down — immediately.
 
-Bridges complied with the officer’s request and asked the officer whether there was any specific policy against camping on the lawn. The officer did not provide a clear answer but insisted that the tent be removed.Internet, page 6 VOLUME 92, NUMBER 8
+Bridges complied with the officer’s request and asked the officer whether there was any specific policy against camping on the
+lawn. The officer did not provide a clear answer but insisted that the tent be removed.Internet, page 6 VOLUME 92,
+NUMBER 8
 
-Professor of German and Humanities and Registrar Hansford Epes, winner of this year’s Thomas Jefferson Award, receives congratulations from Professor Jean O'Neill.
+Professor of German and Humanities and Registrar Hansford Epes, winner of this year’s Thomas Jefferson Award, receives congratulations from Professor
+Jean O'Neill.
 
 College rewards Epes’ dedication
 
-At Saturday’s Fall Convocation, Davidson College named one of its longest-standing citizens, Hansford Epes, Registrar and Professor of German and Humanities, as the recipient of the 2000-2001 Thomas Jefferson Award. The annual award is made to a faculty member who by “personal influence, teaching, writing, and scholarship” promotes the high ideals of Thomas Jefferson. The overriding outstanding quality is described as that of having given of self “generously and well beyond the call of duty to College causes advancing in some manner those ideals and objectives personified in Thomas Jefferson.”
+At Saturday’s Fall Convocation, Davidson College named one of its longest-standing citizens, Hansford Epes, Registrar and Professor of German and
+Humanities, as the recipient of the 2000-2001 Thomas Jefferson Award. The annual award is made to a faculty member who
+by “personal influence, teaching, writing, and scholarship” promotes the high ideals of Thomas Jefferson. The overriding outstanding quality is described
+as that of having given of self “generously and well beyond the call of duty to College causes advancing in
+some manner those ideals and objectives personified in Thomas Jefferson.”
 
-Epes entered Davidson as a freshman student in 1957, has been teaching at his alma mater since 1964. He was appointed Registrar in the spring of 2000. Upon naming Epes as the Registrar, Clark Ross, Vice President for Academic Affairs, noted that, “no one is more dedicated to the institution than Hansford. His blend of experience and expertise will serve Davidson well in the registrar’s office.” Epes has held many positions of responsibility at the college, including coordinator of international education, chair of the German department, the first-ever coordinator of academic computing, adviser for Rhodes and...
+Epes entered Davidson as a freshman student in 1957, has been teaching at his alma mater since 1964. He was
+appointed Registrar in the spring of 2000. Upon naming Epes as the Registrar, Clark Ross, Vice President for Academic Affairs,
+noted that, “no one is more dedicated to the institution than Hansford. His blend of experience and expertise will serve
+Davidson well in the registrar’s office.” Epes has held many positions of responsibility at the college, including coordinator of international
+education, chair of the German department, the first-ever coordinator of academic computing, adviser for Rhodes and...
 
 see Epes, page 3
 
@@ -45,18 +79,32 @@ Court provides oversight for Senate
 By AMBER PARKE
 Staff Writer
 
-There’s a new court in town - but unless you are a class senator who’s been misbehaving or slacking off on the job, there’s no need to worry. For the first time in eight years, the Student Government Association (SGA) has reinstated the SGA Court, which is called for in the government’s bylaws. The Court’s main duties will include interpreting the bylaws and removing elected SGA officials from office. Senators are in jeopardy of impeachment if they are absent from three student council meetings, miss more than 50% of all SGA-sponsored events, or abandon their duties as an elected member.
+There’s a new court in town - but unless you are a class senator who’s been misbehaving or slacking off
+on the job, there’s no need to worry. For the first time in eight years, the Student Government Association (SGA)
+has reinstated the SGA Court, which is called for in the government’s bylaws. The Court’s main duties will include interpreting
+the bylaws and removing elected SGA officials from office. Senators are in jeopardy of impeachment if they are absent from
+three student council meetings, miss more than 50% of all SGA-sponsored events, or abandon their duties as an elected member.
 
-Senator Kevin Epps ’03, chairman of the bylaws committee, said there has been no need for the court up to this point. But some SGA members, including Sophomore Class President Gray Patterson, note that any governing body needs a political counterweight. The move comes as part of an effort to re-examine and improve the bylaws and operating procedures under which the SGA currently operates. To do that as justly as possible, SGA members decided it was time to re-establish an impartial body to review its decisions.
+Senator Kevin Epps ’03, chairman of the bylaws committee, said there has been no need for the court up to
+this point. But some SGA members, including Sophomore Class President Gray Patterson, note that any governing body needs a political
+counterweight. The move comes as part of an effort to re-examine and improve the bylaws and operating procedures under which
+the SGA currently operates. To do that as justly as possible, SGA members decided it was time to re-establish an
+impartial body to review its decisions.
 
-President Dane Erickson chose the four members at the October 17 SGA meeting: Carrie Porath ‘01, who will serve as the court’s chairperson, Elder Gwin ‘02, and Joel Sadler ‘03. “Carrie possesses an unparalleled combination of intelligence and enthusiasm and provides leadership in everything that she does,” asserted Erickson. “Elder is a meticulous, thorough, and responsible man who takes pride in every job he is assigned. Although he does not have any previous SGA experience, this will allow him to be as fair as possible when making decisions.” “(Joel is) genuinely loved by all students on campus. He is friendly and outgoing and...
+President Dane Erickson chose the four members at the October 17 SGA meeting: Carrie Porath ‘01, who will serve as
+the court’s chairperson, Elder Gwin ‘02, and Joel Sadler ‘03. “Carrie possesses an unparalleled combination of intelligence and enthusiasm and
+provides leadership in everything that she does,” asserted Erickson. “Elder is a meticulous, thorough, and responsible man who takes pride
+in every job he is assigned. Although he does not have any previous SGA experience, this will allow him to
+be as fair as possible when making decisions.” “(Joel is) genuinely loved by all students on campus. He is friendly
+and outgoing and...
 
 see Court, page 2
 
 INSIDE THIS WEEK
 
 ATC manages funds
-Various chairpersons and presidents know that the Activities Tax Council (ATC) is the primary source of funding for most student groups. How can it satisfy everyone?
+Various chairpersons and presidents know that the Activities Tax Council (ATC) is the primary source of funding for most student
+groups. How can it satisfy everyone?
 News page 2
 
 Blalock Lecture
@@ -64,7 +112,8 @@ On Thursday, October 19, Kay Redfield Jamison delivered the inaugural David Blal
 News page 3
 
 Zogby Poll
-How would the presidential candidates fare in a beauty pageant? The pollsters addressed the most difficult questions of the electoral season.
+How would the presidential candidates fare in a beauty pageant? The pollsters addressed the most difficult questions of the electoral
+season.
 Politics page 4
 
 Can you love God too much?

@@ -85,4 +85,5 @@ CU
 
 ---
 
-Note: Some parts of the text were difficult to interpret due to the quality of the OCR, but I have preserved the original structure and punctuation as much as possible.
+Note: Some parts of the text were difficult to interpret due to the quality of the OCR, but I have
+preserved the original structure and punctuation as much as possible.

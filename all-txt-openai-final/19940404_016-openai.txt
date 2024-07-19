@@ -7,34 +7,50 @@ Davidson College
 UPDATE
 
 NEW! INTERLIBRARY LOAN & PHOTOCOPY REQUESTS ON-LINE
-To request an interlibrary loan book or photocopy, select #6 from the revised menu on CHAL and complete the loan form on that screen. The request will be sent by e-mail to the interlibrary loan assistant in the Library who will then process your request. You will be notified by e-mail or phone when it arrives.
+To request an interlibrary loan book or photocopy, select #6 from the revised menu on CHAL and complete the loan
+form on that screen. The request will be sent by e-mail to the interlibrary loan assistant in the Library who
+will then process your request. You will be notified by e-mail or phone when it arrives.
 
 NEW! BOOK ORDERS ON-LINE (FOR FACULTY)
-Faculty members may place book and journal orders on-line. Select #6 from the CHAL menu and then complete the form on that screen. This is easier than the previous on-line method, for there is an actual form to complete; you do not have to remember all the details needed each time. The system prompts you for each item. This request will be sent on-line to the Acquisitions Department in the Library for processing.
+Faculty members may place book and journal orders on-line. Select #6 from the CHAL menu and then complete the form
+on that screen. This is easier than the previous on-line method, for there is an actual form to complete; you
+do not have to remember all the details needed each time. The system prompts you for each item. This request
+will be sent on-line to the Acquisitions Department in the Library for processing.
 
 NEW! CHRONICLE OF HIGHER EDUCATION
 Selections from the CHRONICLE are available on-line each week. Select #3 on the new CHAL menu.
 
 NEW! JOURNAL CITATION INDEX
-When using an author, title, or subject search (not keyword) on one of the periodical indexes (e.g. Reader's Guide), check the bottom of the screen which will tell you if the Library subscribes to the journal in which the article is found. Then press “H” (for holdings) to find out if the particular years of that journal are in the Library. This saves much time in looking through the printed serials list each time.
+When using an author, title, or subject search (not keyword) on one of the periodical indexes (e.g. Reader's Guide), check
+the bottom of the screen which will tell you if the Library subscribes to the journal in which the article
+is found. Then press “H” (for holdings) to find out if the particular years of that journal are in the
+Library. This saves much time in looking through the printed serials list each time.
 
 NEW! LIBRARY INFORMATION
-Library hours, news about the Library, locations for items in the Library, etc. are available by selecting #6 on the revised CHAL menu.
+Library hours, news about the Library, locations for items in the Library, etc. are available by selecting #6 on the
+revised CHAL menu.
 
 NEW! APOLLO ACCESS
-Now you can use a CHAL terminal in the Library to access your personal APOLLO account by selecting #7 on the CHAL menu. We ask that you consider others and do not tie up the CHAL terminal if someone else needs access to the Library’s holdings.
+Now you can use a CHAL terminal in the Library to access your personal APOLLO account by selecting #7 on
+the CHAL menu. We ask that you consider others and do not tie up the CHAL terminal if someone else
+needs access to the Library’s holdings.
 
 Other Features CHAL Continues to Offer
 
 USA TODAY & THE WASHINGTON POST
-These newspapers are shipped down on wire each day. Select #2 from the CHAL menu. Handouts on using these two papers on CHAL are available at the Reference Desk.
+These newspapers are shipped down on wire each day. Select #2 from the CHAL menu. Handouts on using these two
+papers on CHAL are available at the Reference Desk.
 
 Greater Access
-to the on-line catalogues and general information of other libraries around the country and even around the world. Select #4 on the CHAL menu. Plus, access to the Little Library’s 400,000 books and thousands of government documents with keyword and Boolean search capabilities. Select #1 on the CHAL menu.
+to the on-line catalogues and general information of other libraries around the country and even around the world. Select #4
+on the CHAL menu. Plus, access to the Little Library’s 400,000 books and thousands of government documents with keyword and
+Boolean search capabilities. Select #1 on the CHAL menu.
 
 Eight Wilson Journal Indexes
-Reader's Guide, Art Index, Business Index, General Science Index, Education Index, Essay and General Literature Index, Humanities Index, and Social Science Index.
+Reader's Guide, Art Index, Business Index, General Science Index, Education Index, Essay and General Literature Index, Humanities Index, and Social
+Science Index.
 
 Suggestions? Questions? Use the CHAL On-Line Suggestion Box.
-Your comments about the CHAL, or anything else regarding the Library and its services are always welcomed. Select #5 on the CHAL menu and send your suggestion. You will receive a reply from the Library Director by e-mail.
+Your comments about the CHAL, or anything else regarding the Library and its services are always welcomed. Select #5 on
+the CHAL menu and send your suggestion. You will receive a reply from the Library Director by e-mail.
 ```

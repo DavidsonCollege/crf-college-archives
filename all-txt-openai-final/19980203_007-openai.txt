@@ -17,7 +17,11 @@ The First Annual Outpost Talent Show
 
 Attention All Students!!
 
-Between now and February 6th, the Residence Life Office would like all students to check to make sure that their class status is correct. Lottery numbers are based upon class status and not upon class year, thus it is imperative for students to check the class rosters that will be posted outside the Registrar’s Office, by the Union Desk, in the Library, or in the Residence Life Office, for any errors that may be present. It should be noted that some students may have enough credits to warrant a different class status.
+Between now and February 6th, the Residence Life Office would like all students to check to make sure that their
+class status is correct. Lottery numbers are based upon class status and not upon class year, thus it is imperative
+for students to check the class rosters that will be posted outside the Registrar’s Office, by the Union Desk, in
+the Library, or in the Residence Life Office, for any errors that may be present. It should be noted that
+some students may have enough credits to warrant a different class status.
 
 EXAMPLE:
 Name Class Status Class Year
@@ -30,7 +34,8 @@ Make Connections to Launch YOUR CAREER
 © Produce Radio and TV Advertisements in Campaign Simulations
 © Compete as Consulting Groups on Strategic Lobbying Plans
 © Live 3 blocks from the White House and Monuments
-© GW’s central location can put you on Capitol Hill or the K Street corridor of lobbyists & interest groups in minutes.
+© GW’s central location can put you on Capitol Hill or the K Street corridor of lobbyists & interest groups
+in minutes.
 
 The George Washington University
 School of Political Management

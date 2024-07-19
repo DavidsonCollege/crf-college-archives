@@ -1,43 +1,107 @@
 from page 1
 
-its goals. Along with Brantley’s original proposal, it considered a modified plan that would eliminate senators from individual houses but maintain a smaller number of seats to represent Patterson Court as a whole. This plan would allow for a smaller Senate but still preserve the social houses’ voices. The Committee debated the issue with the Senate Executive Committee on Monday. They decided that making any significant structural changes would be premature. The group developed a proposal to conduct a formal review of the Senate bylaws and structure. Brantley submitted the new proposal in a second resolution at last night’s SGA meeting.
+its goals. Along with Brantley’s original proposal, it considered a modified plan that would eliminate senators from individual houses but
+maintain a smaller number of seats to represent Patterson Court as a whole. This plan would allow for a smaller
+Senate but still preserve the social houses’ voices. The Committee debated the issue with the Senate Executive Committee on Monday.
+They decided that making any significant structural changes would be premature. The group developed a proposal to conduct a formal
+review of the Senate bylaws and structure. Brantley submitted the new proposal in a second resolution at last night’s SGA
+meeting.
 
 Virus shuts down Davidson server, though not as virulent as “I love you”
 
 BY JT TOLENTINO
 News Editor
 
-The Davidson College e-mail server was again the victim of another e-mail virus last week, prompting ITS to shut down the server for a time, and creating headaches for users on campus. The first signs of the virus came Thursday around 3:30 p.m. when ITS’s e-mail virus scanner, Scan Mail, detected the virus on the server. Soon afterwards, the virus spread throughout the server, showing up in the mailboxes of students and faculty alike. The situation quickly worsened, causing ITS to halt e-mail service for five hours Thursday evening to allow the Scan Mail program to delete the programs and alleviate the e-mail backup that the virus caused.
+The Davidson College e-mail server was again the victim of another e-mail virus last week, prompting ITS to shut down
+the server for a time, and creating headaches for users on campus. The first signs of the virus came Thursday
+around 3:30 p.m. when ITS’s e-mail virus scanner, Scan Mail, detected the virus on the server. Soon afterwards, the virus
+spread throughout the server, showing up in the mailboxes of students and faculty alike. The situation quickly worsened, causing ITS
+to halt e-mail service for five hours Thursday evening to allow the Scan Mail program to delete the programs and
+alleviate the e-mail backup that the virus caused.
 
-The virus entered into the e-mail server through Internet Relay Chat programs. It then replicated through e-mail, sending itself as an attachment to the addresses in a computer’s address book. The virus did not affect users of other instant messenger programs such as AOL or MSN Messenger, as these messenger programs are not IRCs. Jokes, Funny, Life Stages, Funny Text, Jokes Text were some of the different subject headings of the email containing the virus. Because of the variety and the seemingly innocuous nature of the subjects, many users opened the e-mail, causing the virus to spread further.
+The virus entered into the e-mail server through Internet Relay Chat programs. It then replicated through e-mail, sending itself as
+an attachment to the addresses in a computer’s address book. The virus did not affect users of other instant messenger
+programs such as AOL or MSN Messenger, as these messenger programs are not IRCs. Jokes, Funny, Life Stages, Funny Text,
+Jokes Text were some of the different subject headings of the email containing the virus. Because of the variety and
+the seemingly innocuous nature of the subjects, many users opened the e-mail, causing the virus to spread further.
 
-The virus was not as harmful as previous viruses have been in the past, notes Lydia Lorenzin of ITS. “The ‘I Love You’ virus was much more destructive in that it had the potential to delete and alter files,” she said. The “I Love You” virus, which struck e-mail servers worldwide this past spring, caused billions of dollars in damage. Since the “I Love You” virus incident, ITS has created a committee to triage virus attacks and to make quick assessments of the severity of problems. Despite the establishment of this safeguard, Lorenzin reiterates that there, “is no way we can combat a particular virus, because we never know how the next virus is going to hit.”
+The virus was not as harmful as previous viruses have been in the past, notes Lydia Lorenzin of ITS. “The
+‘I Love You’ virus was much more destructive in that it had the potential to delete and alter files,” she
+said. The “I Love You” virus, which struck e-mail servers worldwide this past spring, caused billions of dollars in damage.
+Since the “I Love You” virus incident, ITS has created a committee to triage virus attacks and to make quick
+assessments of the severity of problems. Despite the establishment of this safeguard, Lorenzin reiterates that there, “is no way we
+can combat a particular virus, because we never know how the next virus is going to hit.”
 
-By Monday afternoon, Abby Clay, System Programmer, reported that the number of infected e-mails had decreased, although Scan Mail was still detecting it on the server. Creasy had some advice for students. “Be very careful of opening attachments,” she said. “If you’re not expecting any attachments from somebody, don’t open it.”
+By Monday afternoon, Abby Clay, System Programmer, reported that the number of infected e-mails had decreased, although Scan Mail was
+still detecting it on the server. Creasy had some advice for students. “Be very careful of opening attachments,” she said.
+“If you’re not expecting any attachments from somebody, don’t open it.”
 
 Senators listen as Brantley explains the proposals.
 
-The senators unanimously passed the resolution to “appoint a Self-Study committee, charged with the task of preparing a detailed study of the SGA Senate, to give recommended changes to the Bylaws throughout the semester.” This committee will be responsible for exploring, among other things, the questions of representation that Brantley has articulated. “I think it’s good we’re thinking about how we can make ourselves better, how we can be more efficient and how we can represent the student body,” said SGA president Dane Erickson, ‘01. Taking this smaller step towards change was well received. “Problems still exist with SGA inefficiency. It was too soon to take any radical measures but the formation of the committee to review the bylaws and the structure was a good idea and should be very productive,” said Suzanne Francis, ‘03, Representative, Warner Hall.
+The senators unanimously passed the resolution to “appoint a Self-Study committee, charged with the task of preparing a detailed study
+of the SGA Senate, to give recommended changes to the Bylaws throughout the semester.” This committee will be responsible for
+exploring, among other things, the questions of representation that Brantley has articulated. “I think it’s good we’re thinking about how
+we can make ourselves better, how we can be more efficient and how we can represent the student body,” said
+SGA president Dane Erickson, ‘01. Taking this smaller step towards change was well received. “Problems still exist with SGA inefficiency.
+It was too soon to take any radical measures but the formation of the committee to review the bylaws and
+the structure was a good idea and should be very productive,” said Suzanne Francis, ‘03, Representative, Warner Hall.
 
 JT Tolentino
 
-In the U.S. News & World Report’s 2001 rankings, Davidson College ranked 11th, with Amherst ranked 1st. Washington and Lee University (12) and the University of the South (25) were the only other southern liberal arts colleges on the top 25 list.
+In the U.S. News & World Report’s 2001 rankings, Davidson College ranked 11th, with Amherst ranked 1st. Washington and Lee
+University (12) and the University of the South (25) were the only other southern liberal arts colleges on the top
+25 list.
 
 Rankings, from page 1
 
-said senior Alyssa Sinclair. Yet the question arises amidst all the hype and excitement: how accurate is the ranking system and what sort of emphasis should be placed on the results? The magazine strives to provide accurateLists, but every survey has its disclaimers. Magazine officials Robert Morse and Samuel Flanigan gave such a warning: “Since we may change our methodology from year to year, we do not invite readers to track colleges’ annual moves in the rankings,” they said. Perhaps Davidson’s weakest ranking came in the area of faculty resources, which is based on average teacher salary, student-teacher ratios, class sizes, and the proportion of professors with the highest degree in their fields. The college ranked 25th. History professor Dr. Lou Ortmayer cites the ranking as a sign that the college needs to increase teacher salaries and departmental budgets. When the ratings are good, he says, the tendency is to credit the survey. But when they’re bad, in the case of the faculty resources ranking, its accuracy is downplayed. “The school downplays [the survey’s] significance except when it’s important to us,” he said.
+said senior Alyssa Sinclair. Yet the question arises amidst all the hype and excitement: how accurate is the ranking system
+and what sort of emphasis should be placed on the results? The magazine strives to provide accurateLists, but every survey
+has its disclaimers. Magazine officials Robert Morse and Samuel Flanigan gave such a warning: “Since we may change our methodology
+from year to year, we do not invite readers to track colleges’ annual moves in the rankings,” they said. Perhaps
+Davidson’s weakest ranking came in the area of faculty resources, which is based on average teacher salary, student-teacher ratios, class
+sizes, and the proportion of professors with the highest degree in their fields. The college ranked 25th. History professor Dr.
+Lou Ortmayer cites the ranking as a sign that the college needs to increase teacher salaries and departmental budgets. When
+the ratings are good, he says, the tendency is to credit the survey. But when they’re bad, in the case
+of the faculty resources ranking, its accuracy is downplayed. “The school downplays [the survey’s] significance except when it’s important to
+us,” he said.
 
-Of course, there are some factors that can’t be measured by statistics and formulas. The ambience of campus life simply “eludes the measuring process,” noted Cable. “The honor code has a lot to do with life on campus,” said freshman Vic Lindsay, citing another immeasurable aspect. “How you’re perceived is not unimportant, but the correlation between that ‘beauty contest’ and the quality and nature of education by any institution has never been validated,” said Vagt. “Everyone professes to be totally disinterested in the results because of the survey’s underpinnings, but we sure look to see how we rank.”
+Of course, there are some factors that can’t be measured by statistics and formulas. The ambience of campus life simply
+“eludes the measuring process,” noted Cable. “The honor code has a lot to do with life on campus,” said freshman
+Vic Lindsay, citing another immeasurable aspect. “How you’re perceived is not unimportant, but the correlation between that ‘beauty contest’ and
+the quality and nature of education by any institution has never been validated,” said Vagt. “Everyone professes to be totally
+disinterested in the results because of the survey’s underpinnings, but we sure look to see how we rank.”
 
-Despite its defects, the survey serves as a role in the decision of some prospective students. “This reputation as an academically superior college helped me make my decision,” says freshman Garret Taylor. “It helped me decide to come here.” Cable conceded that the rankings can be used as a recruiting tool, but she also emphasized that students should listen to their “gut feelings” in their decisions. The authors of the report even say that “a school’s ranking should be only part of [the prospective student’s] calculation.” Vagt summed up the college’s position best. “All of us would love to be ranked higher, but not at the cost of doing something we don’t believe is right,” he said. “We have not and will not make decisions based on what will make us look better.”
+Despite its defects, the survey serves as a role in the decision of some prospective students. “This reputation as an
+academically superior college helped me make my decision,” says freshman Garret Taylor. “It helped me decide to come here.” Cable
+conceded that the rankings can be used as a recruiting tool, but she also emphasized that students should listen to
+their “gut feelings” in their decisions. The authors of the report even say that “a school’s ranking should be only
+part of [the prospective student’s] calculation.” Vagt summed up the college’s position best. “All of us would love to be
+ranked higher, but not at the cost of doing something we don’t believe is right,” he said. “We have not
+and will not make decisions based on what will make us look better.”
 
 Police Search, from page I
 
-Hypothetically, Dr. Thornberry said that if the magazine had been High Times, and the search had yielded incriminating evidence, a lawyer would have strong grounds to argue the search was unconstitutional. “Her attorney would have argued that the magazine is legally for sale. There has been no attempt to interfere with its circulation.” Since the magazine is legally and readily available, the lawyers would have argued that possession of High Times did not constitute probable cause. The prosecution would likely have argued that “the magazine is aimed specifically at users and growers of marijuana. They would have attempted to correlate it with other circumstances.” Thornberry explained that a single isolated observation is rarely accepted as probable cause; in criminal cases, prosecutors and police try to link several elements together in order to justify a search. However, in the Martin case, “they pulled her over only on the basis of one observation, so there’s no probable cause.”
+Hypothetically, Dr. Thornberry said that if the magazine had been High Times, and the search had yielded incriminating evidence, a
+lawyer would have strong grounds to argue the search was unconstitutional. “Her attorney would have argued that the magazine is
+legally for sale. There has been no attempt to interfere with its circulation.” Since the magazine is legally and readily
+available, the lawyers would have argued that possession of High Times did not constitute probable cause. The prosecution would likely
+have argued that “the magazine is aimed specifically at users and growers of marijuana. They would have attempted to correlate
+it with other circumstances.” Thornberry explained that a single isolated observation is rarely accepted as probable cause; in criminal cases,
+prosecutors and police try to link several elements together in order to justify a search. However, in the Martin case,
+“they pulled her over only on the basis of one observation, so there’s no probable cause.”
 
-The implications of the incident for Davidson students are open to interpretation. Could Davidson police conduct a similar search on the campus? Did the fact that Susan Martin is herself college-age have any bearing on the officer’s suspicions? Officer Scott Searcy helped put the case in context. By Officer Searcy’s estimate, 5-10 misdemeanor drug citations are issued every month by the Davidson police. The majority of these are not issued on the Davidson campus or to Davidson students; Searcy says they usually let the campus police handle such cases. Furthermore, Searcy contends the citations he has issued for marijuana possession or use run “across all age groups;” no generation is more likely than another to be searched or issued a citation.
+The implications of the incident for Davidson students are open to interpretation. Could Davidson police conduct a similar search on
+the campus? Did the fact that Susan Martin is herself college-age have any bearing on the officer’s suspicions? Officer Scott
+Searcy helped put the case in context. By Officer Searcy’s estimate, 5-10 misdemeanor drug citations are issued every month by
+the Davidson police. The majority of these are not issued on the Davidson campus or to Davidson students; Searcy says
+they usually let the campus police handle such cases. Furthermore, Searcy contends the citations he has issued for marijuana possession
+or use run “across all age groups;” no generation is more likely than another to be searched or issued a
+citation.
 
-Officer Searcy says others in the Davidson police department have previously encountered High Times, although he himself has not. For legal reasons, he was unable to comment specifically on the Martin case. However, all official statements made by the Davidson Police Department since the incident support the actions taken on August 17. Assistant Chief Parker summed up the department’s position in the August 25 Charlotte Observer: “He acted properly. He thinks he had reasonable suspicion, and we do too.”
+Officer Searcy says others in the Davidson police department have previously encountered High Times, although he himself has not. For
+legal reasons, he was unable to comment specifically on the Martin case. However, all official statements made by the Davidson
+Police Department since the incident support the actions taken on August 17. Assistant Chief Parker summed up the department’s position
+in the August 25 Charlotte Observer: “He acted properly. He thinks he had reasonable suspicion, and we do too.”
 
 Richard Vinson
 Contributing Author

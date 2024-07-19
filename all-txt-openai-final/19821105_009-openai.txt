@@ -4,31 +4,67 @@ By ERIC LONG ’83
 
 #### Hunter Monroe Studies Food Shortage In Sahel
 
-Hunter Monroe, a junior math major, totes a chip on his shoulder, so he’s an important fixture around the Davidson College computer. Hunter’s daily routine centers around the computer which he uses for his own needs as well as those of other students and professors.
+Hunter Monroe, a junior math major, totes a chip on his shoulder, so he’s an important fixture around the Davidson
+College computer. Hunter’s daily routine centers around the computer which he uses for his own needs as well as those
+of other students and professors.
 
-Last winter term, Hunter worked with Dr. Mark Ross of the Economics department in designing a computer program which takes current economic data and projects it into the future. Their project was funded by the Agency for International Development (AID). AID is using the program to help Senegal, Gambia, and Guinea solve some of their productivity problems in the food sector. Dr. Ross and Hunter have proposed to AID that officials from the African countries visit Davidson, so they can be taught how to use the computer program. This summer Dr. Ross and Hunter are hoping to go to Africa and to help familiarize the Africans with its use.
+Last winter term, Hunter worked with Dr. Mark Ross of the Economics department in designing a computer program which takes
+current economic data and projects it into the future. Their project was funded by the Agency for International Development (AID).
+AID is using the program to help Senegal, Gambia, and Guinea solve some of their productivity problems in the food
+sector. Dr. Ross and Hunter have proposed to AID that officials from the African countries visit Davidson, so they can
+be taught how to use the computer program. This summer Dr. Ross and Hunter are hoping to go to Africa
+and to help familiarize the Africans with its use.
 
-Last summer, Hunter worked for Davidson College’s computer center with Dr. Robert DeSieno. Among his various duties and accomplishments, Monroe managed to write a user’s guide for Davidson’s computer and he established a communication system between the college and the Triangle University’s Computation Center in Durham. This system enables Davidson College to use the software programs of the TUCC for highly specialized needs which Davidson’s computer center is unable to handle. Hunter also created software for Davidson’s computer which allows people to use bar and line graphs in their programming.
+Last summer, Hunter worked for Davidson College’s computer center with Dr. Robert DeSieno. Among his various duties and accomplishments, Monroe
+managed to write a user’s guide for Davidson’s computer and he established a communication system between the college and the
+Triangle University’s Computation Center in Durham. This system enables Davidson College to use the software programs of the TUCC for
+highly specialized needs which Davidson’s computer center is unable to handle. Hunter also created software for Davidson’s computer which allows
+people to use bar and line graphs in their programming.
 
-This term, Hunter is working on another model to be used in economic development. The model studies grain production in the impoverished Sahelian region of Africa and figures out the nutritional needs of the people. This model is financed by the Organization for Economic Cooperation, based in Paris, which will use it to develop appropriate economic strategies to feed the Sahelian people by the year 2000.
+This term, Hunter is working on another model to be used in economic development. The model studies grain production in
+the impoverished Sahelian region of Africa and figures out the nutritional needs of the people. This model is financed by
+the Organization for Economic Cooperation, based in Paris, which will use it to develop appropriate economic strategies to feed the
+Sahelian people by the year 2000.
 
-Hunter, along with Bill Appleton, co-directs Davidson College’s PRIME Users Group (PUG), an informal organization for students and faculty, whose main purpose is to aid computer users. PUG maintains a catalogue of various programs and takes on responsibilities that the Davidson computer center does not address. Hunter states that “PUG is not out to compete with the center, and is open to suggestions.” Hunter feels that Davidson’s computer is “fine and most of its capabilities won’t be needed.” Davidson’s computers have the capability now of expanding with increasing needs.
+Hunter, along with Bill Appleton, co-directs Davidson College’s PRIME Users Group (PUG), an informal organization for students and faculty, whose
+main purpose is to aid computer users. PUG maintains a catalogue of various programs and takes on responsibilities that the
+Davidson computer center does not address. Hunter states that “PUG is not out to compete with the center, and is
+open to suggestions.” Hunter feels that Davidson’s computer is “fine and most of its capabilities won’t be needed.” Davidson’s computers
+have the capability now of expanding with increasing needs.
 
-Hunter is one of the few students who fully take advantage of Davidson’s computer. He clearly sees an increasing role of computers in society and will not be left out. If asked whether computers would someday take over the world, he replied, “They are getting into everything, but they can only do what they are told.”
+Hunter is one of the few students who fully take advantage of Davidson’s computer. He clearly sees an increasing role
+of computers in society and will not be left out. If asked whether computers would someday take over the world,
+he replied, “They are getting into everything, but they can only do what they are told.”
 
 #### Bill Appleton Addresses Labor Problem
 
-Bill Appleton, a senior economics major from Oak Ridge, Tennessee, is also a fixture at the computer terminals. Bill mainly uses the computer to solve economics problems, but for fun he creates computer games.
+Bill Appleton, a senior economics major from Oak Ridge, Tennessee, is also a fixture at the computer terminals. Bill mainly
+uses the computer to solve economics problems, but for fun he creates computer games.
 
-This past summer, Bill received a fellowship from Oak Ridge Associated Universities (ORAU), to work in the office of Labor and Policy Studies, one of ORAU’s many branch agencies. ORAU’s prime contractor is the Department of Energy, which is in need of pure and applied research in energy-related fields.
+This past summer, Bill received a fellowship from Oak Ridge Associated Universities (ORAU), to work in the office of Labor
+and Policy Studies, one of ORAU’s many branch agencies. ORAU’s prime contractor is the Department of Energy, which is in
+need of pure and applied research in energy-related fields.
 
-At Labor and Policy Studies, Bill used computers to study labor economics. For the first part of the summer he helped LPS put out their annual report concerning energy-related employment. While doing this, Bill learned how to operate the IBM and PDP-10 computer systems, which are used in the Oak Ridge National Labs. Bill also acquired intimate knowledge of the Statistical Analysis System (SAS) software package. This system was used to form new data sets, and then it uses the data to test hypotheses and make inferences about empirical relationships.
+At Labor and Policy Studies, Bill used computers to study labor economics. For the first part of the summer he
+helped LPS put out their annual report concerning energy-related employment. While doing this, Bill learned how to operate the IBM
+and PDP-10 computer systems, which are used in the Oak Ridge National Labs. Bill also acquired intimate knowledge of the
+Statistical Analysis System (SAS) software package. This system was used to form new data sets, and then it uses the
+data to test hypotheses and make inferences about empirical relationships.
 
-For the remainder of the summer, Bill used SAS to assemble four separate data sources into an extensive data set covering new coal mines in Kentucky and Virginia. Bill later decided to use this data as the quantitative core of his Economics Honors thesis, which is “an examination of the effect of unionization on safety in underground coal mines.” LPS liked his work and they offered him a year-long research assistantship.
+For the remainder of the summer, Bill used SAS to assemble four separate data sources into an extensive data set
+covering new coal mines in Kentucky and Virginia. Bill later decided to use this data as the quantitative core of
+his Economics Honors thesis, which is “an examination of the effect of unionization on safety in underground coal mines.” LPS
+liked his work and they offered him a year-long research assistantship.
 
-Asked whether he thought Davidson College’s computers were adequate, he replied, “Yes, I could have done my research here.” Davidson now has the Statistical Package for the Social Services, which is an excellent tool for data analysis, and soon expects to receive SAS. Asked what he thought of the Economics department’s use of computers, he replied, “Davidson’s Economics department emphasizes theory more than other aspects of economics, but I would like to see more empirical economics analysis done on the computer here.” Although Davidson offers a number of courses using SPSS, BASIC, PASCAL, and PLI languages, Bill has never taken a computer course. He has learned about them on his own from extensive reading of computer manuals.
+Asked whether he thought Davidson College’s computers were adequate, he replied, “Yes, I could have done my research here.” Davidson
+now has the Statistical Package for the Social Services, which is an excellent tool for data analysis, and soon expects
+to receive SAS. Asked what he thought of the Economics department’s use of computers, he replied, “Davidson’s Economics department emphasizes
+theory more than other aspects of economics, but I would like to see more empirical economics analysis done on the
+computer here.” Although Davidson offers a number of courses using SPSS, BASIC, PASCAL, and PLI languages, Bill has never taken
+a computer course. He has learned about them on his own from extensive reading of computer manuals.
 
-Bill’s future plans are to earn a Ph.D. in Economics, studying the interface between computers and economics. Asked whether he thought computers would someday take over the world, he half seriously replied, “No, the programs will.”
+Bill’s future plans are to earn a Ph.D. in Economics, studying the interface between computers and economics. Asked whether he
+thought computers would someday take over the world, he half seriously replied, “No, the programs will.”
 
 ---
 

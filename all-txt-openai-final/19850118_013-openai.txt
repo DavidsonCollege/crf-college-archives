@@ -6,47 +6,134 @@ Budget Problems Hamper Computer’s Benefits
 
 Mark Swift
 
-In today’s world, it is becoming increasingly difficult to live completely outside the realm of computers. During the past two years, The Davidson College Computer Services Center (CSC) has been undergoing great changes in order to keep up with the times and offer students of this college sufficient facilities to be computer “literate.” Even those students who are not computer literate are affected in some way by Davidson’s computer system, whether it be grade transcripts or work-study checks. Unfortunately, communication between the staff at the CSC and students has sometimes been difficult. Many people are uninformed as to the uses of the computer and perhaps unaware of computer needs that must be met. As a work/study employee of the CSC, I am aware of the wishes of its staff as well as the misunderstandings and lack of information among students. First, I would like to inform everyone of the usefulness of the computer facility. Then I will turn my attention to the problems facing the CSC and how they may be solved.
+In today’s world, it is becoming increasingly difficult to live completely outside the realm of computers. During the past two
+years, The Davidson College Computer Services Center (CSC) has been undergoing great changes in order to keep up with the
+times and offer students of this college sufficient facilities to be computer “literate.” Even those students who are not computer
+literate are affected in some way by Davidson’s computer system, whether it be grade transcripts or work-study checks. Unfortunately, communication
+between the staff at the CSC and students has sometimes been difficult. Many people are uninformed as to the uses
+of the computer and perhaps unaware of computer needs that must be met. As a work/study employee of the CSC,
+I am aware of the wishes of its staff as well as the misunderstandings and lack of information among students.
+First, I would like to inform everyone of the usefulness of the computer facility. Then I will turn my attention
+to the problems facing the CSC and how they may be solved.
 
 The Computer And Its Uses
 
-Davidson owns a Prime 750 computer for academics. It has four megabytes of core memory and six hundred megabytes of disk memory. In other words, it is much more complex and sophisticated than a computer you may have at home. It is intended to be accessed by all the faculty and students at the College — and not just the computer whizzes. The Prime is a central processing unit in which work is done and programs are run. The material is stored on large but finite disks which are accessed by a disk drive in the CSC. What students see is a bunch of terminals which are all hooked up to this large machine in the CSC. Currently, there are about thirty-two terminals available to students scattered throughout the buildings on campus: in the library, Jackson Court, Dana and Martin science buildings, and primarily in Chambers building. There used to be student terminals in the CSC itself, but they were moved before the beginning of this school year.
+Davidson owns a Prime 750 computer for academics. It has four megabytes of core memory and six hundred megabytes of
+disk memory. In other words, it is much more complex and sophisticated than a computer you may have at home.
+It is intended to be accessed by all the faculty and students at the College — and not just the
+computer whizzes. The Prime is a central processing unit in which work is done and programs are run. The material
+is stored on large but finite disks which are accessed by a disk drive in the CSC. What students see
+is a bunch of terminals which are all hooked up to this large machine in the CSC. Currently, there are
+about thirty-two terminals available to students scattered throughout the buildings on campus: in the library, Jackson Court, Dana and Martin
+science buildings, and primarily in Chambers building. There used to be student terminals in the CSC itself, but they were
+moved before the beginning of this school year.
 
-Of course, the first thing most people think about having to do with computers is programming. The Prime computer is not used much for that purpose, but has the ability for programming in Fortran IV and 77, PLI/g, Pascal, BASIC, Integer BASIC, and other languages. There are two brand new graphics packages (TelAGraf and Display), a vast statistical package (SPSSX), and Pug. Pug is a student-directed and maintained programs directory containing numerous games and useful programs for the general public. The vast majority of computer time is used for word processing. The Prime has two text processors. They are not full word processors because what is seen on the screen is not exactly how it looks on the paper. A certain number of commands, or arguments, are required to give it paper format. The real advantage to the word processing lies in the ability to revise and correct without having to retype an entire page. Documents can be saved for an indefinite length of time and still be revised and printed within a matter of minutes. Rearranging paragraphs, cutting sentences, and correcting consistent spelling mistakes with one command are a few of the advantages of the word processor over the typewriter.
+Of course, the first thing most people think about having to do with computers is programming. The Prime computer is
+not used much for that purpose, but has the ability for programming in Fortran IV and 77, PLI/g, Pascal, BASIC,
+Integer BASIC, and other languages. There are two brand new graphics packages (TelAGraf and Display), a vast statistical package (SPSSX),
+and Pug. Pug is a student-directed and maintained programs directory containing numerous games and useful programs for the general public.
+The vast majority of computer time is used for word processing. The Prime has two text processors. They are not
+full word processors because what is seen on the screen is not exactly how it looks on the paper. A
+certain number of commands, or arguments, are required to give it paper format. The real advantage to the word processing
+lies in the ability to revise and correct without having to retype an entire page. Documents can be saved for
+an indefinite length of time and still be revised and printed within a matter of minutes. Rearranging paragraphs, cutting sentences,
+and correcting consistent spelling mistakes with one command are a few of the advantages of the word processor over the
+typewriter.
 
 Personal Computers
 
-Just last year, the CSC decided to expand its facility to include personal computers. The College bought several IBM Personal Computers for general use and encouraged students to purchase their own. The IBM-PC was chosen by the CSC because of the good reputation and reliability of the IBM company. All personal computers have their own built-in disk drives, so the work is stored on a floppy disk owned by the individual user. The IBM's usefulness is limited to the amount of software purchased by the CSC to use with the computer. Each PC has its own disk operating system disk and WordPerfect disk (a word processor). BASIC is built-in. Even though this is the only software immediately available to students, IBM is donating a large number of programs. The IBM-PCs are presently located in the PC Services Building on Depot Street directly across from Peregrine House.
+Just last year, the CSC decided to expand its facility to include personal computers. The College bought several IBM Personal
+Computers for general use and encouraged students to purchase their own. The IBM-PC was chosen by the CSC because of
+the good reputation and reliability of the IBM company. All personal computers have their own built-in disk drives, so the
+work is stored on a floppy disk owned by the individual user. The IBM's usefulness is limited to the amount
+of software purchased by the CSC to use with the computer. Each PC has its own disk operating system disk
+and WordPerfect disk (a word processor). BASIC is built-in. Even though this is the only software immediately available to students,
+IBM is donating a large number of programs. The IBM-PCs are presently located in the PC Services Building on Depot
+Street directly across from Peregrine House.
 
 CSC Services
 
-In order to use the computer facilities available, one must have some knowledge of how they work. In order to minimize haphazard, ignorant use of the computer, the CSC offers weekly workshops in word processing and other areas which may interest potential computer users. These workshops are usually four days long and tend to be more of a structured guide to teaching oneself how to use the computer. Obviously, four days is insufficient time for the ways of the computer to become natural and easy to a student. To aid short memories, there is a collection of computer manuals in the main terminal room in Chambers which may or may not be helpful. A more reliable source of information, however, is the CSC student assistant. The Chambers terminal room and the PCSB PC room are attended during the afternoon and evening by these assistants to help troubleshoot minor but annoying problems. Workshops handle word processing as well as some other useful aspects of the computers; however, programming is handled a different way. The math department offers classes in two languages: BASIC and Pascal. Except for one new upper-level structured programming course, these classes are non-credit and meet only twice a week. Students who are willing to remain faithful to a non-credit course with a regular workload learn enough programming to do simple but useful jobs. People with previous programming experience take these classes to review or enhance basic programming skills since they are taught as introductory level courses.
+In order to use the computer facilities available, one must have some knowledge of how they work. In order to
+minimize haphazard, ignorant use of the computer, the CSC offers weekly workshops in word processing and other areas which may
+interest potential computer users. These workshops are usually four days long and tend to be more of a structured guide
+to teaching oneself how to use the computer. Obviously, four days is insufficient time for the ways of the computer
+to become natural and easy to a student. To aid short memories, there is a collection of computer manuals in
+the main terminal room in Chambers which may or may not be helpful. A more reliable source of information, however,
+is the CSC student assistant. The Chambers terminal room and the PCSB PC room are attended during the afternoon and
+evening by these assistants to help troubleshoot minor but annoying problems. Workshops handle word processing as well as some other
+useful aspects of the computers; however, programming is handled a different way. The math department offers classes in two languages:
+BASIC and Pascal. Except for one new upper-level structured programming course, these classes are non-credit and meet only twice a
+week. Students who are willing to remain faithful to a non-credit course with a regular workload learn enough programming to
+do simple but useful jobs. People with previous programming experience take these classes to review or enhance basic programming skills
+since they are taught as introductory level courses.
 
-Whenever appropriations are involved, one question inevitably arises: is the computer a necessity or a luxury? Needs, Dreams, and Faults Until now,This article’s purpose has been to inform. The remainder of the article will be concerned with the needs, dreams, and faults of Davidson’s computer system. Here at Davidson, we enjoy the privilege of free, twenty-four-hour computer access. We are also fortunate in that the computer is not at all restricted to academic use. We can write letters, play games, send messages to other people on the computer, or simply explore the practically endless array of options and commands possible. There is a lot to be said about having these privileges because few other colleges have such free and unmonitored access to such a powerful tool. Swarthmore, like Davidson, has a Prime computer. However, the people who use it have a quota on disk memory usage one-third the size of Davidson's quota. Mary Baldwin, which uses IBM-PCs and Apples, allows only final drafts to be typed on the computers, and even then there is a one-hour limit for computer use. The University of Virginia also has a Prime, but its use is retained only for those people whose classes require it.
+Whenever appropriations are involved, one question inevitably arises: is the computer a necessity or a luxury? Needs, Dreams, and Faults
+Until now,This article’s purpose has been to inform. The remainder of the article will be concerned with the needs, dreams,
+and faults of Davidson’s computer system. Here at Davidson, we enjoy the privilege of free, twenty-four-hour computer access. We are
+also fortunate in that the computer is not at all restricted to academic use. We can write letters, play games,
+send messages to other people on the computer, or simply explore the practically endless array of options and commands possible.
+There is a lot to be said about having these privileges because few other colleges have such free and unmonitored
+access to such a powerful tool. Swarthmore, like Davidson, has a Prime computer. However, the people who use it have
+a quota on disk memory usage one-third the size of Davidson's quota. Mary Baldwin, which uses IBM-PCs and Apples, allows
+only final drafts to be typed on the computers, and even then there is a one-hour limit for computer use.
+The University of Virginia also has a Prime, but its use is retained only for those people whose classes require
+it.
 
-As of yet, the limits placed by the CSC on the computer (such as locking the doors to the printer and IBM rooms) are simply for the prevention of misuse or for security. However, the possibility exists that more restrictions may need to be placed on the utility.
+As of yet, the limits placed by the CSC on the computer (such as locking the doors to the printer
+and IBM rooms) are simply for the prevention of misuse or for security. However, the possibility exists that more restrictions
+may need to be placed on the utility.
 
 Budgetary Constraints
 
-The CSC currently runs on a minimal budget. This budget forces the computer center to neglect certain needs—needs that are vital to the continued full use of the computer as well as the necessary enlargement of the facility. The students' and faculty's disks are approaching the 100 percent full level. In the event of a full disk, all computer use would have to stop until something could be deleted from the disk. One possible measure that the CSC could take to prevent this emergency would be to lower the quotas of disk memory for each user, forcing everyone to delete files and documents that could be very important. A better solution would be to give the CSC the funds to buy a new disk drive which would eliminate the problem as well as enlarge the memory base of the Prime.
+The CSC currently runs on a minimal budget. This budget forces the computer center to neglect certain needs—needs that are
+vital to the continued full use of the computer as well as the necessary enlargement of the facility. The students'
+and faculty's disks are approaching the 100 percent full level. In the event of a full disk, all computer use
+would have to stop until something could be deleted from the disk. One possible measure that the CSC could take
+to prevent this emergency would be to lower the quotas of disk memory for each user, forcing everyone to delete
+files and documents that could be very important. A better solution would be to give the CSC the funds to
+buy a new disk drive which would eliminate the problem as well as enlarge the memory base of the Prime.
 
-Another result of the shortage of CSC funds is the shortage of terminals available to students. There are 32 terminals during the day, but only 16 terminals are regularly open after 11 p.m. All students and faculty have an account on the computer and are potential computer users. About 500 students use the computer in a regular way. This presents serious problems at times of the term when papers or projects are due. Waiting lines in the computer room should not be common occurrences. Unfortunately, they are becoming more frequent as the number of users increases. During the end-of-term paper crunches, the terminal room has been known to be full at 5 a.m. More terminals, more ports, and more core memory are desperately needed. The frustration accompanying someone who cannot access or retrieve a paper because of the lack of an unused terminal need not exist. The problem could be remedied by giving the CSC the money to expand to meet this immediate need.
+Another result of the shortage of CSC funds is the shortage of terminals available to students. There are 32 terminals
+during the day, but only 16 terminals are regularly open after 11 p.m. All students and faculty have an account
+on the computer and are potential computer users. About 500 students use the computer in a regular way. This presents
+serious problems at times of the term when papers or projects are due. Waiting lines in the computer room should
+not be common occurrences. Unfortunately, they are becoming more frequent as the number of users increases. During the end-of-term paper
+crunches, the terminal room has been known to be full at 5 a.m. More terminals, more ports, and more core
+memory are desperately needed. The frustration accompanying someone who cannot access or retrieve a paper because of the lack of
+an unused terminal need not exist. The problem could be remedied by giving the CSC the money to expand to
+meet this immediate need.
 
 Space Limitations
 
-There are other pressing problems afflicting the computer center which could be solved by an increase in space. Most workshops must be taught in the terminal room, forcing other users to get off the computer for up to an hour. Some of the staff of the CSC have makeshift offices or share an office with another staff member. The lack of space inhibits the complete and efficient work of the staff. Likewise, there is little communication between staff and student users because students have little reason to go to the computer center if there are no terminals to use there.
+There are other pressing problems afflicting the computer center which could be solved by an increase in space. Most workshops
+must be taught in the terminal room, forcing other users to get off the computer for up to an hour.
+Some of the staff of the CSC have makeshift offices or share an office with another staff member. The lack
+of space inhibits the complete and efficient work of the staff. Likewise, there is little communication between staff and student
+users because students have little reason to go to the computer center if there are no terminals to use there.
 
 Well-rounded Facilities
 
-It is easy to see that money can and will solve many of the problems that plague Davidson's computer system at this time. Whenever appropriations are involved, one question inevitably arises: is the computer a necessity or a luxury? The staff of the computer center maintains the position that it is a necessity. As Coordinator for Academic Computing Hansford E. Des puts it, “The computer is not a frill but a tool for learning, just like the library.” Just as a library expands to meet the needs of students, the computer facility should also expand to satisfy the growing demand for more computer accessibility. Besides the basic needs of the computer center, there are innumerable possibilities for expansion that would simply make the facility more well-rounded. Well-roundedness is what a liberal arts education is all about. Today, a computer is a necessary and good thing to contribute to that education.
+It is easy to see that money can and will solve many of the problems that plague Davidson's computer system
+at this time. Whenever appropriations are involved, one question inevitably arises: is the computer a necessity or a luxury? The
+staff of the computer center maintains the position that it is a necessity. As Coordinator for Academic Computing Hansford E.
+Des puts it, “The computer is not a frill but a tool for learning, just like the library.” Just as
+a library expands to meet the needs of students, the computer facility should also expand to satisfy the growing demand
+for more computer accessibility. Besides the basic needs of the computer center, there are innumerable possibilities for expansion that would
+simply make the facility more well-rounded. Well-roundedness is what a liberal arts education is all about. Today, a computer is
+a necessary and good thing to contribute to that education.
 
-As a representative of the CSC, I encourage everyone to use the computer and pressure the administration for the expansion of the computer's positive influence on academic life at Davidson.
+As a representative of the CSC, I encourage everyone to use the computer and pressure the administration for the expansion
+of the computer's positive influence on academic life at Davidson.
 
 Swift is a sophomore from Staunton, Va.
 
-The Davidsonian “Opinions” section is the only forum on campus for extended commentary on pertinent issues. We will print opinions articles on any subject of general interest we receive from the campus community. We adhere to these guidelines:
+The Davidsonian “Opinions” section is the only forum on campus for extended commentary on pertinent issues. We will print opinions
+articles on any subject of general interest we receive from the campus community. We adhere to these guidelines:
 1) We require that all articles be in our hands by 7 p.m. Monday.
 2) We accept typed articles and those written legibly, double-spaced.
-3) We require that opinions be signed. We will print unsigned articles only if a compelling reason exists for withholding the author's name, and the author is known to either the editor or executive editor.
-4) We will not edit opinions for style or content but we reserve the right to edit for rules of common English. We will inform the author of substantial changes.
-5) Since space for Opinions articles is limited, we reserve the right to select articles from those we receive for publication. We will attempt to print any article we withhold from publication for space reasons the next week.
+3) We require that opinions be signed. We will print unsigned articles only if a compelling reason exists for withholding
+the author's name, and the author is known to either the editor or executive editor.
+4) We will not edit opinions for style or content but we reserve the right to edit for rules of
+common English. We will inform the author of substantial changes.
+5) Since space for Opinions articles is limited, we reserve the right to select articles from those we receive for
+publication. We will attempt to print any article we withhold from publication for space reasons the next week.

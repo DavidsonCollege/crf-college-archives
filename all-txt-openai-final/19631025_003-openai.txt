@@ -12,19 +12,23 @@ HOMECOMING: I’m afraid I don’t know. Prepare for the worst, though.
 
 (Exit HOMECOMING)
 
-COLLEGEMAN: My God. Three years without a blind date and what do I do? A weekend yet, and I get sucked in. I can’t go through with it. I’ve got to get out of this... There must be some brother...
+COLLEGEMAN: My God. Three years without a blind date and what do I do? A weekend yet, and I get
+sucked in. I can’t go through with it. I’ve got to get out of this... There must be some brother...
 
 (Enter BROTHERHOOD)
 
-BROTHERHOOD: Wha’ you say, boy. What’s your problem? ’Ja take one in the ear? Hell with it, let’s go drink one after supper, what d’ ya say! It’s Friday, baby, let’s get plowed. Come on, we’ll use my car.
+BROTHERHOOD: Wha’ you say, boy. What’s your problem? ’Ja take one in the ear? Hell with it, let’s go drink
+one after supper, what d’ ya say! It’s Friday, baby, let’s get plowed. Come on, we’ll use my car.
 
 COLLEGEMAN: That swings. Hey, you got a date for the weekend?
 
 BROTHERHOOD: Naw... I'll be snaking this time.
 
-COLLEGEMAN: Listen. I've got a blind date, but I ought to study. She’s supposed to be sharp, and I thought maybe you'd...
+COLLEGEMAN: Listen. I've got a blind date, but I ought to study. She’s supposed to be sharp, and I thought
+maybe you'd...
 
-BROTHERHOOD: Are you kiddin’ me! Me take your blind date? Hah! you lose. But look. I'll drive you to the party, and if she’s halfway decent... maybe you can drive back and I’ll help you out with her.
+BROTHERHOOD: Are you kiddin’ me! Me take your blind date? Hah! you lose. But look. I'll drive you to the
+party, and if she’s halfway decent... maybe you can drive back and I’ll help you out with her.
 
 COLLEGEMAN: Man, I'm serious. I gotta study, and you don't have anything to do...
 
@@ -36,11 +40,16 @@ COLLEGEMAN: Roommate’s taste in women is pretty flexible. Surely he’ll help 
 
 (Enter ROOMMATE)
 
-ROOMMATE: Hey, you gnome! What’s the matter? Somebody steal your bottle again? No, you look serious. Well, sit down. I can blow a minute and still catch supper at Mary’s.
+ROOMMATE: Hey, you gnome! What’s the matter? Somebody steal your bottle again? No, you look serious. Well, sit down. I
+can blow a minute and still catch supper at Mary’s.
 
-COLLEGEMAN: Homecoming’s got me a blind date. I was going to study this weekend. I’m behind in everything. I'm broke, sick, and I can’t afford a haircut. Do you suppose you...
+COLLEGEMAN: Homecoming’s got me a blind date. I was going to study this weekend. I’m behind in everything. I'm broke,
+sick, and I can’t afford a haircut. Do you suppose you...
 
-ROOMMATE: And you don’t know anything about her, huh? Damn, I wish I could do it for you, but I’m afraid I won’t have time. I really ought to start on my term paper pretty soon, and I been datin’ too much lately anyway. I may scout around for some dog at Shoney’s or somethin’ later in the weekend, but I better not commit myself.
+ROOMMATE: And you don’t know anything about her, huh? Damn, I wish I could do it for you, but I’m
+afraid I won’t have time. I really ought to start on my term paper pretty soon, and I been datin’
+too much lately anyway. I may scout around for some dog at Shoney’s or somethin’ later in the weekend, but
+I better not commit myself.
 
 COLLEGEMAN: Yeah, but...
 
@@ -50,21 +59,29 @@ COLLEGEMAN: No thanks. See you later, huh?
 
 (Exit ROOMMATE, Enter GOOD DEALS)
 
-GOOD DEALS: You know you deserve a lot better, Collegeman. You and I have done a lot for these guys. If there’s any justice your blind date’ll be cool as a beer and you'll get the laugh.
+GOOD DEALS: You know you deserve a lot better, Collegeman. You and I have done a lot for these guys.
+If there’s any justice your blind date’ll be cool as a beer and you'll get the laugh.
 
-COLLEGEMAN: Maybe you're right. Sure—I’ve never hung people with bad dates, I let everybody use my Biology notes, I referee flickerball games for free sometimes, I loan out my underwear... I even lent somebody my car once...
+COLLEGEMAN: Maybe you're right. Sure—I’ve never hung people with bad dates, I let everybody use my Biology notes, I referee
+flickerball games for free sometimes, I loan out my underwear... I even lent somebody my car once...
 
 (Enter WIT and SAVOIR-FAIRE)
 
-PERCEPTION: Yeah, boy. Remember when old whats-his-face wanted to get rid of his date early and you wouldn’t let him have the keys until he’d missed the train. Hoo Ha. He had to stay with that skank all day! Oh God that was funny. Wah haw was that slick!
+PERCEPTION: Yeah, boy. Remember when old whats-his-face wanted to get rid of his date early and you wouldn’t let him
+have the keys until he’d missed the train. Hoo Ha. He had to stay with that skank all day! Oh
+God that was funny. Wah haw was that slick!
 
 GOOD DEALS: I forgot about that. Oh, me. That sort of thing could ruin your average.
 
-PERCEPTION: ...and that business about having to study you’ve been putting out. Study hah! You just don’t want to drink with a roach all weekend. That sympathy program is wild—you ought to bag somebody with that.
+PERCEPTION: ...and that business about having to study you’ve been putting out. Study hah! You just don’t want to drink
+with a roach all weekend. That sympathy program is wild—you ought to bag somebody with that.
 
 GOOD DEALS: God, we’re sunk.
 
-REFLECTION: Hang on a minute. Let’s look at this thing and see where we stand. You got this commitment; you can’t shake it. You don’t know what this dolly’s holding so you don’t know how to approach it. If she’s a fag, you waste time and money. But if she’s sharp, you'll blow a good thing with your attitude. Now let’s see what we got to offer—there’s no harm in trying.
+REFLECTION: Hang on a minute. Let’s look at this thing and see where we stand. You got this commitment; you
+can’t shake it. You don’t know what this dolly’s holding so you don’t know how to approach it. If she’s
+a fag, you waste time and money. But if she’s sharp, you'll blow a good thing with your attitude. Now
+let’s see what we got to offer—there’s no harm in trying.
 
 PERCEPTION: At least keep the front up. She may have a sister.
 
@@ -80,7 +97,8 @@ COLLEGEMAN: I don’t know. It’s a blind date for Homecoming...
 
 SAVOIR-FAIRE: Blind date for a weekend? That’s kind of chancy.
 
-WIT: Man, with the wrong company it could last forever! What do you say we call her and put this thing off?
+WIT: Man, with the wrong company it could last forever! What do you say we call her and put this
+thing off?
 
 COLLEGEMAN: It’s too late. She’s on the plane and we have to meet her at the airport at midnight.
 
@@ -106,16 +124,31 @@ BLIND DATE: Oh, hello there.
 
 COLLEGEMAN: Well I'll be damned. And so it was.
 
-stinking leaves everywhere all over everywhere covering this whole crumby earth every lousy inch and I got to pick every damn one of them up no man
+stinking leaves everywhere all over everywhere covering this whole crumby earth every lousy inch and I got to pick every
+damn one of them up no man
 
 THE DAVIDSONIAN
 
-don't think about it just keep picking them up and filling up the baskets and boxes and everything else cause if you think. you know, you know you're going to get it done man why can’t I put them back on the trees if I could just do that but I got to put them in the baskets and haul them away somewhere and dump them and come back and pick up the ones that fell in their place hell there’s another gust of wind it’s fighting me allThe way just let me get a little bit ahead and there goes another gust of wind but just keep picking them up ‘cause, remember winter’s coming and then maybe you got a great place to visit, but chance ‘cause when they fall you know nothing grows back so then comes winter and I’m getting a little bit ahead yes I'm beginning to see little spots of ground and then spring oh damn the stinking things they’re more growing back on the trees but don’t look at them ‘cause these patches of ground are getting bigger and bigger and now summer and those leaves just hang up there and maybe you hope that just this once they’ll stay, just this time but they stay there waiting until I pick up that last one and they die and start coming down in big bunches and I start again, start again something that never PAGE THREE
+don't think about it just keep picking them up and filling up the baskets and boxes and everything else cause
+if you think. you know, you know you're going to get it done man why can’t I put them back
+on the trees if I could just do that but I got to put them in the baskets and haul
+them away somewhere and dump them and come back and pick up the ones that fell in their place hell
+there’s another gust of wind it’s fighting me allThe way just let me get a little bit ahead and there
+goes another gust of wind but just keep picking them up ‘cause, remember winter’s coming and then maybe you got
+a great place to visit, but chance ‘cause when they fall you know nothing grows back so then comes winter
+and I’m getting a little bit ahead yes I'm beginning to see little spots of ground and then spring oh
+damn the stinking things they’re more growing back on the trees but don’t look at them ‘cause these patches of
+ground are getting bigger and bigger and now summer and those leaves just hang up there and maybe you hope
+that just this once they’ll stay, just this time but they stay there waiting until I pick up that last
+one and they die and start coming down in big bunches and I start again, start again something that never
+PAGE THREE
 
 The Fall; Homecoming Holiday: Rum, Corduroy, Tweed
 BY GREG GOVAN
 
-It took some time for Summer to forge the bands of winter on her anvil clouds, and while they are sealed fast it is fall, the interim, and Davidson’s tight sprawl of brick is huddled between the patchwork quilt of ground and a dirty sheet sky.
+It took some time for Summer to forge the bands of winter on her anvil clouds, and while they are
+sealed fast it is fall, the interim, and Davidson’s tight sprawl of brick is huddled between the patchwork quilt of
+ground and a dirty sheet sky.
 
 SANDRA LINEBERGER
 NANCY CHOSTNER
@@ -123,10 +156,53 @@ LIBBY McGEACHY
 CAROL ROBINSON
 BEA UPSON
 
-Homecoming is undoubtedly the return of those who have a function of the season. But there are surely two homecomings to this, the only weekend which is a holiday. It is “a Holiday,” for so says the Calendar of Events: so everyone will forget the sky and the leaves and listen to hot combos and cool singers. But that is just another weekend. Homecoming means the day of the football game. It is not the same itself, where Davidson will try to hold one leaf, at least, on its fall-ridden laurel: it is the day of the game with girls in spike heels and tweed suits with corsages which have been fumblingly pinned on by dates. Homecoming is the day of the game, the afternoon crowd, the way the stadium slowly achieves its bone-chill when you sit in the shadow. It is the going to and the coming from, but never being there on a day set aside for doing just that: time is not stolen, but spent. And fall is the time of spent time; Spring was hectic with short sleeves. Fall is a corduroy coat before a fireplace wondering what to do with freedom. Most sleep off Friday night, but it is not the season of great activity, of sadness in quietude. It may be right to fill fall with shouts and noises, but still one dreams of a fireplace and hot buttered rum, of corduroy coats and tweed suits. Outside of fires and quiet is the dirty sheet and the leaves. Couples kick through them and wonder at the sadness of picking a leaf before it was ready to fall. If you are not entertaining behind an out-of-season spring face, it is good to splash through leaves and be sorry you picked one too soon. But most entertain and forget the clean feelings of nature’s annual funeral, perhaps because it is not like funerals of men. The trees do not shroud themselves in black but in brightness, color, and beauty. In these proud wrappings the ghost of life bides its time for the millionth time, and everything waits, not sadly, but with the quietude of a falling leaf somewhere in the hills.
+Homecoming is undoubtedly the return of those who have a function of the season. But there are surely two homecomings
+to this, the only weekend which is a holiday. It is “a Holiday,” for so says the Calendar of Events:
+so everyone will forget the sky and the leaves and listen to hot combos and cool singers. But that is
+just another weekend. Homecoming means the day of the football game. It is not the same itself, where Davidson will
+try to hold one leaf, at least, on its fall-ridden laurel: it is the day of the game with girls
+in spike heels and tweed suits with corsages which have been fumblingly pinned on by dates. Homecoming is the day
+of the game, the afternoon crowd, the way the stadium slowly achieves its bone-chill when you sit in the shadow.
+It is the going to and the coming from, but never being there on a day set aside for doing
+just that: time is not stolen, but spent. And fall is the time of spent time; Spring was hectic with
+short sleeves. Fall is a corduroy coat before a fireplace wondering what to do with freedom. Most sleep off Friday
+night, but it is not the season of great activity, of sadness in quietude. It may be right to fill
+fall with shouts and noises, but still one dreams of a fireplace and hot buttered rum, of corduroy coats and
+tweed suits. Outside of fires and quiet is the dirty sheet and the leaves. Couples kick through them and wonder
+at the sadness of picking a leaf before it was ready to fall. If you are not entertaining behind an
+out-of-season spring face, it is good to splash through leaves and be sorry you picked one too soon. But most
+entertain and forget the clean feelings of nature’s annual funeral, perhaps because it is not like funerals of men. The
+trees do not shroud themselves in black but in brightness, color, and beauty. In these proud wrappings the ghost of
+life bides its time for the millionth time, and everything waits, not sadly, but with the quietude of a falling
+leaf somewhere in the hills.
 
-This is one homecoming of Homecoming, the holiday, the misplaced bacchanal. The other has been here. They come to the game, they come down to the fraternity houses. They come because it is fall, and unlike the bright-shrouded hills they will die but once, and they must return now to see that the others, too, are dying. The comers home have left Davidson behind. Football is a popular sport; so everyone returns for the big game. Really, everyone returns because everyone is dying, though in the spring we’d stop to realize it. And because no one can die alone, even the little subtle dying of fall, they come back to the others they lived with to know without saying that it is so. And this is fall homecoming. Without it, this Homecoming, a Holiday, is another weekend, an exhaustive and late-sleeping wing-ding like all the rest, and the season of its occurrence a coincidence. But this weekend is fall. It is not a weekend in fall. It is the unmistakable smells and sights and feelings that come so quietly between summer and winter. And if they come quietly, these beautiful rites of death, they also come suddenly. One wakes up to find the leaves have fallen that night after hanging so long in their own spectrum. The sky was blue, liquid blue, and now is dirty white, and the suddenness is that of our own dreams of dying. Thus we are quiet when we shout and sing, and the day is not the game but the day of the game. If we bundled in blankets, it is part of the worship of fall, and Shakespeare was right again that we love that well which we must leave ere long. The tight little brick sprawl goes off again on a merry spree, but it is, it has to be, different. It is not the bare-limbed bounce of spring or the clothes-heavy sensuousness of winter: it is the dignity of tweeds and corduroy, the quietude of a return, the wonderful longing for a fireplace and hot buttered rum while leaves fall on a patchwork quilt, close under a dirty linen sky. No matter how or how hard we run, the fall of homecoming is there.
+This is one homecoming of Homecoming, the holiday, the misplaced bacchanal. The other has been here. They come to the
+game, they come down to the fraternity houses. They come because it is fall, and unlike the bright-shrouded hills they
+will die but once, and they must return now to see that the others, too, are dying. The comers home
+have left Davidson behind. Football is a popular sport; so everyone returns for the big game. Really, everyone returns because
+everyone is dying, though in the spring we’d stop to realize it. And because no one can die alone, even
+the little subtle dying of fall, they come back to the others they lived with to know without saying that
+it is so. And this is fall homecoming. Without it, this Homecoming, a Holiday, is another weekend, an exhaustive and
+late-sleeping wing-ding like all the rest, and the season of its occurrence a coincidence. But this weekend is fall. It
+is not a weekend in fall. It is the unmistakable smells and sights and feelings that come so quietly between
+summer and winter. And if they come quietly, these beautiful rites of death, they also come suddenly. One wakes up
+to find the leaves have fallen that night after hanging so long in their own spectrum. The sky was blue,
+liquid blue, and now is dirty white, and the suddenness is that of our own dreams of dying. Thus we
+are quiet when we shout and sing, and the day is not the game but the day of the game.
+If we bundled in blankets, it is part of the worship of fall, and Shakespeare was right again that we
+love that well which we must leave ere long. The tight little brick sprawl goes off again on a merry
+spree, but it is, it has to be, different. It is not the bare-limbed bounce of spring or the clothes-heavy
+sensuousness of winter: it is the dignity of tweeds and corduroy, the quietude of a return, the wonderful longing for
+a fireplace and hot buttered rum while leaves fall on a patchwork quilt, close under a dirty linen sky. No
+matter how or how hard we run, the fall of homecoming is there.
 
-Just keep picking up the crumby leaves ‘cause you've got to pick every damn one of them. No man don’t think about it just keep picking them up and don’t stop because if you stop just once and let them get ahead of you good you'll be lost completely and won't have any chance of finishing man they won't even let you die like they did and your whole life will be one big summer without the green without the joy without the life. Look at the pretty leaf. Fall is a great place to visit, but I wouldn't want to live there.
+Just keep picking up the crumby leaves ‘cause you've got to pick every damn one of them. No man don’t
+think about it just keep picking them up and don’t stop because if you stop just once and let them
+get ahead of you good you'll be lost completely and won't have any chance of finishing man they won't even
+let you die like they did and your whole life will be one big summer without the green without the
+joy without the life. Look at the pretty leaf. Fall is a great place to visit, but I wouldn't want
+to live there.
 
-PLAYMATES WITH CLOTHES? — This unlikely situation occurred after two students, Rick Ramseur and Erskine Sproul, received a mandate from Mrs. J. B. Moore, supervisor of dormitories, to remove any nasty pictures from their bulletin board in 109 Belk before the Homecoming Weekend. They complied, but with some nifty art work rather than by removal thereof. (Staff Photo by Smith)
+PLAYMATES WITH CLOTHES? — This unlikely situation occurred after two students, Rick Ramseur and Erskine Sproul, received a mandate from
+Mrs. J. B. Moore, supervisor of dormitories, to remove any nasty pictures from their bulletin board in 109 Belk before
+the Homecoming Weekend. They complied, but with some nifty art work rather than by removal thereof. (Staff Photo by Smith)

@@ -5,17 +5,48 @@ ___
 —ROB O'DONNELL
 Guest Columnist
 
-As President Obama prepares for his first State of the Union, questions abound about the nation’s path forward. From healthcare to double-digit unemployment, there is no set course on how the country will deal with its most pressing issues. In the wake of Sen. Brown’s come-from-behind victory over the anemic Coakley campaign, seismic shocks have been sent through the political landscape in Washington, D.C.
+As President Obama prepares for his first State of the Union, questions abound about the nation’s path forward. From healthcare
+to double-digit unemployment, there is no set course on how the country will deal with its most pressing issues. In
+the wake of Sen. Brown’s come-from-behind victory over the anemic Coakley campaign, seismic shocks have been sent through the political
+landscape in Washington, D.C.
 
-Take heart. There is a way forward. A light stands at the end of the tunnel. If Democrats can retool their message and tighten up their belts, they will soften congressional losses in the midterm elections and enact the agenda they were elected for in 2008.
+Take heart. There is a way forward. A light stands at the end of the tunnel. If Democrats can retool
+their message and tighten up their belts, they will soften congressional losses in the midterm elections and enact the agenda
+they were elected for in 2008.
 
-From a messaging standpoint, it’s clear the economy has to take the driver’s seat. Spending too much time in the public forum debating how best to enact healthcare will only reaffirm voters’ beliefs that the administration is not in touch with the core concerns of the middle class: stagnant wages, high unemployment, and a rising deficit. Now, I know how tempting it is to push forward with healthcare and pass the legislation that we’ve spent nine months slaving over but, as elected representatives of the people, that would be an assault on their intelligence. While rising premiums are a strain on the American family and our inability to bend the healthcare cost curve may forsake our long-term GDP, the American people are more worried about their next paycheck and how they are going to pay their mortgages this month. Until we stabilize the middle class and get people back to work, there should be no other priority. You can’t solve issues, like healthcare, that have plagued the American political landscape since LBJ before you address the economic plight of our middle class.
+From a messaging standpoint, it’s clear the economy has to take the driver’s seat. Spending too much time in the
+public forum debating how best to enact healthcare will only reaffirm voters’ beliefs that the administration is not in touch
+with the core concerns of the middle class: stagnant wages, high unemployment, and a rising deficit. Now, I know how
+tempting it is to push forward with healthcare and pass the legislation that we’ve spent nine months slaving over but,
+as elected representatives of the people, that would be an assault on their intelligence. While rising premiums are a strain
+on the American family and our inability to bend the healthcare cost curve may forsake our long-term GDP, the American
+people are more worried about their next paycheck and how they are going to pay their mortgages this month. Until
+we stabilize the middle class and get people back to work, there should be no other priority. You can’t solve
+issues, like healthcare, that have plagued the American political landscape since LBJ before you address the economic plight of our
+middle class.
 
-From a political standpoint, the Democratic Party needs to own its agenda. No more blaming former President Bush, no more days spent admonishing deregulation and Greenspan’s misguided Age of (future) Turbulence. The path to legislative and electoral success rests upon the shoulders of our current administration and congressional leaders. Accepting anything less would be political suicide.
+From a political standpoint, the Democratic Party needs to own its agenda. No more blaming former President Bush, no more
+days spent admonishing deregulation and Greenspan’s misguided Age of (future) Turbulence. The path to legislative and electoral success rests upon
+the shoulders of our current administration and congressional leaders. Accepting anything less would be political suicide.
 
-With an eye towards the midterm elections, it’s certainly going to be a bumpy election year for Democrats. Real Clear Politics analysts have projected the Republicans have a 1 in 3 chance to take back the House and a 1 in 30 chance to take back the Senate. Democratic casualties will certainly be high, but there is the opportunity of creating a more bipartisan Congress when significant Republican support will be needed to pass any major initiative. With regards to the 2010 legislative calendar, it would behoove Democrats to reach out to their Republican counterparts to help pare back the healthcare bill and to start getting the ball rolling on financial reform. (Side note for the econ majors out there: taking hundreds of billions of dollars in government funds to salvage the financial sector and expecting to wake up to the same financial landscape as before the crisis sounds pretty unreasonable to the millions of Americans who aren’t making six, seven, and eight-figure bonuses as part of their executive pay compensation packages.)
+With an eye towards the midterm elections, it’s certainly going to be a bumpy election year for Democrats. Real Clear
+Politics analysts have projected the Republicans have a 1 in 3 chance to take back the House and a 1
+in 30 chance to take back the Senate. Democratic casualties will certainly be high, but there is the opportunity of
+creating a more bipartisan Congress when significant Republican support will be needed to pass any major initiative. With regards to
+the 2010 legislative calendar, it would behoove Democrats to reach out to their Republican counterparts to help pare back the
+healthcare bill and to start getting the ball rolling on financial reform. (Side note for the econ majors out there:
+taking hundreds of billions of dollars in government funds to salvage the financial sector and expecting to wake up to
+the same financial landscape as before the crisis sounds pretty unreasonable to the millions of Americans who aren’t making six,
+seven, and eight-figure bonuses as part of their executive pay compensation packages.)
 
-In 2008, Democrats, most notably our President, were elected to their positions on a post-partisan platform that sought to bridge the divide between the two parties. They have admittedly fallen short of the change we thought possible just over a year ago. While I’m aware that Republicans have made the political calculation that by saying “no” their electoral chances increase, token engagement in 2010 will only further the narrative of arrogance within the Democratic party. President Obama must search for the right words to bestow upon the American public in his State of the Union address because his domestic agenda hinges upon restoring the American public’s confidence in Democrats’ ability to solve the economic crisis and resolve the pressing issues of the moment. The stakes cannot be higher, and the President must find the words to inspire and shape a year that hopefully ends better than it began.
+In 2008, Democrats, most notably our President, were elected to their positions on a post-partisan platform that sought to bridge
+the divide between the two parties. They have admittedly fallen short of the change we thought possible just over a
+year ago. While I’m aware that Republicans have made the political calculation that by saying “no” their electoral chances increase,
+token engagement in 2010 will only further the narrative of arrogance within the Democratic party. President Obama must search for
+the right words to bestow upon the American public in his State of the Union address because his domestic agenda
+hinges upon restoring the American public’s confidence in Democrats’ ability to solve the economic crisis and resolve the pressing issues
+of the moment. The stakes cannot be higher, and the President must find the words to inspire and shape a
+year that hopefully ends better than it began.
 
 Rob O’Donnell ’10 is a Classics major from PLACE, MD. Contact him at roodonnell@davidson.edu.
 
@@ -23,18 +54,57 @@ The future of an open internet at risk
 Bryan Norris
 Perspectives Editor
 
-The Davidsonian’s Perspectives section has run countless pieces on American politics. From arguments against recent health care legislation to examinations of our two-party system, Davidson students have shown a clear interest in keeping abreast of major national concerns. Their articles are keenly attuned to the “front-line” issues that grace headlines and TV news tickers around the country. However, despite our student body’s desire to be completely knowledgeable about nearly everything, there are significant gaps in the political discussion:Ugly little legislative battles borne solely of the incredible technological developments of the 21st century. I’m speaking, of course, of net-neutrality and other similarly ignored conflagrations where the internet and government regulation intersect, with institutions like the free market, the two-party system, and our own basic understanding of political theory and personal liberty. I'd like to bring the concept of net-neutrality up for examination, and I hope that my words can convince you that the Internet Freedom Preservation Act of 2009 (H.R. 3458) deserves greater attention. If you are reading this, chances are you are unfamiliar with net-neutrality, and I’d bet my tuition that most of you have never read H.R. 3458, let alone heard of it. With that in mind, here is a crash-course on the legislation and its underlying principles.
+The Davidsonian’s Perspectives section has run countless pieces on American politics. From arguments against recent health care legislation to examinations
+of our two-party system, Davidson students have shown a clear interest in keeping abreast of major national concerns. Their articles
+are keenly attuned to the “front-line” issues that grace headlines and TV news tickers around the country. However, despite our
+student body’s desire to be completely knowledgeable about nearly everything, there are significant gaps in the political discussion:Ugly little legislative
+battles borne solely of the incredible technological developments of the 21st century. I’m speaking, of course, of net-neutrality and other
+similarly ignored conflagrations where the internet and government regulation intersect, with institutions like the free market, the two-party system, and
+our own basic understanding of political theory and personal liberty. I'd like to bring the concept of net-neutrality up for
+examination, and I hope that my words can convince you that the Internet Freedom Preservation Act of 2009 (H.R. 3458)
+deserves greater attention. If you are reading this, chances are you are unfamiliar with net-neutrality, and I’d bet my tuition
+that most of you have never read H.R. 3458, let alone heard of it. With that in mind, here is
+a crash-course on the legislation and its underlying principles.
 
-Net-neutrality, if examined at a fundamental level, seeks to keep the internet a completely open environment for web-surfers and websites alike. The train of thought goes that if someone purchases access to the internet, then that person should have equal access to all websites (content providers), be they Amazon.com or your small, highly-selective liberal arts college’s homepage. This basic premise is difficult to argue against, and yet, some internet service providers (ISPs) like Comcast or Time Warner Cable are lobbying against net-neutrality. These ISPs want to offer two tiers to the internet’s content providers. In theory, major websites like Google or YouTube would pay Time Warner Cable or AT&T to provide reliable, speedy access to their webpage for visitors looking for “Davidson University” or clips of Stephen Curry’s latest highlight reel. Meanwhile, the everyday blogger, who is unable to pay for the first tier, would be relegated to a low-speed, potentially unreliable means of connection to his or her readership. For the everyday user, this would result in slower, reduced quality access to smaller (read: most) websites, and normal speed access to major websites that are able to pay for it.
+Net-neutrality, if examined at a fundamental level, seeks to keep the internet a completely open environment for web-surfers and websites
+alike. The train of thought goes that if someone purchases access to the internet, then that person should have equal
+access to all websites (content providers), be they Amazon.com or your small, highly-selective liberal arts college’s homepage. This basic premise
+is difficult to argue against, and yet, some internet service providers (ISPs) like Comcast or Time Warner Cable are lobbying
+against net-neutrality. These ISPs want to offer two tiers to the internet’s content providers. In theory, major websites like Google
+or YouTube would pay Time Warner Cable or AT&T to provide reliable, speedy access to their webpage for visitors looking
+for “Davidson University” or clips of Stephen Curry’s latest highlight reel. Meanwhile, the everyday blogger, who is unable to pay
+for the first tier, would be relegated to a low-speed, potentially unreliable means of connection to his or her readership.
+For the everyday user, this would result in slower, reduced quality access to smaller (read: most) websites, and normal speed
+access to major websites that are able to pay for it.
 
-H.R. 3458 has been introduced to prevent ISPs from violating the tenets of net-neutrality. Proponents of net-neutrality believe the ramifications of this tiered system would be dire for consumers and a death-blow to the democratic nature of the internet. And, to a certain extent, they are right. Over Winter Break, my parents contemplated switching their TV service from Time Warner to satellite, and they hopped on their Time Warner Cable internet connection to check out DirecTV’s website. If a tiered system were implemented, Time Warner could potentially prevent my parents from accessing its competitor’s webpages, DirecTV included. Consumers would be further hurt by those websites that pay for a higher tier connection, as the extra cost would undoubtedly be translated into subscription fees for webpage content.
+H.R. 3458 has been introduced to prevent ISPs from violating the tenets of net-neutrality. Proponents of net-neutrality believe the ramifications
+of this tiered system would be dire for consumers and a death-blow to the democratic nature of the internet. And,
+to a certain extent, they are right. Over Winter Break, my parents contemplated switching their TV service from Time Warner
+to satellite, and they hopped on their Time Warner Cable internet connection to check out DirecTV’s website. If a tiered
+system were implemented, Time Warner could potentially prevent my parents from accessing its competitor’s webpages, DirecTV included. Consumers would be
+further hurt by those websites that pay for a higher tier connection, as the extra cost would undoubtedly be translated
+into subscription fees for webpage content.
 
-On the flip side, critics of net-neutrality, and specifically of H.R. 3458, argue that net-neutrality is an unnecessary government intervention into the private sector. After all, ISPs have to recoup infrastructure and upgrade costs, and they can recover these funds from subscribers however they see fit. If consumers don’t like the practices of their ISP, they are free to vote with their wallet and switch to a service provider that does not operate on a tiered system. For many of these skeptics, net-neutrality is a made-up issue to begin with; ISPs already police the data traveling through their networks in an attempt to prohibit high-speed connections to users pirating software through peer-to-peer programs like Limewire or BitTorrent, and the average user is largely satisfied with their service. In fact, many users experience better connection speeds through the monitoring and redistribution of data flow. In some people’s minds, H.R. 3458 could threaten an ISP’s ability to guard against piracy and provide high-quality service.
+On the flip side, critics of net-neutrality, and specifically of H.R. 3458, argue that net-neutrality is an unnecessary government intervention
+into the private sector. After all, ISPs have to recoup infrastructure and upgrade costs, and they can recover these funds
+from subscribers however they see fit. If consumers don’t like the practices of their ISP, they are free to vote
+with their wallet and switch to a service provider that does not operate on a tiered system. For many of
+these skeptics, net-neutrality is a made-up issue to begin with; ISPs already police the data traveling through their networks in
+an attempt to prohibit high-speed connections to users pirating software through peer-to-peer programs like Limewire or BitTorrent, and the average
+user is largely satisfied with their service. In fact, many users experience better connection speeds through the monitoring and redistribution
+of data flow. In some people’s minds, H.R. 3458 could threaten an ISP’s ability to guard against piracy and provide
+high-quality service.
 
-In reality, both parties are operating on some problematic assumptions. Proponents for net-neutrality are, I believe, right in railing against a tiered system of access. Because a broadband ISP will often operate as a monopoly within a region, consumers simply do not have the ability to vote with their wallet and switch service providers. At the same time, ISPs should be able to control their networks in response to illegal activities and to provide a better overall experience for their users. H.R. 3458, if passed into law, could revolutionize what has become a critical resource for millions of Americans, and Davidson students would do well to contribute to the national discussion surrounding net-neutrality.
+In reality, both parties are operating on some problematic assumptions. Proponents for net-neutrality are, I believe, right in railing against
+a tiered system of access. Because a broadband ISP will often operate as a monopoly within a region, consumers simply
+do not have the ability to vote with their wallet and switch service providers. At the same time, ISPs should
+be able to control their networks in response to illegal activities and to provide a better overall experience for their
+users. H.R. 3458, if passed into law, could revolutionize what has become a critical resource for millions of Americans, and
+Davidson students would do well to contribute to the national discussion surrounding net-neutrality.
 
 Bryan Norris ’10 is a political science major from Charlotte, NC. Contact him at brnorris@davidson.edu.
 
 WEDNESDAY, JANUARY 27, 2010
 
-The two Geova similar, that 48: the unprecedented Bhi. SB lhe ae FOES Sere tte ci Biel hn, “rniti’s future Pont promising than it’s past. The same goes for New Orleans.
+The two Geova similar, that 48: the unprecedented Bhi. SB lhe ae FOES Sere tte ci Biel hn, “rniti’s future
+Pont promising than it’s past. The same goes for New Orleans.

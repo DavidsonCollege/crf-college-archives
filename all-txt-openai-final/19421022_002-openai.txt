@@ -23,54 +23,315 @@ ED ERWIN EDITOR-IN-CHIEF
 PETER YOUNG BUSINESS MANAGER
 
 EDITORIAL STAFF
-Assistant Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .was recently Lieutenant formerly a First Lieutenant in the Army Air Forces at Turner Field, Albany, Ga. Cadet Adrian Vernon Knox of Davidson, N.C., has reported to the Army Air Forces Pre-Flight School for pilots at Maxwell Field. Bruce H. Kenney of Frankfort, Ky., was graduated from the U.S. Naval Air Station at Bowling Green, Ky., on October 6.
+Assistant Editor . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . .was recently
+Lieutenant formerly a First Lieutenant in the Army Air Forces at Turner Field, Albany, Ga. Cadet Adrian Vernon Knox of
+Davidson, N.C., has reported to the Army Air Forces Pre-Flight School for pilots at Maxwell Field. Bruce H. Kenney of
+Frankfort, Ky., was graduated from the U.S. Naval Air Station at Bowling Green, Ky., on October 6.
 
 By-Lines | By BILL LYMAN
 
 How To Be Entertained on Campus Weekends, or, Be Clean.
 
-Do you get bored on weekends when you are forced to remain on the campus? I realize that such a question is silly, nay! idiotic. But I ask it because I, “By-Lines,” can remedy your problem! Don't you think that you have to rush off to Queens or St. Mary’s to find weekend entertainment anymore. Simply ask a girl to spend the weekend here! Now isn’t that revolutionary? Yet so simple, and it solves your problem.
+Do you get bored on weekends when you are forced to remain on the campus? I realize that such a
+question is silly, nay! idiotic. But I ask it because I, “By-Lines,” can remedy your problem! Don't you think that
+you have to rush off to Queens or St. Mary’s to find weekend entertainment anymore. Simply ask a girl to
+spend the weekend here! Now isn’t that revolutionary? Yet so simple, and it solves your problem.
 
-To illustrate what a good idea my plan is, I'll show you the variety of entertainments offered. Suppose your girl arrives at noon Saturday. You take her to her room in the Guest House—then to lunch where you introduce her to your friends (the snakes!). After lunch, there is nothing more entertaining than the Saturday afternoon movie, wherein students will continually make cute and clever remarks that your date will appreciate. Spend the rest of the afternoon at Hugo’s reading magazines. After supper, a couple of rubbers of bridge will be appropriate. Then at nine o'clock, there will be some real entertainment—planned by the Eu social committee to entertain those on the campus. Perhaps on this particular Saturday, there will be an old-fashioned song session. What could be more fun than singing “I've Been Working on the Railroad,” or “In the Evening”? The midnight show is always a thriller. Then on Sunday, there are, of course, Sunday School and Church. Don't ever try to get romantic, however. This is the only drawback to my little scheme, but even so, you can enjoy some good clean fun. To illustrate my don't-get-romantic point; one student did have a date here last weekend! He went with her into the chapter room at his fraternity house, closed the door; and fifteen seconds later there were six students peering in at each window and two through the keyhole—yelling such remarks as, “Hang one on 'er, Sedley,” or “Will she neck?” or “Show us your technique, Sedley! Tee hee, tee hee, hee hee hee.” You'll find my system delightful, no doubt. But remember—nothing but good clean fun. What could be more enjoyable? (Censored).
+To illustrate what a good idea my plan is, I'll show you the variety of entertainments offered. Suppose your girl
+arrives at noon Saturday. You take her to her room in the Guest House—then to lunch where you introduce her
+to your friends (the snakes!). After lunch, there is nothing more entertaining than the Saturday afternoon movie, wherein students will
+continually make cute and clever remarks that your date will appreciate. Spend the rest of the afternoon at Hugo’s reading
+magazines. After supper, a couple of rubbers of bridge will be appropriate. Then at nine o'clock, there will be some
+real entertainment—planned by the Eu social committee to entertain those on the campus. Perhaps on this particular Saturday, there will
+be an old-fashioned song session. What could be more fun than singing “I've Been Working on the Railroad,” or “In
+the Evening”? The midnight show is always a thriller. Then on Sunday, there are, of course, Sunday School and Church.
+Don't ever try to get romantic, however. This is the only drawback to my little scheme, but even so, you
+can enjoy some good clean fun. To illustrate my don't-get-romantic point; one student did have a date here last weekend!
+He went with her into the chapter room at his fraternity house, closed the door; and fifteen seconds later there
+were six students peering in at each window and two through the keyhole—yelling such remarks as, “Hang one on 'er,
+Sedley,” or “Will she neck?” or “Show us your technique, Sedley! Tee hee, tee hee, hee hee hee.” You'll find
+my system delightful, no doubt. But remember—nothing but good clean fun. What could be more enjoyable? (Censored).
 
 Cole Presents Features
 
 The Operating Table
 
-The ever-piercing eye of the campus operating beacon cast its beam in the direction of the fair city of Atlanta last weekend as dealers from far and near journeyed down for the Georgia Tech game. The highlight of the pre-weekend activities was the initiation of neophytes Gene Sutton and Lacy McLean into the “Row-Row” fraternity, which has one of its strongest chapters in the historic city. The pledges were inducted on the curb in front of the Atlanta Biltmore Hotel by Rab McGeachy and affiliate Ox Alcott, the latter playing hookey from dental school for the ceremony. Dixon Phillips and Elmer Graves, hampered by floods on the way down, arrived in Atlanta with two lovely Greensboro damsels. Who could that pretty blonde have been who asked Long John Belk to kiss her “good-bye”? Speaking of farewells, Bayru Neill underwent a marvelous sendoff when he was embraced at the station by three young ladies (much to the amazement of some fifty soldiers who stood nearby). What a racket he’s got. “Jumpy” Bruce was last seen chasing a bulldog with the sole purpose of biting the animal after it had sunk its teeth into his anatomy. “Most Noxious Gums” Harris had Lard Royster thrown bodily out of the S.A.E. house after Lard had vainly attempted to pledge up the entire freshman class. “Railroad” Brinson (unanimously voted the most complete limber of the weekend) was conspicuous for his conservative behavior throughout. He was wholeheartedly blackballed by Row-Row, although his date was declared eligible and was duly initiated as an honorary member. Rumor has it that Silver Tongue McCoy used his famed linguistic abilities to good advantage and spent the weekend snaking on Ned (the “Kid”) Pollack, one of the former campus dealers.
+The ever-piercing eye of the campus operating beacon cast its beam in the direction of the fair city of Atlanta
+last weekend as dealers from far and near journeyed down for the Georgia Tech game. The highlight of the pre-weekend
+activities was the initiation of neophytes Gene Sutton and Lacy McLean into the “Row-Row” fraternity, which has one of its
+strongest chapters in the historic city. The pledges were inducted on the curb in front of the Atlanta Biltmore Hotel
+by Rab McGeachy and affiliate Ox Alcott, the latter playing hookey from dental school for the ceremony. Dixon Phillips and
+Elmer Graves, hampered by floods on the way down, arrived in Atlanta with two lovely Greensboro damsels. Who could that
+pretty blonde have been who asked Long John Belk to kiss her “good-bye”? Speaking of farewells, Bayru Neill underwent a
+marvelous sendoff when he was embraced at the station by three young ladies (much to the amazement of some fifty
+soldiers who stood nearby). What a racket he’s got. “Jumpy” Bruce was last seen chasing a bulldog with the sole
+purpose of biting the animal after it had sunk its teeth into his anatomy. “Most Noxious Gums” Harris had Lard
+Royster thrown bodily out of the S.A.E. house after Lard had vainly attempted to pledge up the entire freshman class.
+“Railroad” Brinson (unanimously voted the most complete limber of the weekend) was conspicuous for his conservative behavior throughout. He was
+wholeheartedly blackballed by Row-Row, although his date was declared eligible and was duly initiated as an honorary member. Rumor has
+it that Silver Tongue McCoy used his famed linguistic abilities to good advantage and spent the weekend snaking on Ned
+(the “Kid”) Pollack, one of the former campus dealers.
 
-Ten-High Douglas and Ebo Anderson were picked up four miles outside of Greenville, en route to old Converse after deciding to crown their weekend at Furman by passing several hours with certain “cuties” from this well-known institution. Coming out to support the team were such alumni luminaries as “Ox,” “Rosy” Boykin, “Granny” Sharpe, with Mrs. Sharpe, “Jumping Joe” Nelson, “Slats” Youngblood, Jim Anderson, and others. Back in N.C., “Settled Man” Carter spent a quiet weekend with his better half. Incidentally, “Bo” is wearing a most domesticated look this season. Will he last the duration? Hugh “Lover” Sprunt carried on in his usual holiday activities by dating at four different Va. colleges. The “flush notes” are already rolling in to campus, indicating that Home-Coming is approaching. So let a hint to the wise be sufficient and start now to line up those dates!
+Ten-High Douglas and Ebo Anderson were picked up four miles outside of Greenville, en route to old Converse after deciding
+to crown their weekend at Furman by passing several hours with certain “cuties” from this well-known institution. Coming out to
+support the team were such alumni luminaries as “Ox,” “Rosy” Boykin, “Granny” Sharpe, with Mrs. Sharpe, “Jumping Joe” Nelson, “Slats”
+Youngblood, Jim Anderson, and others. Back in N.C., “Settled Man” Carter spent a quiet weekend with his better half. Incidentally,
+“Bo” is wearing a most domesticated look this season. Will he last the duration? Hugh “Lover” Sprunt carried on in
+his usual holiday activities by dating at four different Va. colleges. The “flush notes” are already rolling in to campus,
+indicating that Home-Coming is approaching. So let a hint to the wise be sufficient and start now to line up
+those dates!
 
 Cinema Comments By LACY MacLEAN
 
 Thursday and Friday PRIDE OF THE YANKEES
 
-Gary Cooper's excellent portrayal of one of baseball’s greatest heroes comes to Davidson Thursday and Friday. Teresa Wright gives Cooper excellent support to make one of the year’s best pictures. The story concerns not only the First Baseman’s baseball career, though it is centered around it, but also his inspiring private life.
+Gary Cooper's excellent portrayal of one of baseball’s greatest heroes comes to Davidson Thursday and Friday. Teresa Wright gives Cooper
+excellent support to make one of the year’s best pictures. The story concerns not only the First Baseman’s baseball career,
+though it is centered around it, but also his inspiring private life.
 
 Saturday YOU CAN’T ESCAPE FOREVER
 
-George Brent and Brenda Marshall head the cast of this action-packed thriller, “You Can't Escape Forever.” Gene Lockhart and Roscoe Karnes support the starring team. The plot deals with a newspaper setting which gives a speed-up and suspense not found in the ordinary movie.
+George Brent and Brenda Marshall head the cast of this action-packed thriller, “You Can't Escape Forever.” Gene Lockhart and Roscoe
+Karnes support the starring team. The plot deals with a newspaper setting which gives a speed-up and suspense not found
+in the ordinary movie.
 
 Monday and Tuesday PANAMA HATTIE
 
-Ann Sothern comes through again in her usual type of comedy. Red Skelton, radio and screen sensation, holds the lead and is ably supported by a large crowd of famous male artists known for their efforts in the field of comedy. Ben Blue, Alan Mowbray, and the Berry Brothers head the list. It’s a peppy show with lots of fun.
+Ann Sothern comes through again in her usual type of comedy. Red Skelton, radio and screen sensation, holds the lead
+and is ably supported by a large crowd of famous male artists known for their efforts in the field of
+comedy. Ben Blue, Alan Mowbray, and the Berry Brothers head the list. It’s a peppy show with lots of fun.
 
 COMING SOON
 
 Walter Pidgeon and Greer Garson in MRS. MINIVER
 
-NOTE: Due to the early release of PRIDE OF THE YANKEES, there will be a slight advance in the admission price. Students: Mat. 40¢, Night 55¢.
+NOTE: Due to the early release of PRIDE OF THE YANKEES, there will be a slight advance in the admission
+price. Students: Mat. 40¢, Night 55¢.
 
 By SHAW SMITH
 
 Six Men of Might
 
-A ring on the phone brought news this week of an alumnus in the hospital at Charlotte in need of six men for blood transfusions. When you feel little doubt of Davidson men, try soliciting for such an urgent call and regain faith in them. So many volunteers could not use them all! After sifting them for Type Four, finally seven were taken over and tests revealed six to be used. George Patrick, John Turner, Charlie McKee, Jim Morgan, Bill Ransom, Fred Speas, and Edd Currie were the ones, each a Hero-of-the-week with a record that stands much longer. A pretty picture it was; some of ‘em studying reviews for the next day while waiting to be tapped—others talking about—now and then flirting a bit with the nurses—all before the transfusion! Hugo Sapp called to offer a donation—Mr. P. Whittle, Bob Turner, Dean Watson, and scores of others. Brings remembrances of long waiting lines last year for the Blood Bank. Yep—it’s part of the Davidson Spirit.
+A ring on the phone brought news this week of an alumnus in the hospital at Charlotte in need of
+six men for blood transfusions. When you feel little doubt of Davidson men, try soliciting for such an urgent call
+and regain faith in them. So many volunteers could not use them all! After sifting them for Type Four, finally
+seven were taken over and tests revealed six to be used. George Patrick, John Turner, Charlie McKee, Jim Morgan, Bill
+Ransom, Fred Speas, and Edd Currie were the ones, each a Hero-of-the-week with a record that stands much longer. A
+pretty picture it was; some of ‘em studying reviews for the next day while waiting to be tapped—others talking about—now
+and then flirting a bit with the nurses—all before the transfusion! Hugo Sapp called to offer a donation—Mr. P. Whittle,
+Bob Turner, Dean Watson, and scores of others. Brings remembrances of long waiting lines last year for the Blood Bank.
+Yep—it’s part of the Davidson Spirit.
 
 Thoughts Past and Future
 
-Sorry, ol’ Charlie Powell and Charlie Blackburn are laid up a bit. Hope not for long. Rufus Long reports Hall Prayer Group not doing so well... “one man out last week,” he said. Nice! Congrats to John Turner, Yocum, L. Potter, and Bill Sheeley... “with story elsewhere in this sheet.” Hard-working H. McIntosh serves also... future bright for Saturday nights and many who lay over for the weekends. Amateur nights, steak feasts, movies of old-fashioned variety as well as hymn sings will make the bill. This Saturday is “Boogie Woogie at the ‘Y’ Night.” Rumor has it that such artists as Jack Spratt, Wilford Whitley, Butch Watkins, Lee Potter, Alf McNair, Jim Dendy, and others are participants. Sounds good and rolling.
+Sorry, ol’ Charlie Powell and Charlie Blackburn are laid up a bit. Hope not for long. Rufus Long reports Hall
+Prayer Group not doing so well... “one man out last week,” he said. Nice! Congrats to John Turner, Yocum, L.
+Potter, and Bill Sheeley... “with story elsewhere in this sheet.” Hard-working H. McIntosh serves also... future bright for Saturday nights
+and many who lay over for the weekends. Amateur nights, steak feasts, movies of old-fashioned variety as well as hymn
+sings will make the bill. This Saturday is “Boogie Woogie at the ‘Y’ Night.” Rumor has it that such artists
+as Jack Spratt, Wilford Whitley, Butch Watkins, Lee Potter, Alf McNair, Jim Dendy, and others are participants. Sounds good and
+rolling.
 
 The Crystal Ball
 
-Prediction of an excellent P.S.A. Conference at Raleigh this weekend. Old Friend Dr. Cliff Barbour ensures it as well as other notables. Will be good to see him again. Still remember him at Spring Services 1941. Reminds me Fall Services are almost in our laps. Plan to come as much as possible. You'll like Dr. Jas. A. Jones and his straight-at-you preaching. Ever been a time when religion is so plainly needed that you remember? I can’t remember such a time. This is the checking up season. “Life’s too short to say things you don’t mean.” This is the checking up season. See you in church. Now, fellows, think twice at least. See you in church. Yep.
+Prediction of an excellent P.S.A. Conference at Raleigh this weekend. Old Friend Dr. Cliff Barbour ensures it as well as
+other notables. Will be good to see him again. Still remember him at Spring Services 1941. Reminds me Fall Services
+are almost in our laps. Plan to come as much as possible. You'll like Dr. Jas. A. Jones and his
+straight-at-you preaching. Ever been a time when religion is so plainly needed that you remember? I can’t remember such a
+time. This is the checking up season. “Life’s too short to say things you don’t mean.” This is the checking
+up season. See you in church. Now, fellows, think twice at least. See you in church. Yep.

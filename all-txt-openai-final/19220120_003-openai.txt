@@ -298,24 +298,90 @@ Sample, A. M., 4 S. B.
 Shaw, F. S., 4 R.
 Sherrill, F. C., Cornelius, N. C.
 Simpson, J. W., 7 Ga.
-Smith, J. I., 8 S. B.W. Smith, R. H., 6 R. Steed, J. P., 4 Smith’s. Steele, P. J., 10 S. B. Stevenson, J. P., 6 S. B. Story, 10, Vis 15 R. Stowe, R. L., White’s. Townsend, H. A., 5 S. B. Walthall, D. B., Johnson's. Weldon, J. E., 9 N. B. White, Henry M., Infirmary. Wildman, A. C., 10 R. Wyman, J. R., 17 W. Yonan, J. M., Martin’s. Young, C. A., 15 R.
+Smith, J. I., 8 S. B.W. Smith, R. H., 6 R. Steed, J. P., 4 Smith’s. Steele, P. J., 10
+S. B. Stevenson, J. P., 6 S. B. Story, 10, Vis 15 R. Stowe, R. L., White’s. Townsend, H. A.,
+5 S. B. Walthall, D. B., Johnson's. Weldon, J. E., 9 N. B. White, Henry M., Infirmary. Wildman, A. C.,
+10 R. Wyman, J. R., 17 W. Yonan, J. M., Martin’s. Young, C. A., 15 R.
 
 Freshmen:
-Alexander, H. W., 15 S. B. Anderson, J. C., 13 Ga. Anthony, W. G., L. M. Currie’s. Arbuthnot, J. W., Whitaker’s. Austin, Jack, 3 La. Avery, E. S., 25 R. Bachman, J. S., 23 Ga. Baker, J. D., 29 R. Ballard, J. F., 23 R. Beall, M. S., 5 R. Beers, B. F., 16 S. B. Bethea, D. M. L., 19 Ga. Black, S. W., 10 S. B. Blankenship, P., 3 N. B. Boggs, R. E., 12 N. B. Bowden, M. C., Cranford’s. Brice, L. H., 17 Ga. Briggs, J. R., 6 La. Brown, A. C., 20 Ga. Brown, B. G., Grey’s. Brown, C. M., Currie’s. Brown, H. D., 5 S. B. Brown, J. D., 14 S. B. Brown, O. M., 1 N. B. Brown, T. B., 6 Ga. Bryant, Simril F., 8 N. B. Byerly, R. D., 1 W. Byrd, W. C., 24 R. Caldwell, J. P., 18 R. Calhoun, L. E., 12 R. Calhoun, W. J., 14 N. B. Cantrell, C. C., 2 R. Carr, J. M. L., Shelton’s. Carter, W. H., 6 La. Cater, H. L., 2 La. Chien, C. K., Thompson’s. Covington, J. M. C., 6 La. Crow, E. B., 8 R. Currie, J. K., 2 N. B. Currie, J. M., 21 W. Earnest, J. R., 25 W. Faison, N. M., White's. Forbes, B. M., 16 N. B. Freeland, P. B., 1 La. Gallent, J. B., 8 N. B. George, E. H., 7 N. B. Furches, C. S., 22 R. Glenn, W. S., Jr., 14 N. B. Gibbs, L. B., Porter’s. Godfrey, B. O., 7 S. B. Good, J. W., Jr., 4 N. B. Gracey, W. M., Jr., Grey’s. Graves, R. W., Jr., 23 Ga. Gudger, J. R., Home. Guiton, T. A., 5 N. B. Noble, W. C., Jr., 20 Ga. Hall, J. B., 13 N. B. Harris, W. C., 16 W. Hinton, L. P., 28 Ga. Hockaday, W. F., Grey's. Holshouser, J. E., Crawford's. Hooker, J. E., 3 N. B. Hopkins, F. A., White's. Hastie, B. F., 13 S. B. Hay, J. T., 9 Smith's. Hay, W. O., 9 Smith's. Hendricks, J. P., Paisley’s. Howard, G. L., Home. Howell, W. I., 8 R. Hudson, W. M., 9 Smith's. Hunt, J. C., 10 Ga. Hunter, C. R., 2 N. B. Hunter, M. M., 12 S. B. Jackson, A. B., White's. Johnston, C. P., 17 R. Johnston, H. L., Grey's. Johnston, J. P., 6 Smith's. Koenig, T. H., 5 W. Lake, J. A., White's. Lancaster, R., E. R. Laws, J. L., 21 R. Lewis, K. Liles, R. V., 7 S. B. Littlejohn, R., 3 Smith's. Lyons, A., 7 S. B. Mallory, D. I., 10 Ga. Mallory, A. D., 8 La. Morrow, T. I., 14 W. Martin, A. M., 31 Ga. Matthews, H. B., 14 N. B. Matthews, O. P., 4 N. B. Maxwell, J. R., 3 Thompson's. McAlister, A. W., Black's. McAlpine, K. S., 18 W. McAulay, W. A., 24 R. McCallum, B., 11 Ga. McComb, D. M., 10 R. McCrary, L. D., 3 Ga. McGregor, A. M., 1 W. McIlwaine, C. M., Thompson's. McIntyre, A. C., 25 R. McIver, D., 16 Ga. McIver, J. A., White's. McIver, W. T., White's. McMillen, C. C., Shelton’s. McPherson, H. C., 19 R. McSwain, T. C., 11 Ga. Mebane, A. H., 13 N. B. Milhous, J. H., 16 S. B. Mitchell, F. T., 27 Ga. Mitchell, R. A., 8 Ga. Moffett, A. N., Porter’s. Montgomery, F. R., 5 Ga. Moomaw, E. C., 8 Ga. Moore, A. C., 17 Ga. Morris, W. W., White's. Morrison, E. T., Grey's. Moss, H. M., 6 W. Neisler, H., 19 R. Northrop, W. D., 14 S. B. Oeland, R. W., 14 N. B. Oliver, N. S., 8 Ga. Patrick, M. R., 15 W. Patterson, N. G., Infirmary. Patterson, P. M., Shumaker’s. Patterson, W. A., 7 Smith's. Patton, J. H., 9 W. Peters, A. W., 14 W. Pleasants, J. M., 21 W. Polk, J. M., 19 W. Pomroy, W. L., 18 W. Potts, R. G., Home. Poythress, W. E., 24 R. Price, H. B., 13 R. Pritchett, R. L., 5 La. Prothro, J. D., 17 La. Purdy, W. W., 8 N. B. Ramsey, W. C., White's. Ray, A. C., 2 Smith's. Regen, C. D., 9 W. Rice, J. O., 28 Ga. Roberts, J. M., 11 N. B. Robins, W. N., 8 Ga. Sellars, R. O., 22 Ga. Sells, S. H., 11 W. Shepherd, H. I., 24 Ga. Singletary, J. E., White’s. Smith, R. J., Shelton’s. Staley, F. W., 13 Ga. Steele, J. L., Cranford’s. Summers, S. W., 12 W. Taylor, G. K., 27 Ga. Thomas, E. M., 22 W. Thomas, W. G., 6 N. B. Thomasson, M. D., 14 N. B. Thompson, J. A., 11 S. B. Thompson, T. B., 11 S. B. Thompson, W. A., Smith’s. Thrower, E., 6 N. B. Trawick, M. W., 6 N. B. Uzzell, G. R., 4 La. Vann, A. J., 7 Thompson's. Walker, R. W., 16 W. Weeks, W. P., 4 R. Wells, E. M., Shelton’s. Wells, H. M., Shelton’s. Wharton, D. B., 4 Ga. Wharton, R. E., 4 Ga. White, R. D., 22 Ga. White, R., 3 R. Wilkinson, H. E., 13 N. B. Williams, J. M., 7 N. B. Wolfe, Chas., 3 Thompson's. Wright, A. G., 5 N. B.
+Alexander, H. W., 15 S. B. Anderson, J. C., 13 Ga. Anthony, W. G., L. M. Currie’s. Arbuthnot, J. W.,
+Whitaker’s. Austin, Jack, 3 La. Avery, E. S., 25 R. Bachman, J. S., 23 Ga. Baker, J. D., 29 R.
+Ballard, J. F., 23 R. Beall, M. S., 5 R. Beers, B. F., 16 S. B. Bethea, D. M. L.,
+19 Ga. Black, S. W., 10 S. B. Blankenship, P., 3 N. B. Boggs, R. E., 12 N. B. Bowden,
+M. C., Cranford’s. Brice, L. H., 17 Ga. Briggs, J. R., 6 La. Brown, A. C., 20 Ga. Brown, B.
+G., Grey’s. Brown, C. M., Currie’s. Brown, H. D., 5 S. B. Brown, J. D., 14 S. B. Brown, O.
+M., 1 N. B. Brown, T. B., 6 Ga. Bryant, Simril F., 8 N. B. Byerly, R. D., 1 W.
+Byrd, W. C., 24 R. Caldwell, J. P., 18 R. Calhoun, L. E., 12 R. Calhoun, W. J., 14 N.
+B. Cantrell, C. C., 2 R. Carr, J. M. L., Shelton’s. Carter, W. H., 6 La. Cater, H. L., 2
+La. Chien, C. K., Thompson’s. Covington, J. M. C., 6 La. Crow, E. B., 8 R. Currie, J. K., 2
+N. B. Currie, J. M., 21 W. Earnest, J. R., 25 W. Faison, N. M., White's. Forbes, B. M., 16
+N. B. Freeland, P. B., 1 La. Gallent, J. B., 8 N. B. George, E. H., 7 N. B. Furches,
+C. S., 22 R. Glenn, W. S., Jr., 14 N. B. Gibbs, L. B., Porter’s. Godfrey, B. O., 7 S.
+B. Good, J. W., Jr., 4 N. B. Gracey, W. M., Jr., Grey’s. Graves, R. W., Jr., 23 Ga. Gudger,
+J. R., Home. Guiton, T. A., 5 N. B. Noble, W. C., Jr., 20 Ga. Hall, J. B., 13 N.
+B. Harris, W. C., 16 W. Hinton, L. P., 28 Ga. Hockaday, W. F., Grey's. Holshouser, J. E., Crawford's. Hooker,
+J. E., 3 N. B. Hopkins, F. A., White's. Hastie, B. F., 13 S. B. Hay, J. T., 9 Smith's.
+Hay, W. O., 9 Smith's. Hendricks, J. P., Paisley’s. Howard, G. L., Home. Howell, W. I., 8 R. Hudson, W.
+M., 9 Smith's. Hunt, J. C., 10 Ga. Hunter, C. R., 2 N. B. Hunter, M. M., 12 S. B.
+Jackson, A. B., White's. Johnston, C. P., 17 R. Johnston, H. L., Grey's. Johnston, J. P., 6 Smith's. Koenig, T.
+H., 5 W. Lake, J. A., White's. Lancaster, R., E. R. Laws, J. L., 21 R. Lewis, K. Liles, R.
+V., 7 S. B. Littlejohn, R., 3 Smith's. Lyons, A., 7 S. B. Mallory, D. I., 10 Ga. Mallory, A.
+D., 8 La. Morrow, T. I., 14 W. Martin, A. M., 31 Ga. Matthews, H. B., 14 N. B. Matthews,
+O. P., 4 N. B. Maxwell, J. R., 3 Thompson's. McAlister, A. W., Black's. McAlpine, K. S., 18 W. McAulay,
+W. A., 24 R. McCallum, B., 11 Ga. McComb, D. M., 10 R. McCrary, L. D., 3 Ga. McGregor, A.
+M., 1 W. McIlwaine, C. M., Thompson's. McIntyre, A. C., 25 R. McIver, D., 16 Ga. McIver, J. A., White's.
+McIver, W. T., White's. McMillen, C. C., Shelton’s. McPherson, H. C., 19 R. McSwain, T. C., 11 Ga. Mebane, A.
+H., 13 N. B. Milhous, J. H., 16 S. B. Mitchell, F. T., 27 Ga. Mitchell, R. A., 8 Ga.
+Moffett, A. N., Porter’s. Montgomery, F. R., 5 Ga. Moomaw, E. C., 8 Ga. Moore, A. C., 17 Ga. Morris,
+W. W., White's. Morrison, E. T., Grey's. Moss, H. M., 6 W. Neisler, H., 19 R. Northrop, W. D., 14
+S. B. Oeland, R. W., 14 N. B. Oliver, N. S., 8 Ga. Patrick, M. R., 15 W. Patterson, N.
+G., Infirmary. Patterson, P. M., Shumaker’s. Patterson, W. A., 7 Smith's. Patton, J. H., 9 W. Peters, A. W., 14
+W. Pleasants, J. M., 21 W. Polk, J. M., 19 W. Pomroy, W. L., 18 W. Potts, R. G., Home.
+Poythress, W. E., 24 R. Price, H. B., 13 R. Pritchett, R. L., 5 La. Prothro, J. D., 17 La.
+Purdy, W. W., 8 N. B. Ramsey, W. C., White's. Ray, A. C., 2 Smith's. Regen, C. D., 9 W.
+Rice, J. O., 28 Ga. Roberts, J. M., 11 N. B. Robins, W. N., 8 Ga. Sellars, R. O., 22
+Ga. Sells, S. H., 11 W. Shepherd, H. I., 24 Ga. Singletary, J. E., White’s. Smith, R. J., Shelton’s. Staley,
+F. W., 13 Ga. Steele, J. L., Cranford’s. Summers, S. W., 12 W. Taylor, G. K., 27 Ga. Thomas, E.
+M., 22 W. Thomas, W. G., 6 N. B. Thomasson, M. D., 14 N. B. Thompson, J. A., 11 S.
+B. Thompson, T. B., 11 S. B. Thompson, W. A., Smith’s. Thrower, E., 6 N. B. Trawick, M. W., 6
+N. B. Uzzell, G. R., 4 La. Vann, A. J., 7 Thompson's. Walker, R. W., 16 W. Weeks, W. P.,
+4 R. Wells, E. M., Shelton’s. Wells, H. M., Shelton’s. Wharton, D. B., 4 Ga. Wharton, R. E., 4 Ga.
+White, R. D., 22 Ga. White, R., 3 R. Wilkinson, H. E., 13 N. B. Williams, J. M., 7 N.
+B. Wolfe, Chas., 3 Thompson's. Wright, A. G., 5 N. B.
 
 LOCAL “Y” PLANS
 (Continued from page 1)
 
-...pressed a desire to have deputations sent them this spring. These deputation teams go out each year to the neighboring prep and high schools to speak to the boys. As a rule, boys of the high school age do not realize that they are laying a foundation for their college and business life. It is the purpose of these teams to impress upon each student the importance of being well prepared for their college and business career.
+...pressed a desire to have deputations sent them this spring. These deputation teams go out each year to the neighboring
+prep and high schools to speak to the boys. As a rule, boys of the high school age do not
+realize that they are laying a foundation for their college and business life. It is the purpose of these teams
+to impress upon each student the importance of being well prepared for their college and business career.
 
-Men are chosen for these teams who represent various phases of college life, e.g., a football man, a literary society man, a debater, etc. These individuals make a short talk on the subject or phase of college life which they represent. One of the aims of the “Y” this year in sending out these deputations is to secure recognition so that next year demands for deputations will be received from the neighboring schools in place of the “Y” having to determine by correspondence just where they are desired. Articles concerning this work are to be published in the Presbyterian Standard and the Christian Observer. At a meeting held after chapel last week, twenty men pledged their earnest support to this work and it is hoped that even a larger number will become interested and will lend their aid to so worthy a cause. If you are a singer or a speaker or can help in any way these deputations, let the “Y” know about it immediately.
+Men are chosen for these teams who represent various phases of college life, e.g., a football man, a literary society
+man, a debater, etc. These individuals make a short talk on the subject or phase of college life which they
+represent. One of the aims of the “Y” this year in sending out these deputations is to secure recognition so
+that next year demands for deputations will be received from the neighboring schools in place of the “Y” having to
+determine by correspondence just where they are desired. Articles concerning this work are to be published in the Presbyterian Standard
+and the Christian Observer. At a meeting held after chapel last week, twenty men pledged their earnest support to this
+work and it is hoped that even a larger number will become interested and will lend their aid to so
+worthy a cause. If you are a singer or a speaker or can help in any way these deputations, let
+the “Y” know about it immediately.
 
 REDPATH ARTISTS.
 (Continued from page 1)
 
-...or less cheerful songs, among them being “The Little Irish Girl” with her sharp repartee for the would-be suitor. “A Friend o' Mine,” by Wilbur Sanderson, had a more serious tone and was very pretty. Miss Everett's two piano solos proved she could entertain an audience alone as well as an accompanist. Following Miss Everett’s piano selections, Mr. Proctor rendered two of Kipling’s poems, “On the Road to Mandalay” and “Mother o’ Mine,” besides a selection about a small town which may have brought back memories to some who come from small towns. For her last performance, Miss Rees announced she would play three selections beginning with Schubert’s Serenade. Her other two numbers had such an attractive swing that she was encored back to play a Minuet. The program, every number of which was thoroughly enjoyed, was closed by “The Evening Song” sung by Mr. Proctor. He was pre-eminently the center of attraction with his splendid tenor voice, but Misses Rees and Everett drew their full share of applause.
+...or less cheerful songs, among them being “The Little Irish Girl” with her sharp repartee for the would-be suitor. “A
+Friend o' Mine,” by Wilbur Sanderson, had a more serious tone and was very pretty. Miss Everett's two piano solos
+proved she could entertain an audience alone as well as an accompanist. Following Miss Everett’s piano selections, Mr. Proctor rendered
+two of Kipling’s poems, “On the Road to Mandalay” and “Mother o’ Mine,” besides a selection about a small town
+which may have brought back memories to some who come from small towns. For her last performance, Miss Rees announced
+she would play three selections beginning with Schubert’s Serenade. Her other two numbers had such an attractive swing that she
+was encored back to play a Minuet. The program, every number of which was thoroughly enjoyed, was closed by “The
+Evening Song” sung by Mr. Proctor. He was pre-eminently the center of attraction with his splendid tenor voice, but Misses
+Rees and Everett drew their full share of applause.
 
 WILDCAT BASKETEERS OPEN WITH WIN OVER CHARLOTTE
 (Continued from page 1)
 
-Davidson Substitutions: Boggs for Price; Beale for Mallory, Doubles for Ormond. Charlotte: Marsh for Smith, Yates for McMillan, Milstead for Yates.
+Davidson Substitutions: Boggs for Price; Beale for Mallory, Doubles for Ormond. Charlotte: Marsh for Smith, Yates for McMillan, Milstead for
+Yates.

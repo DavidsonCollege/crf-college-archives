@@ -130,8 +130,11 @@ hardt ’84
 
 | Male | Female | Total
 | Yes | No | NS | Yes | No | NS | Yes | No | NS
-1) Do you intend to stay at the Commons? | 9/28 | 20/63 | 3/9 | 4/21 | 12/63 | 3/16 | 13/25 | 32/63 | 6/12
-2) Do you favor the establishment of a new all-women’s eating house? | 25/78 | 4/13 | 9/47 | 3/16 | 32/63
-3) Would you consider joining the house if it is established? | 3/16 | 10/51 | 6/32 | 7/37 | 6/32
+1) Do you intend to stay at the Commons? | 9/28 | 20/63 | 3/9 | 4/21 | 12/63 |
+3/16 | 13/25 | 32/63 | 6/12
+2) Do you favor the establishment of a new all-women’s eating house? | 25/78 | 4/13 | 9/47 | 3/16
+| 32/63
+3) Would you consider joining the house if it is established? | 3/16 | 10/51 | 6/32 | 7/37 |
+6/32
 
 DAVIDSONIAN / Friday, 29 January 1982

@@ -2,175 +2,253 @@
 
 Complete Roster of Davidson-V. M. I. Teams
 
-| Yr. on V. M. I. | Yr. on DAVIDSON | Wt. | Squad | Home Town | Position | Name | Wt. | Squad | Home Town | Position |
+| Yr. on V. M. I. | Yr. on DAVIDSON | Wt. | Squad | Home Town | Position |
+Name | Wt. | Squad | Home Town | Position |
 |----------------|-----------------|-----|-------|------------|----------|------|-----|-------|------------|----------|
 | 169 | 2nd | Hendersonville | Center | Mondy (Shep) Captain | 149 | 3rd | | | |
 | 183 | 1st | Charlottesville | Center | Grow (Virgil) | 150 | 1st | | | |
 | 158 | 1st | Washington | Center | Chadwick (Bots) | 161 | 1st | Norfolk | Center |
 | 167 | 1st | | Center | O'Berry (Karlyle) | 205 | 3rd | | | |
 | 165 | 3rd | Solivar, PA | Guard | Melton (Olt) | 170 | 3rd | | | |
-| 175 | 1st | Richmond | Guard | Adams (Buddy) | 168 | 3rd | Cantonsville, MD | Guard |
+| 175 | 1st | Richmond | Guard | Adams (Buddy) | 168 | 3rd | Cantonsville, MD | Guard
+|
 | 160 | 1st | Gastonia | Guard | Preston (G) | 151 | 3rd | Roanoke | Center |
-| 175 | 1st | Ashland, KY | Tackle | McGolvan (Lewis) | 195 | 2nd | Kannapolis | Tackle |
+| 175 | 1st | Ashland, KY | Tackle | McGolvan (Lewis) | 195 | 2nd | Kannapolis | Tackle
+|
 | 167 | 3rd | Roanoke | End | McEachern (Dunk) | 170 | 1st | | | |
-| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA | End |
+| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA |
+End |
 | 170 | 2nd | | End | Woodbury (Cory) | 104 | 3rd | Staunton | End |
 | 170 | 2nd | | End | Arrowood (High) | 170 | 2nd | | | |
-| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington | Quarterback |
+| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington
+| Quarterback |
 | 145 | 1st | Washington | Quarterback | McGray (Bernard) | 170 | 2nd | | | |
-| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL | Halfback |
+| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL |
+Halfback |
 | 145 | 2nd | Davidson | Fullback | Zannes (Cad) | 162 | 2nd | Roanoke | Halfback |
-| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback |
+| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback
+|
 | 152 | 2nd | Pascagoula, MS | Halfback | Garnes (Arid) | 170 | 1st | | | |
 | 175 | 1st | Lynchburg | Tackle | Archie (CSS) | 175 | 1st | | | |
-| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | | |
+| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | |
+|
 | 161 | 1st | Richmond | Tackle | Haase (Charlie) | 161 | 1st | | | |
 | 170 | 1st | | Tackle | Baker (Attiut) | 170 | 1st | | | |
 | 195 | 2nd | Kannapolis | Tackle | Willard (John) | 195 | 2nd | | | |
 | 167 | 3rd | Roanoke | End | McEachern (Dunk) | 170 | 1st | | | |
-| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA | End |
+| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA |
+End |
 | 170 | 2nd | | End | Woodbury (Cory) | 104 | 3rd | Staunton | End |
 | 170 | 2nd | | End | Arrowood (High) | 170 | 2nd | | | |
-| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington | Quarterback |
+| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington
+| Quarterback |
 | 145 | 1st | Washington | Quarterback | McGray (Bernard) | 170 | 2nd | | | |
-| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL | Halfback |
+| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL |
+Halfback |
 | 145 | 2nd | Davidson | Fullback | Zannes (Cad) | 162 | 2nd | Roanoke | Halfback |
-| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback |
+| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback
+|
 | 152 | 2nd | Pascagoula, MS | Halfback | Garnes (Arid) | 170 | 1st | | | |
 | 175 | 1st | Lynchburg | Tackle | Archie (CSS) | 175 | 1st | | | |
-| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | | |
+| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | |
+|
 | 161 | 1st | Richmond | Tackle | Haase (Charlie) | 161 | 1st | | | |
 | 170 | 1st | | Tackle | Baker (Attiut) | 170 | 1st | | | |
 | 195 | 2nd | Kannapolis | Tackle | Willard (John) | 195 | 2nd | | | |
 | 167 | 3rd | Roanoke | End | McEachern (Dunk) | 170 | 1st | | | |
-| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA | End |
+| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA |
+End |
 | 170 | 2nd | | End | Woodbury (Cory) | 104 | 3rd | Staunton | End |
 | 170 | 2nd | | End | Arrowood (High) | 170 | 2nd | | | |
-| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington | Quarterback |
+| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington
+| Quarterback |
 | 145 | 1st | Washington | Quarterback | McGray (Bernard) | 170 | 2nd | | | |
-| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL | Halfback |
+| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL |
+Halfback |
 | 145 | 2nd | Davidson | Fullback | Zannes (Cad) | 162 | 2nd | Roanoke | Halfback |
-| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback |
+| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback
+|
 | 152 | 2nd | Pascagoula, MS | Halfback | Garnes (Arid) | 170 | 1st | | | |
 | 175 | 1st | Lynchburg | Tackle | Archie (CSS) | 175 | 1st | | | |
-| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | | |
+| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | |
+|
 | 161 | 1st | Richmond | Tackle | Haase (Charlie) | 161 | 1st | | | |
 | 170 | 1st | | Tackle | Baker (Attiut) | 170 | 1st | | | |
 | 195 | 2nd | Kannapolis | Tackle | Willard (John) | 195 | 2nd | | | |
 | 167 | 3rd | Roanoke | End | McEachern (Dunk) | 170 | 1st | | | |
-| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA | End |
+| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA |
+End |
 | 170 | 2nd | | End | Woodbury (Cory) | 104 | 3rd | Staunton | End |
 | 170 | 2nd | | End | Arrowood (High) | 170 | 2nd | | | |
-| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington | Quarterback |
+| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington
+| Quarterback |
 | 145 | 1st | Washington | Quarterback | McGray (Bernard) | 170 | 2nd | | | |
-| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL | Halfback |
+| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL |
+Halfback |
 | 145 | 2nd | Davidson | Fullback | Zannes (Cad) | 162 | 2nd | Roanoke | Halfback |
-| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback |
+| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback
+|
 | 152 | 2nd | Pascagoula, MS | Halfback | Garnes (Arid) | 170 | 1st | | | |
 | 175 | 1st | Lynchburg | Tackle | Archie (CSS) | 175 | 1st | | | |
-| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | | |
+| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | |
+|
 | 161 | 1st | Richmond | Tackle | Haase (Charlie) | 161 | 1st | | | |
 | 170 | 1st | | Tackle | Baker (Attiut) | 170 | 1st | | | |
 | 195 | 2nd | Kannapolis | Tackle | Willard (John) | 195 | 2nd | | | |
 | 167 | 3rd | Roanoke | End | McEachern (Dunk) | 170 | 1st | | | |
-| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA | End |
+| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA |
+End |
 | 170 | 2nd | | End | Woodbury (Cory) | 104 | 3rd | Staunton | End |
 | 170 | 2nd | | End | Arrowood (High) | 170 | 2nd | | | |
-| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington | Quarterback |
+| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington
+| Quarterback |
 | 145 | 1st | Washington | Quarterback | McGray (Bernard) | 170 | 2nd | | | |
-| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL | Halfback |
+| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL |
+Halfback |
 | 145 | 2nd | Davidson | Fullback | Zannes (Cad) | 162 | 2nd | Roanoke | Halfback |
-| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback |
+| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback
+|
 | 152 | 2nd | Pascagoula, MS | Halfback | Garnes (Arid) | 170 | 1st | | | |
 | 175 | 1st | Lynchburg | Tackle | Archie (CSS) | 175 | 1st | | | |
-| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | | |
+| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | |
+|
 | 161 | 1st | Richmond | Tackle | Haase (Charlie) | 161 | 1st | | | |
 | 170 | 1st | | Tackle | Baker (Attiut) | 170 | 1st | | | |
 | 195 | 2nd | Kannapolis | Tackle | Willard (John) | 195 | 2nd | | | |
 | 167 | 3rd | Roanoke | End | McEachern (Dunk) | 170 | 1st | | | |
-| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA | End |
+| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA |
+End |
 | 170 | 2nd | | End | Woodbury (Cory) | 104 | 3rd | Staunton | End |
 | 170 | 2nd | | End | Arrowood (High) | 170 | 2nd | | | |
-| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington | Quarterback |
+| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington
+| Quarterback |
 | 145 | 1st | Washington | Quarterback | McGray (Bernard) | 170 | 2nd | | | |
-| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL | Halfback |
+| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL |
+Halfback |
 | 145 | 2nd | Davidson | Fullback | Zannes (Cad) | 162 | 2nd | Roanoke | Halfback |
-| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback |
+| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback
+|
 | 152 | 2nd | Pascagoula, MS | Halfback | Garnes (Arid) | 170 | 1st | | | |
 | 175 | 1st | Lynchburg | Tackle | Archie (CSS) | 175 | 1st | | | |
-| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | | |
+| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | |
+|
 | 161 | 1st | Richmond | Tackle | Haase (Charlie) | 161 | 1st | | | |
 | 170 | 1st | | Tackle | Baker (Attiut) | 170 | 1st | | | |
 | 195 | 2nd | Kannapolis | Tackle | Willard (John) | 195 | 2nd | | | |
 | 167 | 3rd | Roanoke | End | McEachern (Dunk) | 170 | 1st | | | |
-| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA | End |
+| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA |
+End |
 | 170 | 2nd | | End | Woodbury (Cory) | 104 | 3rd | Staunton | End |
 | 170 | 2nd | | End | Arrowood (High) | 170 | 2nd | | | |
-| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington | Quarterback |
+| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington
+| Quarterback |
 | 145 | 1st | Washington | Quarterback | McGray (Bernard) | 170 | 2nd | | | |
-| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL | Halfback |
+| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL |
+Halfback |
 | 145 | 2nd | Davidson | Fullback | Zannes (Cad) | 162 | 2nd | Roanoke | Halfback |
-| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback |
+| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback
+|
 | 152 | 2nd | Pascagoula, MS | Halfback | Garnes (Arid) | 170 | 1st | | | |
 | 175 | 1st | Lynchburg | Tackle | Archie (CSS) | 175 | 1st | | | |
-| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | | |
+| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | |
+|
 | 161 | 1st | Richmond | Tackle | Haase (Charlie) | 161 | 1st | | | |
 | 170 | 1st | | Tackle | Baker (Attiut) | 170 | 1st | | | |
 | 195 | 2nd | Kannapolis | Tackle | Willard (John) | 195 | 2nd | | | |
 | 167 | 3rd | Roanoke | End | McEachern (Dunk) | 170 | 1st | | | |
-| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA | End |
+| 152 | 1st | Miami, FL | End | Peterson (Burwell) | 170 | 1st | Atlanta, GA |
+End |
 | 170 | 2nd | | End | Woodbury (Cory) | 104 | 3rd | Staunton | End |
 | 170 | 2nd | | End | Arrowood (High) | 170 | 2nd | | | |
-| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington | Quarterback |
+| 161 | 3rd | Chattanooga, TN | Quarterback & Halfback | Brawlett (Andy) | 150 | 2nd | Wilmington
+| Quarterback |
 | 145 | 1st | Washington | Quarterback | McGray (Bernard) | 170 | 2nd | | | |
-| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL | Halfback |
+| 150 | 3rd | Davidson | Halfback | Grey (Dick) Captain | 155 | 3rd | Birmingham, AL |
+Halfback |
 | 145 | 2nd | Davidson | Fullback | Zannes (Cad) | 162 | 2nd | Roanoke | Halfback |
-| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback |
+| 184 | 2nd | Richmond | Halfback | Blinnen (Dick) | 170 | 1st | Atlanta, GA | Halfback
+|
 | 152 | 2nd | Pascagoula, MS | Halfback | Garnes (Arid) | 170 | 1st | | | |
 | 175 | 1st | Lynchburg | Tackle | Archie (CSS) | 175 | 1st | | | |
-| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | | |
+| 183 | 1st | Bowling Green, KY | Tackle | McGonhene (LL) | 187 | 2nd | | |
+|
 | 161 | 1st | Richmond | Tackle | Haase (Charlie) | 161 | 1st | | | |
-| 170 | 1st | | TCate tt tt i ert thtet te a? C, (Bill) Bre ey (W. «) Graduate Manager ...-.:_--...-..... __-.W. W. Wood Line Coach -.--------.-------2-+-------2--------- Ed A. Hess, (Ohio State) Assistant Coach ts eerste heey rami ais sane Kent Lambert (Wabash) Assistant Coach John W. Moreland (Alabama) John E. Cooper, Atlanta, Ga.
+| 170 | 1st | | TCate tt tt i ert thtet te a? C, (Bill) Bre ey (W. «)
+Graduate Manager ...-.:_--...-..... __-.W. W. Wood Line Coach -.--------.-------2-+-------2--------- Ed A. Hess, (Ohio State) Assistant Coach ts eerste heey rami
+ais sane Kent Lambert (Wabash) Assistant Coach John W. Moreland (Alabama) John E. Cooper, Atlanta, Ga.
 
 TEAM AVERAGES PREVIOUS SCORES TEAM AVERAGES PREVIOUS SCORES
 
-164° Davidson 5; Citadel 0. 162 V. M. I. 37; Wofford 0. 151 Davidson 12; Florida 0. 153 V. M. I. 22; Richmond 0. 170 Davidson 12; Wofford 2. 167 V. M. I. 0; Georgia Tech 7. 174 Davidson 27; Elon 0. 157 V. M. I. 32; Roanoke 0. 157 Davidson 13; Wake Forest 13. 160 V. M. I. 6; Maryland 10.
+164° Davidson 5; Citadel 0. 162 V. M. I. 37; Wofford 0. 151 Davidson 12; Florida 0. 153 V. M.
+I. 22; Richmond 0. 170 Davidson 12; Wofford 2. 167 V. M. I. 0; Georgia Tech 7. 174 Davidson 27;
+Elon 0. 157 V. M. I. 32; Roanoke 0. 157 Davidson 13; Wake Forest 13. 160 V. M. I. 6;
+Maryland 10.
 
 PHI BETA EXTENDS
 
 (Continued from page 1)
 
-University of Virginia, after his graduation, and continued his studies toward his degree. During the time that he was in the university, he studied in Vienna and also in Berlin along the lines of his profession and then accepted a professorship in the Harvard Medical School. He is recognized as one of the leaders of the day in the field of Internal Medicine. With his return to America, Dr. Rogers resumed his work toward his Doctor of Philosophy degree, which he received at the University of Virginia. For some five years Dr. Rogers has been a professor of English in the Florida College for Women, at Tallahassee, now being head of the department.
+University of Virginia, after his graduation, and continued his studies toward his degree. During the time that he was in
+the university, he studied in Vienna and also in Berlin along the lines of his profession and then accepted a
+professorship in the Harvard Medical School. He is recognized as one of the leaders of the day in the field
+of Internal Medicine. With his return to America, Dr. Rogers resumed his work toward his Doctor of Philosophy degree, which
+he received at the University of Virginia. For some five years Dr. Rogers has been a professor of English in
+the Florida College for Women, at Tallahassee, now being head of the department.
 
-Prof. F. P. Hall, graduate of 1887, now residing at Belmont, N. C., is one of the foremost men in North Carolina in public education work and has been such for the past 25 years. Following his graduation at Davidson, he founded a high school at Gastonia, of which he was teacher, owner and principal. Today, Professor Hall is superintendent of the Gaston County Public Schools and is looked to as an authority in the lines of education.
+Prof. F. P. Hall, graduate of 1887, now residing at Belmont, N. C., is one of the foremost men in
+North Carolina in public education work and has been such for the past 25 years. Following his graduation at Davidson,
+he founded a high school at Gastonia, of which he was teacher, owner and principal. Today, Professor Hall is superintendent
+of the Gaston County Public Schools and is looked to as an authority in the lines of education.
 
-Prof. Archibald Currie, 1897, Woodrow Wilson Professor of Economics and Political Science of Davidson, took up work in law at the University of North Carolina, after his years spent at Davidson. He also studied political science and law at Columbia and Cornell Universities. Professor Currie has been a professor at Davidson since 1906, being associate professor until 1912 and professor since that time.
+Prof. Archibald Currie, 1897, Woodrow Wilson Professor of Economics and Political Science of Davidson, took up work in law at
+the University of North Carolina, after his years spent at Davidson. He also studied political science and law at Columbia
+and Cornell Universities. Professor Currie has been a professor at Davidson since 1906, being associate professor until 1912 and professor
+since that time.
 
-Prof. Henry T. Lilly, another member of the faculty and a graduate of 1918, has done extensive work in this country and in others, paying especial attention to literature. He served in the U. S. Hospital Corps after graduating and then was a teacher in the McCallie School, Chattanooga, Tenn. His Master of Arts degree was obtained at Princeton University and his studies were continued at the University of Vienna, Austria, and Oxford University, England. Professor Lilly was professor of English at Presbyterian College of South Carolina for two years and then accepted the place which he now holds.
+Prof. Henry T. Lilly, another member of the faculty and a graduate of 1918, has done extensive work in this
+country and in others, paying especial attention to literature. He served in the U. S. Hospital Corps after graduating and
+then was a teacher in the McCallie School, Chattanooga, Tenn. His Master of Arts degree was obtained at Princeton University
+and his studies were continued at the University of Vienna, Austria, and Oxford University, England. Professor Lilly was professor of
+English at Presbyterian College of South Carolina for two years and then accepted the place which he now holds.
 
-Rev. Locke White graduated from Davidson in the class of 1913 and continued his work at Union Theological Seminary. He served, for some time, as pastor of the First Presbyterian Church of Blacksburg, Va. During the World War, Mr. White was connected with the Y. M. C. A. in the field of action, and after this accepted a call as a missionary to Hsuchowfu, China, where he rendered distinguished service. He is living in Staunton, Va., at the present time.
+Rev. Locke White graduated from Davidson in the class of 1913 and continued his work at Union Theological Seminary. He
+served, for some time, as pastor of the First Presbyterian Church of Blacksburg, Va. During the World War, Mr. White
+was connected with the Y. M. C. A. in the field of action, and after this accepted a call as
+a missionary to Hsuchowfu, China, where he rendered distinguished service. He is living in Staunton, Va., at the present time.
 
-Dr. W. H. Rogers, 1913, went to the University of Virginia, after his graduation, and continued his studies toward his degree. During the time that he was in the university, he studied in Vienna and also in Berlin along the lines of his profession and then accepted a professorship in the Harvard Medical School. He is recognized as one of the leaders of the day in the field of Internal Medicine. With his return to America, Dr. Rogers resumed his work toward his Doctor of Philosophy degree, which he received at the University of Virginia. For some five years Dr. Rogers has been a professor of English in the Florida College for Women, at Tallahassee, now being head of the department.
+Dr. W. H. Rogers, 1913, went to the University of Virginia, after his graduation, and continued his studies toward his
+degree. During the time that he was in the university, he studied in Vienna and also in Berlin along the
+lines of his profession and then accepted a professorship in the Harvard Medical School. He is recognized as one of
+the leaders of the day in the field of Internal Medicine. With his return to America, Dr. Rogers resumed his
+work toward his Doctor of Philosophy degree, which he received at the University of Virginia. For some five years Dr.
+Rogers has been a professor of English in the Florida College for Women, at Tallahassee, now being head of the
+department.
 
 Safeguard Your Assets
 
-A FIDELITY bond on ALL employees protects a going concern against loss of moneys, securities, merchandise or property through the dishonesty of any of its employees.
+A FIDELITY bond on ALL employees protects a going concern against loss of moneys, securities, merchandise or property through the
+dishonesty of any of its employees.
 
 McALISTER CARSON ('13) Mgr. INDEPENDENCE TRUST COMPANY INSURANCE DEPARTMENT CHARLOTTE, N. C. M. B. SPEIR, JR. ('26)
 
-The Commercial National Bank Charlotte, N.C. Founded 1847 Has stood the test of time and stands ready to serve your banking needs. 4% interest paid on Certificate of Deposit. Trust Department under supervision of United States Government. Make us your Executor. Capital, surplus, profits, etc., over $1,300,000.00.
+The Commercial National Bank Charlotte, N.C. Founded 1847 Has stood the test of time and stands ready to serve your
+banking needs. 4% interest paid on Certificate of Deposit. Trust Department under supervision of United States Government. Make us your
+Executor. Capital, surplus, profits, etc., over $1,300,000.00.
 
-OFFICERS R. A. DUNN, President C. W. JOHNSTON, Vice-President J. A. FORE, Vice-President J. W. STEWART, Cashier and Trust Officer J. B. DOAR, Asst. Cashier DR. J. A. ELLIOTT, Asst. Cashier
+OFFICERS R. A. DUNN, President C. W. JOHNSTON, Vice-President J. A. FORE, Vice-President J. W. STEWART, Cashier and Trust Officer
+J. B. DOAR, Asst. Cashier DR. J. A. ELLIOTT, Asst. Cashier
 
 We can fit you in Tuxedos. Come in to see us.
 
-BELK BROS. CO. CHARLOTTE, N. C. We especially invite the Davidson boys to inspect our New Fall Suits, Overcoats, College Sweaters and Underwear
+BELK BROS. CO. CHARLOTTE, N. C. We especially invite the Davidson boys to inspect our New Fall Suits, Overcoats, College
+Sweaters and Underwear
 
 HAIRCUT? WE GIVE PROMPT AND SATISFACTORY SERVICE
 
 NORTON’S
 
-The New ORTHOPHONIC VICTROLA The Finest Musical Instrument in the World Prices $95 to $1,000 All Models in Stock---Easy Terms NEW RECORDS EVERY FRIDAY
+The New ORTHOPHONIC VICTROLA The Finest Musical Instrument in the World Prices $95 to $1,000 All Models in Stock---Easy Terms
+NEW RECORDS EVERY FRIDAY
 
 ANDREW’S MUSIC STORE 213 N. Tryon St. Charlotte, N. C.
 

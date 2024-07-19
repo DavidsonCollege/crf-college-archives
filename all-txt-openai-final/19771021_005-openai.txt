@@ -8,17 +8,48 @@ Professor of Psychology
 “Everybody needs his memories. They keep the wolf of insignificance from the door."
 —Saul Bellow, in Mr. Sammler's Planet
 
-Human memory underlies all of man’s performance, from the smallest deeds, like picking seeds out of a grapefruit, to the most cerebral affairs, like saying our prayers. That our memory systems are working all the time is not always evident, probably because it becomes most evident to us when it fails. When we can’t remember the name of the person to whom we have just been introduced, one minute ago, the awkwardness of memory failure sits on us like an elephant. Or, as embarrassment is prone to do, we are reminded of this failure when we dial the wrong telephone number and are surprised to hear some husky voice say, “Whatdya want?” rather than Aunt Agnes’ voice. Or when we are in a hurry, because we are late for dinner at the Brady’s, and we jump into the car only to discover that the car keys are not in our pocket, but locked in the house, we are acutely aware that we have a working (dysfunctional, at this point) memory system.
+Human memory underlies all of man’s performance, from the smallest deeds, like picking seeds out of a grapefruit, to the
+most cerebral affairs, like saying our prayers. That our memory systems are working all the time is not always evident,
+probably because it becomes most evident to us when it fails. When we can’t remember the name of the person
+to whom we have just been introduced, one minute ago, the awkwardness of memory failure sits on us like an
+elephant. Or, as embarrassment is prone to do, we are reminded of this failure when we dial the wrong telephone
+number and are surprised to hear some husky voice say, “Whatdya want?” rather than Aunt Agnes’ voice. Or when we
+are in a hurry, because we are late for dinner at the Brady’s, and we jump into the car only
+to discover that the car keys are not in our pocket, but locked in the house, we are acutely aware
+that we have a working (dysfunctional, at this point) memory system.
 
-But these illustrations only highlight one of the finer distinctions between man et machina: We are very capable of forgetting, while the machines which we have constructed for storing and retrieving information are not and do not. In fact, several of the basic tools of our societies may be said to have sprung from just this deficiency. While the computer is but one example, writing might be thought of as another, as well as books, signs, printing, etc., and might all be conceived of as an outgrowth of this “limited memory performance” evidenced by our memory failures.
+But these illustrations only highlight one of the finer distinctions between man et machina: We are very capable of forgetting,
+while the machines which we have constructed for storing and retrieving information are not and do not. In fact, several
+of the basic tools of our societies may be said to have sprung from just this deficiency. While the computer
+is but one example, writing might be thought of as another, as well as books, signs, printing, etc., and might
+all be conceived of as an outgrowth of this “limited memory performance” evidenced by our memory failures.
 
-While the principles of human memory have been of interest to the Ancients, both Aristotle and Plato, to psychiatry and neurology, to literary figures such as Proust in Remembrances of Things Past, and to computer wizards involved with artificial intelligence, most often memory has been investigated by psychologists. One basic underlying assumption of these men is that human memory can be studied, that the rudimentary principles by which we record our experiences are open to investigation. Although this point has been argued elsewhere by philosophers, this belief has spawned two major approaches to the study of memory. The two approaches differ chiefly on the manner in which they deal with “meaning” in memory.
+While the principles of human memory have been of interest to the Ancients, both Aristotle and Plato, to psychiatry and
+neurology, to literary figures such as Proust in Remembrances of Things Past, and to computer wizards involved with artificial intelligence,
+most often memory has been investigated by psychologists. One basic underlying assumption of these men is that human memory can
+be studied, that the rudimentary principles by which we record our experiences are open to investigation. Although this point has
+been argued elsewhere by philosophers, this belief has spawned two major approaches to the study of memory. The two approaches
+differ chiefly on the manner in which they deal with “meaning” in memory.
 
-The first tradition attempted to describe human memorial powers by eliminating the bothersome problem of meaning, and is said to have been founded by Herman Ebbinghaus, a German who used himself as the experiment. He attempted to memorize long lists of syllables which he constructed in such a way as to preclude any readily available meaning that might have been associated with it, such as ZAX, GUW, ROQ, etc. He felt that if he eliminated meaning, he might be able to determine what the memorial features were, regardless of meaning, and that tradition was followed from the publication of his first major work Über das Gedächtnis in 1885 until the late 1960s when it began to decline.
+The first tradition attempted to describe human memorial powers by eliminating the bothersome problem of meaning, and is said to
+have been founded by Herman Ebbinghaus, a German who used himself as the experiment. He attempted to memorize long lists
+of syllables which he constructed in such a way as to preclude any readily available meaning that might have been
+associated with it, such as ZAX, GUW, ROQ, etc. He felt that if he eliminated meaning, he might be able
+to determine what the memorial features were, regardless of meaning, and that tradition was followed from the publication of his
+first major work Über das Gedächtnis in 1885 until the late 1960s when it began to decline.
 
-The other tradition, if it could be called that, is most readily associated with Sir Frederick Bartlett, an English peer. Bartlett, instead of trying to eliminate meaning from material which was to be remembered, included material which was culturally different from those who were trying to remember it. He asked Britons to try to remember Eskimo folk tales. As he had supposed, when these persons attempted to recall the tales, Bartlett found in their attempts to recall a series of errors which Bartlett characterized as “errors in the direction of the social norm.” This was significant, for he not only took cognizance of human memory failures, but attempted to show that they were systematically related to the knowledge which the English citizens shared as a social group. That is, the source of memory failure was demonstrated to be the knowledge structure, the shared meaning which these British people had in common.
+The other tradition, if it could be called that, is most readily associated with Sir Frederick Bartlett, an English peer.
+Bartlett, instead of trying to eliminate meaning from material which was to be remembered, included material which was culturally different
+from those who were trying to remember it. He asked Britons to try to remember Eskimo folk tales. As he
+had supposed, when these persons attempted to recall the tales, Bartlett found in their attempts to recall a series of
+errors which Bartlett characterized as “errors in the direction of the social norm.” This was significant, for he not only
+took cognizance of human memory failures, but attempted to show that they were systematically related to the knowledge which the
+English citizens shared as a social group. That is, the source of memory failure was demonstrated to be the knowledge
+structure, the shared meaning which these British people had in common.
 
-Perhaps the best way to illustrate what Bartlett meant is to use his own example, which comes from an Eskimo folk tale called “The War of the Ghosts.” The story begins: “One night two young men from Egulac went down to the river to hunt—”
+Perhaps the best way to illustrate what Bartlett meant is to use his own example, which comes from an Eskimo
+folk tale called “The War of the Ghosts.” The story begins: “One night two young men from Egulac went down
+to the river to hunt—”
 
 Letter to the Editor
 
@@ -26,19 +57,76 @@ Jacobs counters Laborites
 
 To the Editor:
 
-[In regard to the “humanists” of the U.S. Labor party, Charlotte who passed out the propaganda sheet headlined “Are You a Man or a Goat???” on the Davidson campus, Tues. Oct. 11th.]
+[In regard to the “humanists” of the U.S. Labor party, Charlotte who passed out the propaganda sheet headlined “Are You
+a Man or a Goat???” on the Davidson campus, Tues. Oct. 11th.]
 
-At the top of the page my eyes ran across the almost humorous title, “Are you a Man or a Goat?” I smiled down to the end of the first line, “Lester Brown promotes genocide.” Now that’s a pretty hard statement which I'd rather stay clear of although my opinion could probably be inferred from this article. Perhaps it would be best to let Brown respond to such a charge.
+At the top of the page my eyes ran across the almost humorous title, “Are you a Man or a
+Goat?” I smiled down to the end of the first line, “Lester Brown promotes genocide.” Now that’s a pretty hard
+statement which I'd rather stay clear of although my opinion could probably be inferred from this article. Perhaps it would
+be best to let Brown respond to such a charge.
 
-Of more concern to me is the world view held by authors of the Labor Party propaganda sheet. Apparently, they are enjoying the fruits of our present-day society and wish to push our “superior technology” on to the “underdeveloped” countries. Perhaps they think the U.S. an example worth emulating, economically or otherwise.
+Of more concern to me is the world view held by authors of the Labor Party propaganda sheet. Apparently, they
+are enjoying the fruits of our present-day society and wish to push our “superior technology” on to the “underdeveloped” countries.
+Perhaps they think the U.S. an example worth emulating, economically or otherwise.
 
-On the surface, the US Labor Party poses a very respectable and humanistic approach to the world’s problems: develop additional technology to allow us to continue unchanged and to bring underdeveloped countries to our standards. They avoid the “hard choice” Lester Brown faces by putting their hopes in future technology of uncertain consequences.
+On the surface, the US Labor Party poses a very respectable and humanistic approach to the world’s problems: develop additional
+technology to allow us to continue unchanged and to bring underdeveloped countries to our standards. They avoid the “hard choice”
+Lester Brown faces by putting their hopes in future technology of uncertain consequences.
 
-We live on an incredible planet, whose workings still stretch beyond our imagination. The combined technologies of man stand belittled by the wonder of a single green leaf. Man is so young and ignorant, yet he has a knack—for developing technologies which eat away at the foundations of life. We are only one form of life on this planet, but being the most environmentally manipulative, we assume that human welfare should always come first. This includes a total disrespect for the other forms of life with which we co-exist; this includes a total disrespect for the earth as a whole in my concept of it as a living entity. What the Labor party advocates provides for the needs of more human beings while at the same time raising their standards of living. Whether the technology necessary to support their high goals ever develops is questionable and its effects on an already dying planet, unknown. Meanwhile, the technology we have, while often good from man’s side, is many times disastrous to the environment. A man and a goat are not so different as the Labor party might think. Both are alive; one has a brain and world view which tells him that his life is somehow more valuable or important. All life tries to exploit its environment to the greatest degree. Only man has reached the point at which he must willingly hold himself back. Rather he should re-examine his direction and growth in relation to its effects on the earth. Few want to throw away good technology: it’s the environmentally and humanistically cautious technology which so many want to dispose of. The human race has learned to exploit the earth in a very disharmonious way. We have ignored natural rhythms which are even now demanding repayment in both human and non-human lives. Human overpopulation will be resolved, man can act now or he'll be acted upon later. The Labor party wants to feed the hungry without serious thought to future consequences. Feeding an already overpopulated country in my opinion will only compound the problem in years to come. From my position it is perhaps too easy to speak on this line. I’ve never seen real hunger and the other poor conditions under which so many live are foreign to me. The Labor party has elevated man to a high pedestal and would willingly sell the earth for his benefits. There are alternatives to the impending world strife, many of which you readers are plainly aware. We still have the time and energy to change our value systems, bringing them more in line with the capabilities of the earth to provide. The natural beauty of a mountain forest is at least as valuable to me as my own life. Our goal should be towards a simpler, fuller lifestyle in harmony with the working of the earth. 
+We live on an incredible planet, whose workings still stretch beyond our imagination. The combined technologies of man stand belittled
+by the wonder of a single green leaf. Man is so young and ignorant, yet he has a knack—for developing
+technologies which eat away at the foundations of life. We are only one form of life on this planet, but
+being the most environmentally manipulative, we assume that human welfare should always come first. This includes a total disrespect for
+the other forms of life with which we co-exist; this includes a total disrespect for the earth as a whole
+in my concept of it as a living entity. What the Labor party advocates provides for the needs of more
+human beings while at the same time raising their standards of living. Whether the technology necessary to support their high
+goals ever develops is questionable and its effects on an already dying planet, unknown. Meanwhile, the technology we have, while
+often good from man’s side, is many times disastrous to the environment. A man and a goat are not so
+different as the Labor party might think. Both are alive; one has a brain and world view which tells him
+that his life is somehow more valuable or important. All life tries to exploit its environment to the greatest degree.
+Only man has reached the point at which he must willingly hold himself back. Rather he should re-examine his direction
+and growth in relation to its effects on the earth. Few want to throw away good technology: it’s the environmentally
+and humanistically cautious technology which so many want to dispose of. The human race has learned to exploit the earth
+in a very disharmonious way. We have ignored natural rhythms which are even now demanding repayment in both human and
+non-human lives. Human overpopulation will be resolved, man can act now or he'll be acted upon later. The Labor party
+wants to feed the hungry without serious thought to future consequences. Feeding an already overpopulated country in my opinion will
+only compound the problem in years to come. From my position it is perhaps too easy to speak on this
+line. I’ve never seen real hunger and the other poor conditions under which so many live are foreign to me.
+The Labor party has elevated man to a high pedestal and would willingly sell the earth for his benefits. There
+are alternatives to the impending world strife, many of which you readers are plainly aware. We still have the time
+and energy to change our value systems, bringing them more in line with the capabilities of the earth to provide.
+The natural beauty of a mountain forest is at least as valuable to me as my own life. Our goal
+should be towards a simpler, fuller lifestyle in harmony with the working of the earth.
 
 Brian Jacobs ’79
 Davidson College
 
 See related letter-page 6
 
-...seals, and while they were there it became foggy and calm... Bartlett found that his British rememberers systematically recalled that two young men had gone down to the river to “fish”, which was what men in Great Britain did, rather than hunting seals. This led Bartlett to speculate that memory is constructive, and to become concerned with the effects of “knowledge” on memory. Another way to say this is that which you already knew contributes to and influences in systematic ways what you can and will remember. The past, YOUR past, influences your memory of things, events, stories, conversations, books, and most importantly, episodes which... haven’t yet occurred. That this is so can easily be demonstrated. Ask yourself at this point if you can recall verbatim the third sentence in this article without looking at it. I stake my professional reputation on the fact that you cannot because human memory is not nor ever will be like a tape recorder, or a video recorder. The memory system is an active, abstractive and generative processor, something infinitely more powerful than the passive recording system it was assumed to be for so many years, the tabula rasa. One might be tempted to redefine the problem saying, “I have not forgotten the third sentence, because I never had it in my memory system to begin with,” which is a difficult position to maintain. If you have understood the meaning of the third sentence, how is it possible for that understanding to occur without previously having those meanings, composites that they are, stored or located somewhere, somehow in your knowledge structure, somewhere in your memory? In a sense, you can’t know anything without remembering the meanings. Put another way, “What do you remember of the last novel which you read, or the last textbook, or even the last newspaper article?” Certainly not the contents of the third sentence but the meaning of the article, textbook, novel as you have abstracted it, according to what you knew before you read it. This abstractive quality is seen in other parts of your life as well, those which do not deal with verbal materials. For instance, you “know” how to get to your mailbox at the post office, even though you are not in your room, your office, or your home. You have not memorized the exact path to the post office, for you may never have taken the same route, even though you have gone there a thousand times. It may be said that you have an abstract representation of “where the post office is” somewhere in your memory. But can you forget where the post office is? The answer is, “Certainly!” Should you sustain certain damage to the brain, in the region of the hippocampus as reported by Brenda Milner, you would have severe problems trying to remember things as simple as the location of your home and the post office, even though people were willing to take you there to show you where it was, a hundred times more. Attempting to formulate in some fashion, sense or meaning out of details such as these is the realm of the memory researchers, the area which I find most fascinating to me.
+...seals, and while they were there it became foggy and calm... Bartlett found that his British rememberers systematically recalled that
+two young men had gone down to the river to “fish”, which was what men in Great Britain did, rather
+than hunting seals. This led Bartlett to speculate that memory is constructive, and to become concerned with the effects of
+“knowledge” on memory. Another way to say this is that which you already knew contributes to and influences in systematic
+ways what you can and will remember. The past, YOUR past, influences your memory of things, events, stories, conversations, books,
+and most importantly, episodes which... haven’t yet occurred. That this is so can easily be demonstrated. Ask yourself at this
+point if you can recall verbatim the third sentence in this article without looking at it. I stake my professional
+reputation on the fact that you cannot because human memory is not nor ever will be like a tape recorder,
+or a video recorder. The memory system is an active, abstractive and generative processor, something infinitely more powerful than the
+passive recording system it was assumed to be for so many years, the tabula rasa. One might be tempted to
+redefine the problem saying, “I have not forgotten the third sentence, because I never had it in my memory system
+to begin with,” which is a difficult position to maintain. If you have understood the meaning of the third sentence,
+how is it possible for that understanding to occur without previously having those meanings, composites that they are, stored or
+located somewhere, somehow in your knowledge structure, somewhere in your memory? In a sense, you can’t know anything without remembering
+the meanings. Put another way, “What do you remember of the last novel which you read, or the last textbook,
+or even the last newspaper article?” Certainly not the contents of the third sentence but the meaning of the article,
+textbook, novel as you have abstracted it, according to what you knew before you read it. This abstractive quality is
+seen in other parts of your life as well, those which do not deal with verbal materials. For instance, you
+“know” how to get to your mailbox at the post office, even though you are not in your room, your
+office, or your home. You have not memorized the exact path to the post office, for you may never have
+taken the same route, even though you have gone there a thousand times. It may be said that you have
+an abstract representation of “where the post office is” somewhere in your memory. But can you forget where the post
+office is? The answer is, “Certainly!” Should you sustain certain damage to the brain, in the region of the hippocampus
+as reported by Brenda Milner, you would have severe problems trying to remember things as simple as the location of
+your home and the post office, even though people were willing to take you there to show you where it
+was, a hundred times more. Attempting to formulate in some fashion, sense or meaning out of details such as these
+is the realm of the memory researchers, the area which I find most fascinating to me.

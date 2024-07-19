@@ -5,83 +5,83 @@ Men’s Tennis
 Individual Season Records (Conference)
 
 Singles
-| Player          | #1 | #2 | #3 | #4 | #5 |
+| Player | #1 | #2 | #3 | #4 | #5 |
 |-----------------|----|----|----|----|----|
-| Jon Pastel      | 6-1|    |    |    |    |
-| Brett Ialacci   |    |1-1 |3-4 |    |    |
-| Jeff Tonidandel |    |1-1 |2-5 |    |    |
-| Alex Okulski    |    |2-0 |4-3 |    |    |
-| Whit Hansen     |    |    |    |1-0 |4-2 |
-| Scott Briggs    |    |1-0 |1-0 |4-1 |    |
-| Ted Kaplan      |    |    |1-1 |    |    |
-| Eric Bourn      |    |    |    |    |    |
-| Billy Boykin    |    |    |    |    |    |
-| Totals          | 7-2|4-5 |4-5 |6-3 |6-3 |
+| Jon Pastel | 6-1| | | | |
+| Brett Ialacci | |1-1 |3-4 | | |
+| Jeff Tonidandel | |1-1 |2-5 | | |
+| Alex Okulski | |2-0 |4-3 | | |
+| Whit Hansen | | | |1-0 |4-2 |
+| Scott Briggs | |1-0 |1-0 |4-1 | |
+| Ted Kaplan | | |1-1 | | |
+| Eric Bourn | | | | | |
+| Billy Boykin | | | | | |
+| Totals | 7-2|4-5 |4-5 |6-3 |6-3 |
 
 Doubles
-| Player                          | #1 | #2 | #3 |
+| Player | #1 | #2 | #3 |
 |---------------------------------|----|----|----|
-| Ted Kaplan/Judson Sutherland    |6-3 |    |    |
-| Pastel/Briggs                   |6-1 |    |    |
-| Tonidandel/Tyler Epp            |7-2 |    |    |
-| Okulski/Briggs                  |1-0 |    |    |
-| Pastel/Okulski                  |1-0 |    |    |
-| Totals                          |6-3 |8-1 |7-2 |
+| Ted Kaplan/Judson Sutherland |6-3 | | |
+| Pastel/Briggs |6-1 | | |
+| Tonidandel/Tyler Epp |7-2 | | |
+| Okulski/Briggs |1-0 | | |
+| Pastel/Okulski |1-0 | | |
+| Totals |6-3 |8-1 |7-2 |
 
 Overall
-| Player                          | Overall |
+| Player | Overall |
 |---------------------------------|---------|
-| Jon Pastel                      | 17-4    |
-| Brett Ialacci                   | 2-1     |
-| Jeff Tonidandel                 | 2-0     |
-| Alex Okulski                    | 2-0     |
-| Whit Hansen                     | 21-5    |
-| Scott Briggs                    | 10-16   |
-| Ted Kaplan                      |         |
-| Eric Bourn                      |         |
-| Billy Boykin                    |         |
-| Paul Wulfsberg                  |         |
-| Chad Phillips                   |         |
-| Totals                          | 91-64   |
+| Jon Pastel | 17-4 |
+| Brett Ialacci | 2-1 |
+| Jeff Tonidandel | 2-0 |
+| Alex Okulski | 2-0 |
+| Whit Hansen | 21-5 |
+| Scott Briggs | 10-16 |
+| Ted Kaplan | |
+| Eric Bourn | |
+| Billy Boykin | |
+| Paul Wulfsberg | |
+| Chad Phillips | |
+| Totals | 91-64 |
 
 Doubles
-| Player                          | #1 | #2 | #3 |
+| Player | #1 | #2 | #3 |
 |---------------------------------|----|----|----|
-| Ted Kaplan/Judson Sutherland    |13-11|    |    |
-| Pastel/Briggs                   |12-5 |    |    |
-| Tonidandel/Tyler Epp            |14-9 |    |    |
-| Okulski/Briggs                  |1-1  |    |    |
-| Pastel/Okulski                  |1-0  |    |    |
-| Briggs/Wulfsberg                |2-0  |    |    |
-| Boykin/Hansen                   |3-0  |    |    |
-| Okulski/Tonidandel              |1-1  |    |    |
-| Briggs/Blair Easton             |1-0  |    |    |
-| Totals                          |48-27|    |    |
+| Ted Kaplan/Judson Sutherland |13-11| | |
+| Pastel/Briggs |12-5 | | |
+| Tonidandel/Tyler Epp |14-9 | | |
+| Okulski/Briggs |1-1 | | |
+| Pastel/Okulski |1-0 | | |
+| Briggs/Wulfsberg |2-0 | | |
+| Boykin/Hansen |3-0 | | |
+| Okulski/Tonidandel |1-1 | | |
+| Briggs/Blair Easton |1-0 | | |
+| Totals |48-27| | |
 
 Southern Conference Standings
-| Team                | Conference | Overall |
+| Team | Conference | Overall |
 |---------------------|------------|---------|
-| Furman              | 9-0        | 16-11   |
-| Chattanooga         | 7-2        | 21-6    |
-| Davidson            | 7-2        | 18-9    |
-| East Tennessee State| 7-2        | 12-8    |
-| UNC Greensboro      | 5-4        | 9-11    |
-| Georgia Southern    | 4-5        | 8-12    |
-| Appalachian State   | 3-6        | 7-15    |
-| The Citadel         | 2-7        | 11-16   |
-| Wofford             | 1-8        | 5-15    |
-| VMI                 | 0-9        | 8-16    |
+| Furman | 9-0 | 16-11 |
+| Chattanooga | 7-2 | 21-6 |
+| Davidson | 7-2 | 18-9 |
+| East Tennessee State| 7-2 | 12-8 |
+| UNC Greensboro | 5-4 | 9-11 |
+| Georgia Southern | 4-5 | 8-12 |
+| Appalachian State | 3-6 | 7-15 |
+| The Citadel | 2-7 | 11-16 |
+| Wofford | 1-8 | 5-15 |
+| VMI | 0-9 | 8-16 |
 
 Southern Conference Tournament Results
-| Matchup                        | Result |
+| Matchup | Result |
 |--------------------------------|--------|
-| #9 Wofford vs #8 The Citadel   | 0-5    |
+| #9 Wofford vs #8 The Citadel | 0-5 |
 | #3 Chattanooga vs #6 Georgia Southern | 4-2 |
-| #4 Davidson vs #5 UNCG         | 4-3    |
-| #1 Furman vs #8 The Citadel    | 4-0    |
-| #4 Davidson vs #1 Furman       | 4-2    |
-| #3 Chattanooga vs #7 App. State| 4-0    |
-| #3 Chattanooga vs #2 ETSU      | 4-3    |
+| #4 Davidson vs #5 UNCG | 4-3 |
+| #1 Furman vs #8 The Citadel | 4-0 |
+| #4 Davidson vs #1 Furman | 4-2 |
+| #3 Chattanooga vs #7 App. State| 4-0 |
+| #3 Chattanooga vs #2 ETSU | 4-3 |
 
 Davidson Town Day 5-K
 Saturday, May 2, 1998

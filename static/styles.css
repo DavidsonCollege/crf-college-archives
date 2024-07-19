@@ -9,6 +9,7 @@ body {
   padding-top: 20px;
 }
 
+/* LOGO */
 .open-davidson {
   font-family: 'quattrocento';/* Change 'YourDesiredFont' to the desired font family */
   font-size: 1.8rem; /* Adjust the font size as needed */
@@ -195,12 +196,12 @@ body {
 #about-content p{ 
   margin-top: 0%;
 }
-
-#about-content .logo-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 40%;  /* Adjust the width as needed to make it medium-sized */
+#about-content .img-logo {
+  max-width: 23%;
+  margin-left: 0%;
+  margin-right: 35%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 /* TEAM CONTENT */
@@ -239,6 +240,12 @@ team-content li.smaller{
   margin-left: 0%;
   margin-right: 15%;
   margin-top: 10px;
+  margin-bottom: 10px;
+}
+#team-content h6{ 
+  font-family: 'quattrocento';
+  color: #CE1B1B;
+  font-size: 1.2rem;
   margin-bottom: 10px;
 }
 

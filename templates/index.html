@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Search The Davidsonian</title>
+  <title>Open Davidson</title>
   <link href="https://fonts.googleapis.com/css2?family=Quattrocento&display=swap" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
@@ -54,11 +54,12 @@
          <strong>OR</strong>, <strong>NOT</strong>, <strong>NEAR</strong>. These operators 
         must be capitalized to be used properly. For information on advanced search operators available in this tool, 
         see the <a href="#" id="go-to-instructions">Instructions</a> section listing all available search operators</p>
-        <p><em>We recommend that while conducting your research with this tool, you look at the original documents for 
-          official reference. Although we are very confident in our text files, it is possible that we missed some errors 
-          that may cause confusion. Therefore, when citing or drawing important conclusions, look through the linked scans 
-          for reference. To learn more about how these text files were generated and how errors were corrected, please 
-          refer to the "About the Project" page. </em></p>
+        <p><em>We highly recommend that while conducting your research with this tool, you look at the original documents 
+          for official reference. Although we are very confident in the accuracy and readability of our text files, 
+          they may contain a small percentage of errors. Therefore, when citing or drawing important conclusions, 
+          look through the OCR’d PDF by clicking the “View Page” link and visit the original source in the Davidson 
+          College library by clicking “View Issue.” To learn more about how these text files were generated and how 
+          errors were corrected, please refer to the "About the Project" page.</em></p>
         <p><em>"Some of the terminology used is reflective of the language used historically by members of the Davidson community. 
             These terms may be, but are not necessarily, outdated, offensive, and/or harmful. While we would not use this 
             terminology today, it is important to search for these terms in historical documents to surface valuable information 
@@ -106,7 +107,7 @@
   <!--INSTRUCTIONS CONTENT-->
   <div id="instructions-content" class="tab-content">
 
-    <h3>How to Use our Tool:</h3>
+    <h3>How to Use our Tool</h3>
     <p><strong>Video:</strong></p>
     <ul>
       <p><li>When looking at the home page, at the top you will see the search bar. <strong>If you don’t know 
@@ -168,7 +169,7 @@
               For instance, a page with a keywordon it 10 times is more relevant than a page with a 
               keyword on it 2 times.</li>
           </ul>
-          <li>Next to the Issue’s date and page number you will see “View Page” and “View Document.”</li>
+          <li>Next to the Issue’s date and page number you will see “View Page” and “View Issue.”</li>
           <ul>
             <li>To see the specific page where your keyword was found, Click “View Page” once you find the 
               Davidsonian page you want to explore. This button will bring you to a searchable pdf, where 
@@ -189,9 +190,10 @@
     <p>Below is a list of important key figures, groups, and events found in Davidson's History, 
       known as the "Controlled Vocabulary." Click on a term below to begin your historical research.</p>
     <h4><strong>Controlled Vocabulary:</strong></h4>
-    <p><em>Some of the terminology used is reflective of the language used historically by members of the Davidson community. 
+    <p><em>"Some of the terminology used is reflective of the language used historically by members of the Davidson community. 
       These terms may be, but are not necessarily, outdated, offensive, and/or harmful. While we would not use this terminology 
-      today, it is important to search for these terms in historical documents to surface valuable information for researchers today.</em></p>
+      today, it is important to search for these terms in historical documents to surface valuable information for researchers 
+      today." (Davidson College Archives 2024)</em></p>
       <ul id="vocab-list">
         <h5>A</h5>
         <li class="vocab-item">"George Lawrence Abernathy"</li><li class="vocab-item">"Anthony S. Abbot"</li><li class="vocab-item">"Tony Abbott"</li>
@@ -362,15 +364,16 @@
       easier for both researchers and family members seeking information about loved 
       ones, the 2024 Community Research Fellows were tasked with coming up with a 
       digital tool that could assist with historical research of Davidson College.</p>
-      <p> The goal was to make Davidson’s history easily accessible to all. The student, 
-        faculty, and staff team took a deep dive into Davidson College history, including 
-        its connections to slavery, and how that history has shaped the community around 
-        the college. In collaboration with historian Hilary Green and the Davidson College archives, 
-        the team has created text files and searchable pdfs out of the Davidsonian. In addition, 
-        they have built this website for people to be able to easily peruse the pages. Throughout 
-        this process, the team has become incredibly knowledgeable in image binarization, Tesseract, and 
-        OpenAI's Assistants API, Large Language Models, Retrieval Augemneted Generation, and the Digital 
-        Humanities field as a whole. They hope that more people will be able to gain valuable information 
+      <p>The goal of our project is to make Davidson’s history easily accessible to all. 
+        Our student, faculty, and staff team took a deep dive into Davidson College history, 
+        including its connections to slavery, and how that history has shaped the community 
+        around the college. In collaboration with historian Hilary Green and the Davidson 
+        College archives, our team has created text files and searchable pdfs out of the 
+        Davidsonian. In addition, we have built this website to enable both simple and 
+        advanced searches across all the pages. Throughout this process, our team has 
+        learned and applied computational techniques and tools, including image binarization, 
+        OCR, generative AI assistants, APIs, and RAG, and learned about the Digital Humanities 
+        field as a whole. We hope that more people will be able to gain valuable information 
         about Davidson’s history by using this website.</p>
       <p>For more information about the process, click <a href="https://www.davidson.edu">here</a> 
         to find our paper summarizing our work.</p>
@@ -405,7 +408,7 @@
     <img src="{{ url_for('static', filename='assets/binarize.png') }}" alt="Binarized" class="img-fluid rounded">
     <p></p>
     <h6>OCR</h6>
-    <p>The second step of our process was to run all 23,000 documents through Tesseract, 
+    <p>The second step of our process was to run all 23,000 documents through <a href="https://github.com/tesseract-ocr/tesseract">Tesseract</a>, 
       an open-source OCR engine by Google that recognizes and extracts text from documents. 
       Through our research, we found Tesseract to be the most accessible and useful tool for our project. 
       For more information as to why we chose Tesseract, please refer to the "something" section of 
@@ -421,10 +424,10 @@
     <p>To finalize our text files, we investigated ways to reduce error rates after the OCR process. We needed an automated 
     way to identify and fix spelling errors, ambiguous characters and spacing, as well as formatting mistakes. Text generative and 
     instruction-fine tuned large language models were the most promising tool that emerged from our investigaiton. We evaluated the 
-    feasibility and effectiveness of both open-source models and paid tools. We were granted access to Davidson's GPT 4.o workspace, 
-    allowing us to explore the ways OpenAI's model could serve as a post-processing tool. Weighing open-source models against OpenAI's 
-    functionality showed us that we do not have the computing resources to run a large, open-source LLM of comparable efficenty to GPT on our 
-    local computers.</p>
+    feasibility and effectiveness of both open-source models and paid tools. We were granted access to Davidson's 
+    <a href="https://platform.openai.com/docs/assistants/overview">GPT 4.o</a> workspace, allowing us to explore the ways OpenAI's model 
+    could serve as a post-processing tool. Weighing open-source models against OpenAI's functionality showed us that we do 
+    not have the computing resources to run a large, open-source LLM of comparable efficenty to GPT on our local computers.</p>
     <p>Exploring OpenAI as a post-processing tool required extreme intentionality to prevent hallucinations from the model and increase 
     the reliability of the output. To prevent hallucinations, we crafted thoughtful prompts (instructions to our model) and tested each of 
     them against our ground-truth documents. To increase reliability, we minimized the temperature of the model, which can be explained as the 
@@ -439,6 +442,14 @@
       the ability to search complex queries using a vast supply of operators and filters as well as sorting options for the 
       search results. To assist in the management of advanced research projects, our site offers the option to save each query’s 
       results as a csv file for storage and later reference.  </p>
+    <h6>Open Davidson</h6>
+    <img src="{{ url_for('static', filename='assets/Open.png') }}" alt="Open" class="img-logo">
+    <p>We named our project "Open Davidson" to honor several inspirations. 
+      The most direct link is to OpenAI, whose tools we used for post-processing 
+      all our documents. Our success also relied heavily on open source software, 
+      which was essential for our pre-processing and OCR steps and freely available 
+      to the public. Additionally, <em>Open</em> reflects our mission to <em>Open</em> The Davidsonian, 
+      making information readily accessible to everyone.</p>
   </div>
   <!-- TEAM CONTENT -->
   <div id="team-content" class="tab-content">
@@ -497,13 +508,6 @@
       Chair of Genomics</em><br>Laurie J. Heyer is the John T. Kimbrough Professor of Mathematics and Computer Science, 
       Associate Dean for Data and Computing, and co-director of the Community Research Fellows program at Davidson College. 
       She has co-authored two biology textbooks and conducts collaborative research with students and colleagues in data science.</p>
-    <img src="{{ url_for('static', filename='assets/reimer.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">
-    <p><strong>Dr. Stacey Reimer</strong> <em>Associate Dean of Students, Director of the Center for Civic Engagement</em><br>Stacey has over 30 years 
-      of experience in higher education as a practitioner and faculty member. At Davidson, she provides strategic direction, supervision and management 
-      for the areas of civic engagement, leadership development, experiential learning, student activities and the college union. Immediately prior to 
-      coming to Davidson, she served as a lecturer in the Higher Education graduate program at Syracuse University and was involved with the development 
-      of innovative curricula around learning communities, community-based learning, and critical reflection. Each semester she teaches a seminar on high 
-      impact experiential learning.</p>
     <img src="{{ url_for('static', filename='assets/condor.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">
     <p><strong>Dr. Aubrey Condor</strong><em>Former Assistant Professor of the Practice of Data Science</em><br>Aubrey Condor is a data scientist and 
       researcher specializing in the use of artificial intelligence for educational applications. She previously taught courses at Davidson 
@@ -511,24 +515,41 @@
     <img src="{{ url_for('static', filename='assets/green.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">
     <p><strong>Dr. Hilary Green</strong><em> James B. Duke Professor of Africana Studies</em><br>Hilary N. Green is the author of <em>Educational 
       Reconstruction: African American Schools in the Urban South, 1865-1890</em> (Fordham University Press, 2016) and <em>Unforgettable 
-      Sacrifice: How Black Communities Remembered the Civil War</em> (Fordham University Press, 2025).
-    </p>
+      Sacrifice: How Black Communities Remembered the Civil War</em> (Fordham University Press, 2025).</p>
+    <img src="{{ url_for('static', filename='assets/reimer.png') }}" alt="About Us" class="img-fluid rounded" style="max-width: 20%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%">
+    <p><strong>Dr. Stacey Reimer</strong> <em>Associate Dean of Students, Director of the Center for Civic Engagement</em><br>Stacey has over 30 years 
+      of experience in higher education as a practitioner and faculty member. At Davidson, she provides strategic direction, supervision and management 
+      for the areas of civic engagement, leadership development, experiential learning, student activities and the college union. Immediately prior to 
+      coming to Davidson, she served as a lecturer in the Higher Education graduate program at Syracuse University and was involved with the development 
+      of innovative curricula around learning communities, community-based learning, and critical reflection. Each semester she teaches a seminar on high 
+      impact experiential learning.</p>
     <p></p>
     <p></p>
     <p></p>
     <p></p>
     <h5>Special Thanks to</h5>
-    <p><strong>Michael Blackmon</strong> <em>Instructional & Research Computing Systems Administrator</em></p>
-    <p><strong>Melissa Anderson</strong> <em>Systems and Discovery Librarian</em></p>
-    <p><strong>James Simon</strong> <em>Assistant Director of Collections & Discovery</em></p>
-    <p><strong>Sara Swanson</strong> <em>Assistant Director of Archives, Special Collections, and Community</em></p>
-    <p><strong>John McCann</strong> <em>Director of User Services and Experience</em></p>
-    <p><strong>Luke Aeschleman</strong> <em>Cloud Solutions Architect</em></p>
-    <p><strong>Molly Kunkel</strong> <em>Digital Archivist</em></p>
-    <p><strong>Jessica Cottle-Hart</strong> <em>Justice, Equality, and Community Archivist</em></p>
-    <p><strong>Jacob Heil</strong> <em>Assistant Director of Digital Learning</em></p>
-    <p><strong>Stella Mackler</strong> (and the 100+ years of student journalism that made this project possible!) <em>Class of 2026, 
-      Editor-and-Chief of the Davidsonian</em></p>
+    <h6>Library Staff</h6>
+    <ul>
+    <li><p><strong>Melissa Anderson</strong> <em>Systems and Discovery Librarian</em></p></li>
+    <li><p><strong>Jessica Cottle-Hart</strong> <em>Justice, Equality, and Community Archivist</em></p></li>
+    <li><p><strong>Jacob Heil</strong> <em>Assistant Director of Digital Learning</em></p></li>
+    <li><p><strong>Molly Kunkel</strong> <em>Digital Archivist</em></p></li>
+    <li><p><strong>James Simon</strong> <em>Assistant Director of Collections & Discovery</em></p></li>
+    <li><p><strong>Sara Swanson</strong> <em>Assistant Director of Archives, Special Collections, and Community</em></p></li>
+    </ul>
+    <h6>Davidson T&I</h6>
+    <ul>
+    <li><p><strong>Luke Aeschleman</strong> <em>Cloud Solutions Architect</em></p></li>
+    <li><p><strong>Michael Blackmon</strong> <em>Instructional & Research Computing Systems Administrator</em></p></li>
+    <li><p><strong>Kathi Brooks</strong> <em>Application Analyst, Collaborative Apps</em></p></li>
+    <li><p><strong>John McCann</strong> <em>Director of User Services and Experience</em></p></li>
+    </ul>
+    <h6>Additional</h6>
+    <ul>
+    <li><p><strong>Stella Mackler</strong> (and the 100+ years of student journalism that made this project possible!) <em>Class of 2026, 
+      Editor-in-Chief of the Davidsonian</em></p></li>
+    <li><p><strong>Software Developers</strong> <em>Tesseract, sbb_binarization, OpenAI Assistant API</em></p></li>
+    </ul>
   </div>
   <!-- Modal Structure -->
   <div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
@@ -549,7 +570,8 @@
 
 
   <script>
-
+  
+  var isDateSortedAsc = true;  // Variable to track the current sort order for date
   // This function is the user-side search call that sends the request to the server
   function performSearch(sortCriterion) {
 
@@ -564,14 +586,17 @@
         success: function(data) {
           // Sorting logic based on the criterion
           if (sortCriterion === 'date') {
+            if (isDateSortedAsc) {
                 data.sort(function(a, b) {
-                    return new Date(a.date) - new Date(b.date);
-                });
-            } else if (sortCriterion === 'score') {
-                data.sort(function(a, b) {
-                    return b.score - a.score;
-                });
-            }
+                  return new Date(a.date) - new Date(b.date);  // Ascending order
+                  });
+              } else {
+                  data.sort(function(a, b) {
+                    return new Date(b.date) - new Date(a.date);  // Descending order
+                  });
+                }
+              }
+                isDateSortedAsc = !isDateSortedAsc;  // Toggle the sort order
             var resultsDiv = $('#search-results'); 
             resultsDiv.empty(); // Reseting the results each time
             resultsDiv.append('<a> Appears in ' + data.length + ' issues </a>'); // How many issues satisfy the query 
@@ -605,7 +630,7 @@
                                 <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#${collapseId}" aria-expanded="true" aria-controls="${collapseId}">
                                     ${item.title}
                                 </button>
-                                <a href="${item.pdf_url}" target="_blank" class="btn btn-link">View Document</a>
+                                <a href="${item.pdf_url}" target="_blank" class="btn btn-link">View Page</a>
                                 </button>
                                 <a href="${item.url}" target="_blank" class="btn btn-link">View Issue</a>
                             </h2>
@@ -735,7 +760,7 @@
                                 <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#${collapseId}" aria-expanded="true" aria-controls="${collapseId}">
                                     ${item.title}
                                 </button>
-                                <a href="${item.pdf_url}" target="_blank" class="btn btn-link">View Document</a>
+                                <a href="${item.pdf_url}" target="_blank" class="btn btn-link">View Page</a>
                                 </button>
                                 <a href="${item.url}" target="_blank" class="btn btn-link">View Issue</a>
                             </h2>

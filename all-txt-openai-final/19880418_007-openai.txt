@@ -81,4 +81,5 @@ Life Explained For My Mother
 
 ---
 
-Note: Some parts of the text were unclear and seemed to be fragments or misplaced lines. They have been left as is to preserve the original content as much as possible.
+Note: Some parts of the text were unclear and seemed to be fragments or misplaced lines. They have been left
+as is to preserve the original content as much as possible.

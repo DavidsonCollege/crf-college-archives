@@ -3,56 +3,154 @@ Too many questions at this point
 By Mary-Ellise BRUMFIELD
 Staff Writer
 
-Despite various rumors circulating campus, none of the individual dorm rooms are currently cable-ready. According to Housing Operations Coordinator Debby Harrison, "the entire project is still at a stage of uncertainty. Many questions must still be answered before the possibility of cable TV in each dorm room can become a reality," she said.
+Despite various rumors circulating campus, none of the individual dorm rooms are currently cable-ready. According to Housing Operations Coordinator Debby
+Harrison, "the entire project is still at a stage of uncertainty. Many questions must still be answered before the possibility
+of cable TV in each dorm room can become a reality," she said.
 
-The administration must decide whether cable TV should be installed in each room in the first place, rather than simply keeping cable in the dorm lounges. This is due to concern regarding students staying in their rooms and watching TV instead of going into the lounges to watch television with others. The College is also debating about whether to use a satellite dish as some other colleges or subscribe to the local cable company. And if the administration decides to use the services of a cable company, then which one should it choose?
+The administration must decide whether cable TV should be installed in each room in the first place, rather than simply
+keeping cable in the dorm lounges. This is due to concern regarding students staying in their rooms and watching TV
+instead of going into the lounges to watch television with others. The College is also debating about whether to use
+a satellite dish as some other colleges or subscribe to the local cable company. And if the administration decides to
+use the services of a cable company, then which one should it choose?
 
-Harrison said that the College is presently utilizing the service of only one vendor for the cable access in the dorm lounges and senior apartments — Prestige Motor Cable in Mooresville. The company is charging the College residential rates at this point in time, but that could change if cable were to be installed in the individual dorm rooms.
+Harrison said that the College is presently utilizing the service of only one vendor for the cable access in the
+dorm lounges and senior apartments — Prestige Motor Cable in Mooresville. The company is charging the College residential rates at
+this point in time, but that could change if cable were to be installed in the individual dorm rooms.
 
-Another dilemma that the administration is facing is how to bill students for the use of cable TV in their rooms. Will those students who watch cable in their rooms rather than just regular television be billed for it? And will there be an option of having access to premium channels such as HBO and The Movie Channel? Harrison said that RLO does not have the answers to those questions right now, and probably will not be able to answer them this school year. Until RLO can provide answers to those questions, students will simply have to be satisfied with watching cable TV in their dorm lounges.
+Another dilemma that the administration is facing is how to bill students for the use of cable TV in their
+rooms. Will those students who watch cable in their rooms rather than just regular television be billed for it? And
+will there be an option of having access to premium channels such as HBO and The Movie Channel? Harrison said
+that RLO does not have the answers to those questions right now, and probably will not be able to answer
+them this school year. Until RLO can provide answers to those questions, students will simply have to be satisfied with
+watching cable TV in their dorm lounges.
 
 Networking proceeds without holiday
 Project closing in on Spring 1998 goal
 College Relations
 
-Campus networking is closing in on its goal of reaching all residence halls by the spring. Marcia Makl, director of networks and systems, said all residence halls except for Martin Court buildings A, B, C, D, and E have been completed, and B, D, and E will receive attention over the Christmas holidays. Makl said that satisfactory progress towards the goal of “providing ethernet to every student desktop and pillow.” Also, wiring is currently being installed in Lingle Manor, Martin Science Building, Oak Row, Elm Row, Carnegie Guest House, and Vail Commons. Makl said that the Commons will be a special focus over Christmas because the break provides the best access time to the kitchen and serving areas.
+Campus networking is closing in on its goal of reaching all residence halls by the spring. Marcia Makl, director of
+networks and systems, said all residence halls except for Martin Court buildings A, B, C, D, and E have been
+completed, and B, D, and E will receive attention over the Christmas holidays. Makl said that satisfactory progress towards the
+goal of “providing ethernet to every student desktop and pillow.” Also, wiring is currently being installed in Lingle Manor, Martin
+Science Building, Oak Row, Elm Row, Carnegie Guest House, and Vail Commons. Makl said that the Commons will be a
+special focus over Christmas because the break provides the best access time to the kitchen and serving areas.
 
-The Commons presently has its own network and server, and the holiday work will link that setup to the campus-wide network. Makl said some of the upcoming installations will employ new CAT 5 UTP copper wiring. She said this outdoor CAT 5 UTP cable with special protection devices helps alleviate space and cost concerns because it does not require a network closet. The space and cost conservation are ideal, Makl said, for places like Jackson Court offices because each building has only a few employees and limited floor space.
+The Commons presently has its own network and server, and the holiday work will link that setup to the campus-wide
+network. Makl said some of the upcoming installations will employ new CAT 5 UTP copper wiring. She said this outdoor
+CAT 5 UTP cable with special protection devices helps alleviate space and cost concerns because it does not require a
+network closet. The space and cost conservation are ideal, Makl said, for places like Jackson Court offices because each building
+has only a few employees and limited floor space.
 
-The E.H. Little Library and Chambers, which are already on the network but haven’t been upgraded to the newer CAT 5 UTP wiring yet, are also on Makl’s “to do” list. ITS plans on upgrading the library this summer, and will establish more network connections throughout the building at the same time. “Leland Park wants a far more computer accessible library,” Makl said. “He would like more connections so students can take laptop computers to the library and be connected in their carrels.”
+The E.H. Little Library and Chambers, which are already on the network but haven’t been upgraded to the newer CAT
+5 UTP wiring yet, are also on Makl’s “to do” list. ITS plans on upgrading the library this summer, and
+will establish more network connections throughout the building at the same time. “Leland Park wants a far more computer accessible
+library,” Makl said. “He would like more connections so students can take laptop computers to the library and be connected
+in their carrels.”
 
-Other networking plans include wiring the College Union and the new College Relations Office (presently faculty housing), and upgrading the networks in Grey House, Harding House, and Julia Johnston House. Makl urges anyone who has networking questions to visit ITS’s “Campus Network Master Plan” web page at http://www.davidson.edu/computing/systems/nmp.html. “After (these stages) are done, we can focus on building.”
+Other networking plans include wiring the College Union and the new College Relations Office (presently faculty housing), and upgrading the
+networks in Grey House, Harding House, and Julia Johnston House. Makl urges anyone who has networking questions to visit ITS’s
+“Campus Network Master Plan” web page at http://www.davidson.edu/computing/systems/nmp.html. “After (these stages) are done, we can focus on building.”
 
 Union decision to be made in near future
 By Naresh NAGELLA
 Associate Editor
 
-After some three years of planning and preparation, a decision regarding the new union will allow it to literally take shape. In the next couple of weeks, the Union Selection Committee will decide on the architectural contractor who will supervise the building of the new Union. Three weeks ago, the committee heard the proposals of many different architects in a day-long session that took place on campus. Each architect was able to offer their conception of the new union that will take the place of Johnston Gym. Each proposal took into account the various analyses done over the last couple of years that gauged student opinion as to where the union should be and what it should hold. The Committee wanted to make sure whatever chosen design would complement the campus’ needs.
+After some three years of planning and preparation, a decision regarding the new union will allow it to literally take
+shape. In the next couple of weeks, the Union Selection Committee will decide on the architectural contractor who will supervise
+the building of the new Union. Three weeks ago, the committee heard the proposals of many different architects in a
+day-long session that took place on campus. Each architect was able to offer their conception of the new union that
+will take the place of Johnston Gym. Each proposal took into account the various analyses done over the last couple
+of years that gauged student opinion as to where the union should be and what it should hold. The Committee
+wanted to make sure whatever chosen design would complement the campus’ needs.
 
-“We have made some progress, but we have still not made the final decision,” College Union Director William Brown said of the current situation. “(That) will be contingent upon some on-site visits to be made later this week.” Members from the committee plan to visit student unions built elsewhere by the final architectural firms being considered. Even after the finalist is chosen, there will be a process of negotiation dealing with the exact cost of the project and length of construction. The final deal must be approved by President Bobby Vagt. “If everything proceeds the way that we expect then we should know in the next two-three weeks,” Brown said. “Hopefully we should not run into anything unusual. We are focused on two architects and are learning more about them. We want to learn some things about the way they work.”
+“We have made some progress, but we have still not made the final decision,” College Union Director William Brown said
+of the current situation. “(That) will be contingent upon some on-site visits to be made later this week.” Members from
+the committee plan to visit student unions built elsewhere by the final architectural firms being considered. Even after the finalist
+is chosen, there will be a process of negotiation dealing with the exact cost of the project and length of
+construction. The final deal must be approved by President Bobby Vagt. “If everything proceeds the way that we expect then
+we should know in the next two-three weeks,” Brown said. “Hopefully we should not run into anything unusual. We are
+focused on two architects and are learning more about them. We want to learn some things about the way they
+work.”
 
-The College does not use one single architectural firm for all its building projects, but follows a selection procedure that looks at many different companies and builders. Any building or ground-breaking cannot take place until all such negotiations are made final. Brown wishes to make sure the College community understands the process is handled with care and precaution since the committee wants to make the best decision possible. “We are getting really close to making a final decision and we are excited about it,” he said.
+The College does not use one single architectural firm for all its building projects, but follows a selection procedure that
+looks at many different companies and builders. Any building or ground-breaking cannot take place until all such negotiations are made
+final. Brown wishes to make sure the College community understands the process is handled with care and precaution since the
+committee wants to make the best decision possible. “We are getting really close to making a final decision and we
+are excited about it,” he said.
 
 Budget from page 1
 
-sonnel and Development — currently professors Hansford Epes and Ken Menkhaus. The group has also been involved in conversations on compensation with representatives of the faculty's Professional Affairs Committee, and been assisted with “number crunching” by a Budget Support Team consisting of Robert Norfleet, Ed Kania, Lori Gaston, and Susie Fuller. The budget working group has accelerated the schedule of meetings by starting earlier in the year in order to submit a proposed budget to the trustees aboutThree weeks before they meet to review and approve it Feb. 5-6, Vagt said the proposed budget will also be shared with members of the College community in a general forum early in the year. Norfleet, Vice President for Business and Finance, predicted that the 1998-99 budget will increase no more than three percent over this year’s $49.08 million figure, continuing the decade-long trend of continuously diminishing the rate of growth in Davidson’s price for students and their families. Norfleet said the budget working group has proceeded with two main purposes — keeping the rate of tuition increase down, and maintaining employee compensation as the highest expenditure priority. He said the budget team hopes to keep the tuition increase under four percent, which would represent the 10th straight year of decelerating tuition rates.
+sonnel and Development — currently professors Hansford Epes and Ken Menkhaus. The group has also been involved in conversations on
+compensation with representatives of the faculty's Professional Affairs Committee, and been assisted with “number crunching” by a Budget Support Team
+consisting of Robert Norfleet, Ed Kania, Lori Gaston, and Susie Fuller. The budget working group has accelerated the schedule of
+meetings by starting earlier in the year in order to submit a proposed budget to the trustees aboutThree weeks before
+they meet to review and approve it Feb. 5-6, Vagt said the proposed budget will also be shared with members
+of the College community in a general forum early in the year. Norfleet, Vice President for Business and Finance, predicted
+that the 1998-99 budget will increase no more than three percent over this year’s $49.08 million figure, continuing the decade-long
+trend of continuously diminishing the rate of growth in Davidson’s price for students and their families. Norfleet said the budget
+working group has proceeded with two main purposes — keeping the rate of tuition increase down, and maintaining employee compensation
+as the highest expenditure priority. He said the budget team hopes to keep the tuition increase under four percent, which
+would represent the 10th straight year of decelerating tuition rates.
 
-Some might ask why it is so important to keep tuition increases low, in light of the fact that the College has for several years enjoyed record numbers of student applications. “Product demand can turn on a dime,” Vagt said, noting that the College has been fortunate that 60-70 percent of student families can pay full tuition. If that number dropped, the College would face a financial crunch that would increase its expenses and might drive many applicants away. In addition, Vagt said, “We want to be attractive to the broadest spectrum of folks, intellectually and economically. We begin falling down the slippery slope if we say that we don’t have to be sensitive to cost because everyone loves us.
+Some might ask why it is so important to keep tuition increases low, in light of the fact that the
+College has for several years enjoyed record numbers of student applications. “Product demand can turn on a dime,” Vagt said,
+noting that the College has been fortunate that 60-70 percent of student families can pay full tuition. If that number
+dropped, the College would face a financial crunch that would increase its expenses and might drive many applicants away. In
+addition, Vagt said, “We want to be attractive to the broadest spectrum of folks, intellectually and economically. We begin falling
+down the slippery slope if we say that we don’t have to be sensitive to cost because everyone loves us.
 
-“The most frequent question I hear at alumni meetings is ‘What are you doing to make sure I'll be able to afford to send my kids to Davidson?’ And it’s not a cynical question, it’s from the heart. They want their children to come here, and they’re imploring us to do all we can to make that possible.”
+“The most frequent question I hear at alumni meetings is ‘What are you doing to make sure I'll be able
+to afford to send my kids to Davidson?’ And it’s not a cynical question, it’s from the heart. They want
+their children to come here, and they’re imploring us to do all we can to make that possible.”
 
-Since tuition increases have traditionally supplied the main source of new income, the budget working group is searching everywhere for other sources of new money. “Normally by now, we would have settled on a revenue estimate,” Norfleet said, “but there are so few new dollars under this tuition scenario that we’re investing more time than ever trying to increase revenues at the margin.” This may include increasing revenue from auxiliary services, catering, and summer programs, and will certainly include an extra push on the Annual Fund.
+Since tuition increases have traditionally supplied the main source of new income, the budget working group is searching everywhere for
+other sources of new money. “Normally by now, we would have settled on a revenue estimate,” Norfleet said, “but there
+are so few new dollars under this tuition scenario that we’re investing more time than ever trying to increase revenues
+at the margin.” This may include increasing revenue from auxiliary services, catering, and summer programs, and will certainly include an
+extra push on the Annual Fund.
 
-Vagt said the institutional advancement aims to raise $4.2 million for the Annual Fund this year, which would be $300,000 more than last year. “We don’t have a big new capital project to undertake, so alumni volunteer chair Robert Norris and the staff see this as an opportunity to show donors that this is a vital contribution,” he said, “that it’s the most significant component of unrestricted aid for the College.”
+Vagt said the institutional advancement aims to raise $4.2 million for the Annual Fund this year, which would be $300,000
+more than last year. “We don’t have a big new capital project to undertake, so alumni volunteer chair Robert Norris
+and the staff see this as an opportunity to show donors that this is a vital contribution,” he said, “that
+it’s the most significant component of unrestricted aid for the College.”
 
-Another way to find new money is to cut existing expenses, and the budget working group is considering many options. “We’ve been on a financial austerity program for a decade, operating on budgets that have been flat,” Norfleet said. “So the next step in cost control isn’t easy, and will require a lot of cooperative planning.” Vagt said staff reduction is definitely the least desirable option, but added, “We wouldn’t be true to what we’re doing if we didn’t look at that, too.” He said another option is energy conservation, which is good policy and can result in significant savings as well. He pointed out that limiting after-hours access to Chambers, except during exams, might yield significant savings, but would only make sense if the College could identify other more efficient places for students to study.
+Another way to find new money is to cut existing expenses, and the budget working group is considering many options.
+“We’ve been on a financial austerity program for a decade, operating on budgets that have been flat,” Norfleet said. “So
+the next step in cost control isn’t easy, and will require a lot of cooperative planning.” Vagt said staff reduction
+is definitely the least desirable option, but added, “We wouldn’t be true to what we’re doing if we didn’t look
+at that, too.” He said another option is energy conservation, which is good policy and can result in significant savings
+as well. He pointed out that limiting after-hours access to Chambers, except during exams, might yield significant savings, but would
+only make sense if the College could identify other more efficient places for students to study.
 
-Vagt pointed out that another major potential for savings in the budget is simply doing more with existing resources. “We haven’t stretched to the limits of what we have yet, and I believe the 600 people who work here are the best source of ideas in this regard,” he said. “We need to tap everyone’s creativity in a formal way to help with efficiency efforts.”
+Vagt pointed out that another major potential for savings in the budget is simply doing more with existing resources. “We
+haven’t stretched to the limits of what we have yet, and I believe the 600 people who work here are
+the best source of ideas in this regard,” he said. “We need to tap everyone’s creativity in a formal way
+to help with efficiency efforts.”
 
-For the second year in a row, the budget will be expressed as categories of compensation, operating expenses, technology, and capital expenditures. This arrangement allows the College to identify its specific investment in these important categories across the institution. In particular, it is important to determine how much is being spent on technology, and which divisions or offices need more resources for that purpose. Norfleet said the College’s departmental budgets contain between $700-800,000 for technology, in addition to the Information Technology Services budget. He pointed out that the need to constantly update technology has transformed it into another sort of “utility bill,” like electricity and water, that must be regularly met.
+For the second year in a row, the budget will be expressed as categories of compensation, operating expenses, technology, and
+capital expenditures. This arrangement allows the College to identify its specific investment in these important categories across the institution. In
+particular, it is important to determine how much is being spent on technology, and which divisions or offices need more
+resources for that purpose. Norfleet said the College’s departmental budgets contain between $700-800,000 for technology, in addition to the Information
+Technology Services budget. He pointed out that the need to constantly update technology has transformed it into another sort of
+“utility bill,” like electricity and water, that must be regularly met.
 
-To better manage the technology expenses across the institution, Norfleet said the Joint Committee on Information Technology is recommending that the College support a more limited number of hardware and software standards. Also, it is becoming obvious that the College can support a four-year cycle for replacement of computer equipment and software, rather than the ideal of three years. Not so many offices have capital expenditures — items that last more than a year and cost more than $2,000. But the science departments use significant capital equipment such as laboratory instruments, and separate identity of this category helps the College plan for support of this aspect of the academic program.
+To better manage the technology expenses across the institution, Norfleet said the Joint Committee on Information Technology is recommending that
+the College support a more limited number of hardware and software standards. Also, it is becoming obvious that the College
+can support a four-year cycle for replacement of computer equipment and software, rather than the ideal of three years. Not
+so many offices have capital expenditures — items that last more than a year and cost more than $2,000. But
+the science departments use significant capital equipment such as laboratory instruments, and separate identity of this category helps the College
+plan for support of this aspect of the academic program.
 
-One of the most important capital projects currently underway is a psychology and biology departmental inventory of the capital equipment in hand and of equipment that needs to be purchased immediately and in the future to equip the new Life Sciences Building. Norfleet said the College’s budget process will be further refined as it is integrated with the work of the Priorities Planning Group that was created last year. That group’s decision on College priorities are designed to drive the budget process. Norfleet said the budget working group and PPG, which include many of the same members, are “moving on parallel tracks, but they’re not yet joined at the hip.”
+One of the most important capital projects currently underway is a psychology and biology departmental inventory of the capital equipment
+in hand and of equipment that needs to be purchased immediately and in the future to equip the new Life
+Sciences Building. Norfleet said the College’s budget process will be further refined as it is integrated with the work of
+the Priorities Planning Group that was created last year. That group’s decision on College priorities are designed to drive the
+budget process. Norfleet said the budget working group and PPG, which include many of the same members, are “moving on
+parallel tracks, but they’re not yet joined at the hip.”
 
-“Our objective is to bring these processes into sync so they become one and the same,” he added. “Ideally, the budget is simply a financial expression of the institution’s stated priorities.” Eventually the work of the PPG in developing a five-year plan and setting priorities for capital projects will directly drive the budget working group. At this point, the PPG has completed its first rough draft of a five-year plan, based on plans submitted by each College division. PPG subcommittees are currently refining parts of that draft with the intention of sharing it with members of the community early next year. PPG members then hope to submit their first plan to the trustees at their spring meeting.
+“Our objective is to bring these processes into sync so they become one and the same,” he added. “Ideally, the
+budget is simply a financial expression of the institution’s stated priorities.” Eventually the work of the PPG in developing a
+five-year plan and setting priorities for capital projects will directly drive the budget working group. At this point, the PPG
+has completed its first rough draft of a five-year plan, based on plans submitted by each College division. PPG subcommittees
+are currently refining parts of that draft with the intention of sharing it with members of the community early next
+year. PPG members then hope to submit their first plan to the trustees at their spring meeting.

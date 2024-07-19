@@ -107,4 +107,5 @@ Lntod The Stree: 592
 
 ---
 
-Note: Some parts of the text were difficult to interpret due to unclear OCR results. If you have access to the original document, it might help to cross-reference for accuracy.
+Note: Some parts of the text were difficult to interpret due to unclear OCR results. If you have access to
+the original document, it might help to cross-reference for accuracy.

@@ -309,7 +309,13 @@ Cooper, S. P.—201 West
 (1) McAfee, S. K., Jr.—113 Duke
 (1) McAlpine, T.Here is the cleaned OCR text, preserving the original meaning and punctuation:
 
-qd) (2) (2) (1) () Q) (3) (2) (1) qd) (ld) (1) (2) (1) (e5) (1) (3) (4) (1) (1) (1) (4) (1) (1) (3) (3) (2) (1) (1) (3) (3) (4) (1) (1) (1) (3) (2) (1) (3) (1) (4) (1) (1) (2) (4) (4) (4) (4) (3) (1) (1) (3) (2) (1) (4) (hy (2) (2) (2) (4) (1) (1) (4) (4) (2) (2) (3), (2) (4) (4) (4) (2) (3) (4) Q) (4) (3) (1) (2) (2) (3) (2) (4) (3) (2) (4) (4) (1) (4) (1) (2) (1) (3) (1) (1) (3) (2) (1) (1) (3) (4) (1) (2) (3) (2) (3) (4) (3) qd) (1) (3) (4) (1) (2) (4) (2) (3) (2) (2) (2) (3) (2) (3) (4) (1)
+qd) (2) (2) (1) () Q) (3) (2) (1) qd) (ld) (1) (2) (1) (e5) (1) (3) (4) (1) (1)
+(1) (4) (1) (1) (3) (3) (2) (1) (1) (3) (3) (4) (1) (1) (1) (3) (2) (1) (3) (1)
+(4) (1) (1) (2) (4) (4) (4) (4) (3) (1) (1) (3) (2) (1) (4) (hy (2) (2) (2) (4)
+(1) (1) (4) (4) (2) (2) (3), (2) (4) (4) (4) (2) (3) (4) Q) (4) (3) (1) (2) (2)
+(3) (2) (4) (3) (2) (4) (4) (1) (4) (1) (2) (1) (3) (1) (1) (3) (2) (1) (1) (3)
+(4) (1) (2) (3) (2) (3) (4) (3) qd) (1) (3) (4) (1) (2) (4) (2) (3) (2) (2) (2)
+(3) (2) (3) (4) (1)
 
 Moore, B. F.—27 Georgia
 Moore, J. A.—304 East
@@ -440,7 +446,12 @@ Shelton, J. G—8 Duke
 Sherman, C. W.—113 Duke
 Sherrill, J. F.—24 Rumple
 
-(3) (3) (3) (4) (2) Q) (1) (2) (4) (2) (2) (2) (3) qd) qd) (2) (3) (4) qd) (1) (2) (4) (3) (4) (4) (2) (1) >) (3) (2) (2) (2) (1) ) (4) (3) (2) () e8) (2) (2) (3) (4) (4) (2) (4) (2) (3) (2) (4) (2) 2) (2) (2) (3) (2) (1) (3) Q) (3) (4) (3) (3) (2) (1) (G9) (3) (3) (2) qd) (3) d) qd) (2) (4) (3) (2) (1) (1) (2) (2) (4) (2) qd) (3) (2) dQ) (2) (2) (1) (3) (1) (1) (2) (2) (2) (1) (3) qd) (3) (2)
+(3) (3) (3) (4) (2) Q) (1) (2) (4) (2) (2) (2) (3) qd) qd) (2) (3) (4) qd) (1)
+(2) (4) (3) (4) (4) (2) (1) >) (3) (2) (2) (2) (1) ) (4) (3) (2) () e8) (2)
+(2) (3) (4) (4) (2) (4) (2) (3) (2) (4) (2) 2) (2) (2) (3) (2) (1) (3) Q) (3)
+(4) (3) (3) (2) (1) (G9) (3) (3) (2) qd) (3) d) qd) (2) (4) (3) (2) (1) (1) (2)
+(2) (4) (2) qd) (3) (2) dQ) (2) (2) (1) (3) (1) (1) (2) (2) (2) (1) (3) qd) (3)
+(2)
 
 Sherrin, M. B., Jr—10 Duke
 Shewmake, E. F., III—Home
@@ -581,7 +592,10 @@ Youngblood, V. H.—126-27 Duke
 
 Listing Incomplete
 
-This issue of the Davidsonian does not carry a complete directory of Duke dormitory due to the fact that the rooms have not been definitely assigned. As soon as the new building is completed and the office of treasurer publishes a complete list of the occupants the Davidsonian will publish a directory. It is expected that this dormitory will be fully occupied within the next two weeks.
+This issue of the Davidsonian does not carry a complete directory of Duke dormitory due to the fact that the
+rooms have not been definitely assigned. As soon as the new building is completed and the office of treasurer publishes
+a complete list of the occupants the Davidsonian will publish a directory. It is expected that this dormitory will be
+fully occupied within the next two weeks.
 
 College Telephone Directory
 

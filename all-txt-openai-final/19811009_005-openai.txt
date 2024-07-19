@@ -1,21 +1,72 @@
 ‘The new computer Davidson’s system compares favorably’ by Jeffrey Mann ‘84.
 
-Although the fledgling Davidson College computer center is barely settled into its new home, a quick survey of other schools shows that the computer services Davidson plans are comparable to, if not better than, those of other schools of roughly Davidson’s size. The Prime 750 is a “marvelous, fantastic machine,” said Betsy Little, director of computer services at Swarthmore College near Philadelphia. Swarthmore installed a Prime 750, the same computer that Davidson recently bought, last year. Davidson is now working closely with Swarthmore in developing the capabilities of the system.
+Although the fledgling Davidson College computer center is barely settled into its new home, a quick survey of other schools
+shows that the computer services Davidson plans are comparable to, if not better than, those of other schools of roughly
+Davidson’s size. The Prime 750 is a “marvelous, fantastic machine,” said Betsy Little, director of computer services at Swarthmore College
+near Philadelphia. Swarthmore installed a Prime 750, the same computer that Davidson recently bought, last year. Davidson is now working
+closely with Swarthmore in developing the capabilities of the system.
 
-Swarthmore operates their system a little differently than Davidson does in that they limit access to the computer by an accounting system. “We have a complicated system for charging,” Ms. Little said. Each student is assigned $100 worth of computer time. When a user reaches that limit, he or she must apply for a larger allocation. Students in computer science courses or other classes that require more computer time get a larger allocation.
+Swarthmore operates their system a little differently than Davidson does in that they limit access to the computer by an
+accounting system. “We have a complicated system for charging,” Ms. Little said. Each student is assigned $100 worth of computer
+time. When a user reaches that limit, he or she must apply for a larger allocation. Students in computer science
+courses or other classes that require more computer time get a larger allocation.
 
-Davidson operates its system more like Wofford College in Spartanburg, South Carolina. According to Dan Olds, director of computer services, Wofford operates on the “library philosophy” which means that the computer is available at no extra charge to students, like the college library. There is no chargeback system and they allow any reasonable requests for file space. Wofford has a DEC PDP 11/40 computer.
+Davidson operates its system more like Wofford College in Spartanburg, South Carolina. According to Dan Olds, director of computer services,
+Wofford operates on the “library philosophy” which means that the computer is available at no extra charge to students, like
+the college library. There is no chargeback system and they allow any reasonable requests for file space. Wofford has a
+DEC PDP 11/40 computer.
 
-Like Hampden-Sydney College, Davidson makes word processing available to students. With word processing, users can type papers onto the computer, correct mistakes, change words, move paragraphs, etc. The computer will then produce an error-free hard copy. According to computer operator Karen Singer, Hampden-Sydney uses a chargeback system to control access to its Perkin-Elmer 3240.
+Like Hampden-Sydney College, Davidson makes word processing available to students. With word processing, users can type papers onto the computer,
+correct mistakes, change words, move paragraphs, etc. The computer will then produce an error-free hard copy. According to computer operator
+Karen Singer, Hampden-Sydney uses a chargeback system to control access to its Perkin-Elmer 3240.
 
 32 terminals
 
-Davidson Computer Services Director Bob DeSieno says that Davidson has 32 terminals currently on order. A terminal is an individual workstation with a typewriter-like keyboard and a television screen. The Computer Center staff is currently installing nineteen terminals around campus now, and ten more should arrive next week. This is more than most of the colleges of Davidson's size that the Davidsonian contacted. The University of the South has seventeen terminals available to students 24 hours a day, according to coordinator of computer services Peggy Greene. Oglethorpe University in Atlanta uses a DEC PDP 1134A and has 12 terminals available only during the day, said director of academic computing Charlton Jones. Wofford has 11 terminals and Hampden-Sydney “about 35.”
+Davidson Computer Services Director Bob DeSieno says that Davidson has 32 terminals currently on order. A terminal is an individual
+workstation with a typewriter-like keyboard and a television screen. The Computer Center staff is currently installing nineteen terminals around campus
+now, and ten more should arrive next week. This is more than most of the colleges of Davidson's size that
+the Davidsonian contacted. The University of the South has seventeen terminals available to students 24 hours a day, according to
+coordinator of computer services Peggy Greene. Oglethorpe University in Atlanta uses a DEC PDP 1134A and has 12 terminals available
+only during the day, said director of academic computing Charlton Jones. Wofford has 11 terminals and Hampden-Sydney “about 35.”
 
 The computer director Robert DeSieno runs the show by J. David Fleming '83
 
-Professor Robert DeSieno lies at the source of the current surge in computer activity at Davidson College. Due in a big part to his guidance, Davidson’s Computer Services Center has grown more than any other department at school. DeSieno, however, is no old hand at either Davidson or the field of computer services. Dr. DeSieno, 48, grew up in Schenectady, New York, and attended Union College there. He received his Ph.D. in physical chemistry at the University of California at Davis, and, after serving in the Air Force in Japan, he worked at General Electric and later Rhom-Haas. Dr. DeSieno’s teaching career began at Westminster College in Pennsylvania, where he taught chemistry for twelve years. In 1980, he joined the faculty of Davidson as chemistry professor and new director of the Computer Services Center. By the beginning of this school year, though, chemistry...was taking a back seat to DeSieno’s responsibilities as head of the computer programs. He misses teaching chemistry, but has found his work with computers and high technology here to be challenging and exciting. New in his field in graduate school at California, DeSieno first began to use computers to help in his study of the behavior of light. But those computers of the early 60s were very different from the ones today. Not until about five years ago did he begin to get seriously into the field. When micro-computers first began to flourish, he bought a kit and built one. By the time he left Westminster, he had computers playing a very active role in the chemistry department there. Now, he feels like a whole new purpose in life has opened up for him. After fifteen years in chemistry, DeSieno felt like he was “running on the same road.” It’s been a rewarding change for him, and his new job keeps him incredibly busy. Dr. DeSieno is direct, practical, and serious enough about computers to push their expansion at Davidson in a big way. His office at the Computer Services Center behind the post office is filled with systems handbooks, computer pamphlets, and even a terminal right beside his desk. He wants to make the computer at Davidson a resource which will be as essential to the students and faculty as the library is. One of the roles of liberal education, he explains, is to extract patterns from an array of facts and thus to understand those facts better. This is precisely what the computer can help one do.
+Professor Robert DeSieno lies at the source of the current surge in computer activity at Davidson College. Due in a
+big part to his guidance, Davidson’s Computer Services Center has grown more than any other department at school. DeSieno, however,
+is no old hand at either Davidson or the field of computer services. Dr. DeSieno, 48, grew up in Schenectady,
+New York, and attended Union College there. He received his Ph.D. in physical chemistry at the University of California at
+Davis, and, after serving in the Air Force in Japan, he worked at General Electric and later Rhom-Haas. Dr. DeSieno’s
+teaching career began at Westminster College in Pennsylvania, where he taught chemistry for twelve years. In 1980, he joined the
+faculty of Davidson as chemistry professor and new director of the Computer Services Center. By the beginning of this school
+year, though, chemistry...was taking a back seat to DeSieno’s responsibilities as head of the computer programs. He misses teaching chemistry,
+but has found his work with computers and high technology here to be challenging and exciting. New in his field
+in graduate school at California, DeSieno first began to use computers to help in his study of the behavior of
+light. But those computers of the early 60s were very different from the ones today. Not until about five years
+ago did he begin to get seriously into the field. When micro-computers first began to flourish, he bought a kit
+and built one. By the time he left Westminster, he had computers playing a very active role in the chemistry
+department there. Now, he feels like a whole new purpose in life has opened up for him. After fifteen years
+in chemistry, DeSieno felt like he was “running on the same road.” It’s been a rewarding change for him, and
+his new job keeps him incredibly busy. Dr. DeSieno is direct, practical, and serious enough about computers to push their
+expansion at Davidson in a big way. His office at the Computer Services Center behind the post office is filled
+with systems handbooks, computer pamphlets, and even a terminal right beside his desk. He wants to make the computer at
+Davidson a resource which will be as essential to the students and faculty as the library is. One of the
+roles of liberal education, he explains, is to extract patterns from an array of facts and thus to understand those
+facts better. This is precisely what the computer can help one do.
 
-Being constantly in touch with the “cutting edge” of new technology is one of the rewards Dr. DeSieno has acquired from his work with computers. Because they are so prevalent in the outside world, he feels all students can benefit from using them. And the students do want to use them, he adds. No pushing is necessary. “All we need to do is give them instruction and guidance,” he says. The challenge of his position at the Center has left little time for Dr. DeSieno to teach or pursue other interests. But when he’s not working with the Computer Services, he enjoys spending time with his wife and two sons, reading Russian novels, and attending the cultural events Davidson has to offer. He likes to see his children growing and being happy. “And challenged,” he adds with emphasis and a smile.
+Being constantly in touch with the “cutting edge” of new technology is one of the rewards Dr. DeSieno has acquired
+from his work with computers. Because they are so prevalent in the outside world, he feels all students can benefit
+from using them. And the students do want to use them, he adds. No pushing is necessary. “All we need
+to do is give them instruction and guidance,” he says. The challenge of his position at the Center has left
+little time for Dr. DeSieno to teach or pursue other interests. But when he’s not working with the Computer Services,
+he enjoys spending time with his wife and two sons, reading Russian novels, and attending the cultural events Davidson has
+to offer. He likes to see his children growing and being happy. “And challenged,” he adds with emphasis and a
+smile.
 
-The interactive computing allowed by the new system is expected to reduce the possibility of human error found in the old system. An important resource will be the tie-in to the Triangle Universities Computation Center (TUCC). The new computers should benefit the administration greatly. Its computer, the Prime 450, is a little less powerful than the academic computer. However, it came with a large software package, a battery of very useful tools. One benefit will be the opportunity for even more effective planning than is otherwise possible. Dr. DeSieno expects that the College as a whole will be able to operate more efficiently with the help of the new computers. Computer time is free to all students from Monday through Thursday. Once the Computer Center’s workload decreases after the break-in period, they will offer workshops on how to use the computer. Right now, all six terminals—all in the Computer Center—are available.
+The interactive computing allowed by the new system is expected to reduce the possibility of human error found in the
+old system. An important resource will be the tie-in to the Triangle Universities Computation Center (TUCC). The new computers should
+benefit the administration greatly. Its computer, the Prime 450, is a little less powerful than the academic computer. However, it
+came with a large software package, a battery of very useful tools. One benefit will be the opportunity for even
+more effective planning than is otherwise possible. Dr. DeSieno expects that the College as a whole will be able to
+operate more efficiently with the help of the new computers. Computer time is free to all students from Monday through
+Thursday. Once the Computer Center’s workload decreases after the break-in period, they will offer workshops on how to use the
+computer. Right now, all six terminals—all in the Computer Center—are available.

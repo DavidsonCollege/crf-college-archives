@@ -14,9 +14,13 @@ On the job: what do the workers say?
 
 By DAVID SCOTT
 
-Hauling, shoveling, cursing, and hoping you look busy enough to keep the boss-man off your back. These are all parts of a typical working man’s day. In the speculation surrounding all the construction going on at Davidson, the plight of the actual workers has been largely ignored. These are the men who really know what’s going on from the inside, and their comments to this Davidsonian reporter raised some interesting questions.
+Hauling, shoveling, cursing, and hoping you look busy enough to keep the boss-man off your back. These are all parts
+of a typical working man’s day. In the speculation surrounding all the construction going on at Davidson, the plight of
+the actual workers has been largely ignored. These are the men who really know what’s going on from the inside,
+and their comments to this Davidsonian reporter raised some interesting questions.
 
-Reporter to a carpenter working on the new dorms: “So, do you think these dorms are going to be ready by the new completion dates?”
+Reporter to a carpenter working on the new dorms: “So, do you think these dorms are going to be ready
+by the new completion dates?”
 
 Carpenter: “I don’t know, when are they?”
 
@@ -24,15 +28,21 @@ Reporter: “Well, for this one here, September 29.”
 
 Carpenter: “Ain’t no way in hell.”
 
-That’s pretty definitive, folks. I hope you seniors are enjoying the rough life down at the Holiday Inn. They don’t even get HBO.
+That’s pretty definitive, folks. I hope you seniors are enjoying the rough life down at the Holiday Inn. They don’t
+even get HBO.
 
-Now don’t fret too much, all you who care. This carpenter was quite the jovial type and this reporter is leaving open the possibility that he was pulling my ripcord, so to speak. To him, it all didn’t seem to matter too much. The hassle, the overtime, the pressure. It’s just another job.
+Now don’t fret too much, all you who care. This carpenter was quite the jovial type and this reporter is
+leaving open the possibility that he was pulling my ripcord, so to speak. To him, it all didn’t seem to
+matter too much. The hassle, the overtime, the pressure. It’s just another job.
 
-I asked this carpenter if he thought the rush to meet the closing deadlines was putting undue emphasis on speed, resulting in hurried work and possibly mistakes.
+I asked this carpenter if he thought the rush to meet the closing deadlines was putting undue emphasis on speed,
+resulting in hurried work and possibly mistakes.
 
-“Mess it up, do it again,” he replied while reaching into the cab of his pick-up for a quick can of spam to break up the monotony of the day. He had to get back to his job.
+“Mess it up, do it again,” he replied while reaching into the cab of his pick-up for a quick can
+of spam to break up the monotony of the day. He had to get back to his job.
 
-Other workers viewed the situation a bit differently. An electrical sub-contractor who hadn’t been in the business very long showed more concern over the rapid pace on the work site. He
+Other workers viewed the situation a bit differently. An electrical sub-contractor who hadn’t been in the business very long showed
+more concern over the rapid pace on the work site. He
 
 See WORKERS, page 4
 
@@ -40,31 +50,47 @@ Phone system update: changes coming
 
 By MARIA DOUGLAS
 
-Students are experiencing some problems adapting to the new SouthernNet/Southern Bell ESSX phone system, adopted ostensibly to provide more convenient service to the Davidson College community.
+Students are experiencing some problems adapting to the new SouthernNet/Southern Bell ESSX phone system, adopted ostensibly to provide more convenient
+service to the Davidson College community.
 
-Bob Stephenson, Director of Administrative Services, said they are doing everything they can to address student concerns and iron out wrinkles in the system.
+Bob Stephenson, Director of Administrative Services, said they are doing everything they can to address student concerns and iron out
+wrinkles in the system.
 
-“We’re investigating a means of providing collect and credit card service,” Stephenson said. Stephenson met with SouthernNet representatives last week to discuss the possibility of adding those services to our current system. He is waiting to hear from the representatives on their findings.
+“We’re investigating a means of providing collect and credit card service,” Stephenson said. Stephenson met with SouthernNet representatives last week
+to discuss the possibility of adding those services to our current system. He is waiting to hear from the representatives
+on their findings.
 
-Major complaints include not being able to make credit card or collect calls because there is no access to an AT&T operator. A shortage of outgoing long distance lines during peak hours has also upset many students.
+Major complaints include not being able to make credit card or collect calls because there is no access to an
+AT&T operator. A shortage of outgoing long distance lines during peak hours has also upset many students.
 
-SouthernNet is the long-distance carrier now used by the college. ESSX is the switching system operated by Southern Bell. The two systems are separate.
+SouthernNet is the long-distance carrier now used by the college. ESSX is the switching system operated by Southern Bell. The
+two systems are separate.
 
-Stephenson said that when the college was shopping for a long distance carrier, the phone companies used a formula to determine how many lines were necessary to provide standard service. SouthernNet recommended one T1 circuit, equaling 24 lines.
+Stephenson said that when the college was shopping for a long distance carrier, the phone companies used a formula to
+determine how many lines were necessary to provide standard service. SouthernNet recommended one T1 circuit, equaling 24 lines.
 
-“The assumptions didn’t work out,” Stephenson said. Most problems occur during peak “traffic hours” between 9 p.m. and 9:30 p.m. and between 10 p.m. and 11:30 p.m.
+“The assumptions didn’t work out,” Stephenson said. Most problems occur during peak “traffic hours” between 9 p.m. and 9:30 p.m.
+and between 10 p.m. and 11:30 p.m.
 
 “We definitely will be ordering more lines,” Stephenson said. “SouthernNet has assured us they will expedite an order for us.”
 
-Stephenson said despite the problems, overall response has been favorable. Many students commented, “Overall, I think it’s worse,” said junior Katherine Kraemer. “It doesn’t offer as many pluses.” Kraemer said she thinks the system benefits the administration more than the students. “If they work out the problems, that’s fine with me.”
+Stephenson said despite the problems, overall response has been favorable. Many students commented, “Overall, I think it’s worse,” said junior
+Katherine Kraemer. “It doesn’t offer as many pluses.” Kraemer said she thinks the system benefits the administration more than the
+students. “If they work out the problems, that’s fine with me.”
 
-Stephenson said the main reason was to provide a service to the students. Now students don’t have to worry about getting phone service at the beginning of school because it is automatically provided.
+Stephenson said the main reason was to provide a service to the students. Now students don’t have to worry about
+getting phone service at the beginning of school because it is automatically provided.
 
-Students can dial other students on campus with four digits and reach administrative and faculty offices without having to go through the switchboard.
+Students can dial other students on campus with four digits and reach administrative and faculty offices without having to go
+through the switchboard.
 
-Also under investigation is the addition of long distance lines. Stephenson said they will be looking at whether it is more expensive to add single lines or installing another T1 circuit to handle the load.
+Also under investigation is the addition of long distance lines. Stephenson said they will be looking at whether it is
+more expensive to add single lines or installing another T1 circuit to handle the load.
 
-The system does benefit the administration in that calls do not have to be routed through the switchboard, saving time and expense. He explained that the system is the result of a study done last winter to determine if the college was better off using its own “switch” or using part of Southern Bell’s big “switch.” The study advocated using part of Southern Bell’s system for several reasons.
+The system does benefit the administration in that calls do not have to be routed through the switchboard, saving time
+and expense. He explained that the system is the result of a study done last winter to determine if the
+college was better off using its own “switch” or using part of Southern Bell’s big “switch.” The study advocated using
+part of Southern Bell’s system for several reasons.
 
 See PHONES, page 4
 

@@ -1,181 +1,197 @@
 A Survey about the Campus Computer
 
-Have you used the college’s computer this year? If so, what for? Are you aware of the things it can do, such as paper, letter, and lab-report typing as well as programming in several languages? These are just a few of the questions that came up at a meeting last week in which several students discussed the computing services currently available to them. The meeting was called in an attempt to bring to the surface ideas, suggestions, and criticisms that students have about the college’s new computer system. Most of the criticisms came in the form of requests that terminal room hours be extended at night and on weekends, and the system was praised for its word-processing capabilities. It was pointed out that the Computer Center staff needs to know more about how the average Davidson student feels about the computer in order to work towards providing better services.
+Have you used the college’s computer this year? If so, what for? Are you aware of the things it can
+do, such as paper, letter, and lab-report typing as well as programming in several languages? These are just a few
+of the questions that came up at a meeting last week in which several students discussed the computing services currently
+available to them. The meeting was called in an attempt to bring to the surface ideas, suggestions, and criticisms that
+students have about the college’s new computer system. Most of the criticisms came in the form of requests that terminal
+room hours be extended at night and on weekends, and the system was praised for its word-processing capabilities. It was
+pointed out that the Computer Center staff needs to know more about how the average Davidson student feels about the
+computer in order to work towards providing better services.
 
-The questionnaire here is being distributed this week in an effort to determine the general campus attitude toward the Computer Center and its facilities. It was drawn up by the students who met last week, and every student is requested to complete one. There will be envelopes on each dorm hall as well as in each eating house/fraternity, in the Union, the Commons, and the terminal rooms. In addition to the copies that will be distributed to each room on campus, you may use the copy provided here. We ask that every student, whether he or she uses the computer or not, please fill one out and return it to one of the collection envelopes by Friday, May 7. The results of the survey will provide the Computer Center with an up-to-date idea of what the campus attitude toward the computer is, helping them better serve the needs of everyone.
+The questionnaire here is being distributed this week in an effort to determine the general campus attitude toward the Computer
+Center and its facilities. It was drawn up by the students who met last week, and every student is requested
+to complete one. There will be envelopes on each dorm hall as well as in each eating house/fraternity, in the
+Union, the Commons, and the terminal rooms. In addition to the copies that will be distributed to each room on
+campus, you may use the copy provided here. We ask that every student, whether he or she uses the computer
+or not, please fill one out and return it to one of the collection envelopes by Friday, May 7. The
+results of the survey will provide the Computer Center with an up-to-date idea of what the campus attitude toward the
+computer is, helping them better serve the needs of everyone.
 
-You may circle more than one answer where appropriate. Please complete this survey only if you are a student. Thank you.
+You may circle more than one answer where appropriate. Please complete this survey only if you are a student. Thank
+you.
 
 1. Approximately how much do you use the computer each week?
-   [1] none (circle this only if you have never used the computer.)
-   [2] occasionally (less than one hour)
-   [3] frequently (one to five hours)
-   [4] very frequently (more than five hours)
+[1] none (circle this only if you have never used the computer.)
+[2] occasionally (less than one hour)
+[3] frequently (one to five hours)
+[4] very frequently (more than five hours)
 
 2. If you use the computer, how do you log in?
-   [1] personal UFD
-   [2] class UFD
-   [3] other
-   [4] I do not use the computer.
+[1] personal UFD
+[2] class UFD
+[3] other
+[4] I do not use the computer.
 
 3. If you do not use the computer, why?
-   [1] I do use it.
-   [2] I do not know how and do not know how to find out.
-   [3] I have no use for it.
-   [4] I just haven’t gotten around to it.
-   [5] other
+[1] I do use it.
+[2] I do not know how and do not know how to find out.
+[3] I have no use for it.
+[4] I just haven’t gotten around to it.
+[5] other
 
 4. Which of the following facilities of the computer have you used?
-   [1] EDITOR
-   [2] RUNOFF
-   [3] THESIS
-   [4] BASICV
-   [5] PASCAL
-   [6] FORTRAN
-   [7] COBOL
-   [8] PL/I
-   [9] Games
-   [10] SPSS
-   [11] Programs set up for use by specific classes
-   [12] Other (please specify)
-   [13] none (I do not use the computer.)
+[1] EDITOR
+[2] RUNOFF
+[3] THESIS
+[4] BASICV
+[5] PASCAL
+[6] FORTRAN
+[7] COBOL
+[8] PL/I
+[9] Games
+[10] SPSS
+[11] Programs set up for use by specific classes
+[12] Other (please specify)
+[13] none (I do not use the computer.)
 
 5. Which of the following facilities of the computer would you like to use but do not know how?
-   [1] EDITOR
-   [2] RUNOFF
-   [3] THESIS
-   [4] BASICV
-   [5] PASCAL
-   [6] FORTRAN
-   [7] COBOL
-   [8] PL/I
-   [9] Games
-   [10] SPSS
-   [11] Programs set up for specific classes
-   [12] Other (please specify)
-   [13] none of the above
+[1] EDITOR
+[2] RUNOFF
+[3] THESIS
+[4] BASICV
+[5] PASCAL
+[6] FORTRAN
+[7] COBOL
+[8] PL/I
+[9] Games
+[10] SPSS
+[11] Programs set up for specific classes
+[12] Other (please specify)
+[13] none of the above
 
 6. Which of the programs of the PUG directory have you used?
-   [1] none
-   [2] Proofreader
-   [3] Super/subscripting
-   [4] Games
-   [5] Linear regressionInstruction files
+[1] none
+[2] Proofreader
+[3] Super/subscripting
+[4] Games
+[5] Linear regressionInstruction files
 
 7. Have you attended one of the Computer Center’s workshops on EDITOR-RUNOFF?
-   [1] yes
-   [2] no, because I have not been aware of them
-   [3] no, for other reasons
+[1] yes
+[2] no, because I have not been aware of them
+[3] no, for other reasons
 
 8. Have you been disturbed by terminals in the library on the first floor?
-   [1] yes
-   [2] no
-   in the 24-hour study room?
-   [1] yes
-   [2] no
+[1] yes
+[2] no
+in the 24-hour study room?
+[1] yes
+[2] no
 
-9. The computer must be shut down for maintenance purposes for approximately 4 hours three times a week. When would you prefer that this be done?
-   [1] mornings
-   [2] noon
-   [3] afternoons
-   [4] evenings
-   [5] late at night
-   [6] no preference
+9. The computer must be shut down for maintenance purposes for approximately 4 hours three times a week. When would
+you prefer that this be done?
+[1] mornings
+[2] noon
+[3] afternoons
+[4] evenings
+[5] late at night
+[6] no preference
 
 10. Are the rules clear as to what constitutes an Honor Code offense with the computer?
-    [1] yes
-    [2] no
-    [3] I was not aware that the Honor Code applied to the computer
+[1] yes
+[2] no
+[3] I was not aware that the Honor Code applied to the computer
 
 11. Where do you do most of your work on the computer?
-    [1] Library
-    [2] Basement Chambers terminal room
-    [3] Computer Center terminal room
-    [4] Other
-    [5] I do not use the computer
+[1] Library
+[2] Basement Chambers terminal room
+[3] Computer Center terminal room
+[4] Other
+[5] I do not use the computer
 
 12. When do you do most of your work on the computer?
-    [1] 8-10 am
-    [2] 10 am-noon
-    [3] noon-2 pm
-    [4] 2-4 pm
-    [5] 4-6 pm
-    [6] 6-9 pm
-    [7] 9-11 pm
-    [8] between 11 pm and 8 am
-    [9] weekends
-    [10] I do not use the computer
+[1] 8-10 am
+[2] 10 am-noon
+[3] noon-2 pm
+[4] 2-4 pm
+[5] 4-6 pm
+[6] 6-9 pm
+[7] 9-11 pm
+[8] between 11 pm and 8 am
+[9] weekends
+[10] I do not use the computer
 
 13. Do you use the computer primarily for
-    [1] academic work (programs and/or papers)
-    [2] other
-    [3] I have not used the computer
+[1] academic work (programs and/or papers)
+[2] other
+[3] I have not used the computer
 
 14. Are you aware of any problems with anyone violating the security of your UFD?
-    [1] yes
-    [2] no
-    [3] I do not have a UFD
+[1] yes
+[2] no
+[3] I do not have a UFD
 
 15. How have you found the Computer Center staff to be?
-    [1] helpful and accessible
-    [2] adequate
-    [3] unhelpful or inaccessible
-    [4] no opinion
+[1] helpful and accessible
+[2] adequate
+[3] unhelpful or inaccessible
+[4] no opinion
 
 16. How have you found the terminal room work-study students to be?
-    [1] willing and able to help
-    [2] adequate
-    [3] unwilling or unable to help
-    [4] no opinion
+[1] willing and able to help
+[2] adequate
+[3] unwilling or unable to help
+[4] no opinion
 
 17. Have you ever been unable to get a game-player to relinquish a terminal so that you could work?
-    [1] yes
-    [2] no
-    [3] I was unaware that I had the right to ask him/her to leave
+[1] yes
+[2] no
+[3] I was unaware that I had the right to ask him/her to leave
 
 18. Have there been times when you needed a terminal but all were taken?
-    [1] no, never
-    [2] yes, once or twice
-    [3] yes, several times
-    [4] yes, frequently
+[1] no, never
+[2] yes, once or twice
+[3] yes, several times
+[4] yes, frequently
 
 19. Should terminal room hours be
-    [1] left as they are
-    [2] extended in the evening
-    [3] extended on weekends
-    [4] extended to 24 hours/day
+[1] left as they are
+[2] extended in the evening
+[3] extended on weekends
+[4] extended to 24 hours/day
 
 20. Where should terminals be placed?
-    [1] Computer Center
-    [2] Chambers terminal room
-    [3] Chambers (various departments)
-    [4] Library
-    [5] Dorms
-    [6] Union
-    [7] Martin Chemistry Building
-    [8] Dana Science Building
-    [9] Cunningham Fine Arts Building
-    [10] Center for Special Studies
-    [11] Eu and Phi Halls
-    [12] Jackson Court
-    [13] other (please specify)
+[1] Computer Center
+[2] Chambers terminal room
+[3] Chambers (various departments)
+[4] Library
+[5] Dorms
+[6] Union
+[7] Martin Chemistry Building
+[8] Dana Science Building
+[9] Cunningham Fine Arts Building
+[10] Center for Special Studies
+[11] Eu and Phi Halls
+[12] Jackson Court
+[13] other (please specify)
 
 21. Which terminals have you found adequate for your needs?
-    [1] VTSO (old ones, only uppercase type)
-    [2] ADM (small brown ones)
-    [3] ADDS (large white and grey, like the ones on the first floor of the library)
-    [4] Decwriter (typewriter in Martin Chem. Building)
-    [5] no opinion
+[1] VTSO (old ones, only uppercase type)
+[2] ADM (small brown ones)
+[3] ADDS (large white and grey, like the ones on the first floor of the library)
+[4] Decwriter (typewriter in Martin Chem. Building)
+[5] no opinion
 
 22. To which pieces of equipment do you need more access?
-    [1] terminals
-    [2] regular printers (like Data and TRI)
-    [3] letter quality printers (like Thesis)
-    [4] none
+[1] terminals
+[2] regular printers (like Data and TRI)
+[3] letter quality printers (like Thesis)
+[4] none
 
 23. Do you feel it was wise for the college to invest in this computer?
-    [1] yes
-    [2] no
-    [3] no opinion
+[1] yes
+[2] no
+[3] no opinion
 
 DAVIDSONIAN / Friday 30 April 1982

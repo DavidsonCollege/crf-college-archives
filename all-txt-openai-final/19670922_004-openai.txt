@@ -164,16 +164,16 @@ Morton Chiles .......... C209
 Doug Clark .......... E104
 Chip Clark .......... L402
 Roger Clark .......... E208
-William W. Clark .......... 
-Andy Clay .......... 
+William W. Clark ..........
+Andy Clay ..........
 Tom Clayton .......... E205
 Tom Earnhardt .......... D12
 Herb Clegg .......... E401
 David Eason .......... W403
 David Robert Clemmons .......... R107
 Larry Eckman .......... D8
-Cecil Clifton .......... 
-Deno Economou .......... 
+Cecil Clifton ..........
+Deno Economou ..........
 
 THE ELK’S RESTAURANT
 The Most Enjoyable Atmosphere in the Central Carolinas
@@ -287,19 +287,19 @@ David Andrew Fisher .......... B275
 Phil Croy .......... C404
 Paul Fisher .......... C301
 Jack Crumbley .......... R399
-William S. Fisher .......... 
+William S. Fisher ..........
 Wayne Crumwell .......... D18
-Mike Fitzpatrick .......... 
+Mike Fitzpatrick ..........
 Mike Culbreth .......... B316
-Frank Fleming .......... 
+Frank Fleming ..........
 Craig Culp .......... B255
-Mike D. Flemming .......... 
+Mike D. Flemming ..........
 Robert Cunningham .......... JYA
-G. Yates Fletcher .......... 
+G. Yates Fletcher ..........
 Jim Curtis .......... B155
-John B. Flowers .......... 
+John B. Flowers ..........
 Scott Cutting .......... C212
-Larry Flynn .......... 
+Larry Flynn ..........
 Robert Folger .......... C114
 Keaton Fonvielle .......... OFF
 
@@ -388,31 +388,113 @@ Blake Goslen .......... B45
 Dale Durham .......... B108
 Robert Gottfried .......... B166
 John Durham .......... C212
-Frederick Gourdin .......... C1 Roger Duttweiler — L408 | Bob Grady — SYA | Roger Duvall — R301 | George Graff — W311 | Dan Graham — B368 | Bill Graham — L408 | Tom Graves — L306 | William Eaker | Joseph Bruce Cabanas — C411 | Charles Eakes | Jack Caldwell — E302 | George Ealy | Lawrence C. Caldwell — L308 | Gene Early — W104 | John Edward Gray — OFF | Frank Gray — B322 | Chuck Green — R405 | Walter Greene — R206 | Harvey Jackson — R404 | Jack Jackson — L405 | Mike Jacob — E310 | Jack Jacobs — C414 | George Jacobsen — OFF | Fred James — B164 | Jay James | Alan Jasper | Dick Jenkins | David Jennings | Tom Jeter | George Johnson | Mike Johnson — L302 | Robert A. Johnson — W208 | Robert M. Johnson — D131 | Sam Johnson — JYA | William Johnson — B372 | Shep Johnston — L102 | Calvin Jones | Davis Jones | George Jones | Joe Jones | Lawrence Jones | Philip Jones — SYA | Fred Kastner — B268 | Tom Kastner — D124 | Charles Katz — C202 | Joe Kearfott — JYA | Kerry Keith | Michael Kelly | Stuart Kennedy | Reif Kessler | Joel Keys | Joe Kilpatrick | David King | Doug King | Bobby King | Duane Kirkman | Alan Kirkpatrick — C313 | Stephen Kirley — C | Frank Kirtley — E105 | Tom Kirtley — R306 | Steve Klein — B277 | Athley Kline — B374 | Rodney Knowles — R104 | Ed Kopp — B262 | Rob Krehbiel — C414 | Gerald Kroll — B207 | Ray Kyftle — L104
+Frederick Gourdin .......... C1 Roger Duttweiler — L408 | Bob Grady — SYA | Roger Duvall — R301 | George
+Graff — W311 | Dan Graham — B368 | Bill Graham — L408 | Tom Graves — L306 | William
+Eaker | Joseph Bruce Cabanas — C411 | Charles Eakes | Jack Caldwell — E302 | George Ealy | Lawrence
+C. Caldwell — L308 | Gene Early — W104 | John Edward Gray — OFF | Frank Gray — B322
+| Chuck Green — R405 | Walter Greene — R206 | Harvey Jackson — R404 | Jack Jackson — L405
+| Mike Jacob — E310 | Jack Jacobs — C414 | George Jacobsen — OFF | Fred James — B164
+| Jay James | Alan Jasper | Dick Jenkins | David Jennings | Tom Jeter | George Johnson | Mike
+Johnson — L302 | Robert A. Johnson — W208 | Robert M. Johnson — D131 | Sam Johnson — JYA
+| William Johnson — B372 | Shep Johnston — L102 | Calvin Jones | Davis Jones | George Jones |
+Joe Jones | Lawrence Jones | Philip Jones — SYA | Fred Kastner — B268 | Tom Kastner — D124
+| Charles Katz — C202 | Joe Kearfott — JYA | Kerry Keith | Michael Kelly | Stuart Kennedy |
+Reif Kessler | Joel Keys | Joe Kilpatrick | David King | Doug King | Bobby King | Duane Kirkman
+| Alan Kirkpatrick — C313 | Stephen Kirley — C | Frank Kirtley — E105 | Tom Kirtley — R306
+| Steve Klein — B277 | Athley Kline — B374 | Rodney Knowles — R104 | Ed Kopp — B262
+| Rob Krehbiel — C414 | Gerald Kroll — B207 | Ray Kyftle — L104
 
 —L—
-Rusty Lacy — L406 | John Lamar — C14 | John Lambert — R215 | Bobby Lane — L210 | Roy Lane — W301 | Bobby Lanier — D236 | Tom Hart | Joe Lansinger — B223 | Fletcher Hartsell — B360 | Mike LaPlante — JYA | Sam Hatcher — D16 | Berkley Latimer — JYA | Rick Hawarah — E209 | Lewis Lavine — B312 | Jimmy Hawkins — C210 | Rusty Lawrence — C304 | Bill Hawkins — C411 | Daniel F. Layman Jr. — D136 | Edward Hay — C192 | Raymond B. Ledford — OFF | Steve Hayes — B354 | James Reilly Lee — B118 | Ken Hayes — B251 | Steve Lee — B417 | Doug Haynes — C207 | George Leight — D135 | Louis Hazet — OFF | Bugs Lester — E106 | Bill Hearn — W208 | Allen Lewis — B64 | Dan Hearon — L203 | John Lientz — B314 | Ted Heefner | John Liipfert — DING | Frank Heiner — B35 | Davis Hudson Liles — R213 | Steven Hemphill — E114 | Dick Lindsey — L209 | Gary Hemric — L311 | Stan Link — L202 | Tommy Hendren — B101 | Richard Loeble — B310 | Gary Henschen — P133 | Ray Logan — R308 | Dan Herd — B329 | Jim Long (Soph.) — B07 | David Herring — B364 | Jim Long (Fr.) — W302 | Nat Heyward — L403 | Jeff Loughridge — E301 | Doug Hickman — C403 | Reaves Louthan — C209 | Vonnie Hicks — OFF | Robert E. Love — L201 | Harrison Higgins — C399 | Tad Lowdermilk — B27 | Larry High — OFF | Fred Lowrance — R317 | George Ludwig — D3 | Lyon Himes — B274 | Peter Lutken — W304 | Arnie Hindin — B173 | Jimmy Luton — E208 | Sam Hines — D136 | Rick Lyon — E409 | Jimmy Hinshaw — B105
+Rusty Lacy — L406 | John Lamar — C14 | John Lambert — R215 | Bobby Lane — L210 |
+Roy Lane — W301 | Bobby Lanier — D236 | Tom Hart | Joe Lansinger — B223 | Fletcher Hartsell
+— B360 | Mike LaPlante — JYA | Sam Hatcher — D16 | Berkley Latimer — JYA | Rick Hawarah
+— E209 | Lewis Lavine — B312 | Jimmy Hawkins — C210 | Rusty Lawrence — C304 | Bill Hawkins
+— C411 | Daniel F. Layman Jr. — D136 | Edward Hay — C192 | Raymond B. Ledford — OFF
+| Steve Hayes — B354 | James Reilly Lee — B118 | Ken Hayes — B251 | Steve Lee —
+B417 | Doug Haynes — C207 | George Leight — D135 | Louis Hazet — OFF | Bugs Lester —
+E106 | Bill Hearn — W208 | Allen Lewis — B64 | Dan Hearon — L203 | John Lientz —
+B314 | Ted Heefner | John Liipfert — DING | Frank Heiner — B35 | Davis Hudson Liles — R213
+| Steven Hemphill — E114 | Dick Lindsey — L209 | Gary Hemric — L311 | Stan Link — L202
+| Tommy Hendren — B101 | Richard Loeble — B310 | Gary Henschen — P133 | Ray Logan — R308
+| Dan Herd — B329 | Jim Long (Soph.) — B07 | David Herring — B364 | Jim Long (Fr.)
+— W302 | Nat Heyward — L403 | Jeff Loughridge — E301 | Doug Hickman — C403 | Reaves Louthan
+— C209 | Vonnie Hicks — OFF | Robert E. Love — L201 | Harrison Higgins — C399 | Tad
+Lowdermilk — B27 | Larry High — OFF | Fred Lowrance — R317 | George Ludwig — D3 | Lyon
+Himes — B274 | Peter Lutken — W304 | Arnie Hindin — B173 | Jimmy Luton — E208 | Sam
+Hines — D136 | Rick Lyon — E409 | Jimmy Hinshaw — B105
 
 —Mc—
-Richard Hinson — E313 | Jim McAdams — B226 | Carey Hite — B276 | John McCammon — C308 | Peter Hobbie — B206 | Tim McCaulay — W306 | Mac Hobby — B324 | Dave McClintock — R01 | Tate Holbrook — E309 | Sean McCormick | C. R. Holcomb — R115 | Mackey McDonald — OFF | Locke Holland — OFF | Jim McDowell — B327 | Wendell Holmes — B323 | Charles McEwen — R401 | Lew Homer — L202 | Jack McGeachy — B301 | Mike Hood — E406 | Joseph A. McGlothlin — L212 | Robbie Hooker — R315 | Graham McGoogan — C108 | Ted Horne — R114 | Al McGraw | Bill Horton — B107 | Dave McInnis — OFF | Judson McKellar — W106 | George House — L412 | Bob McKellar — L305 | Jim Hovis | Cader Howard | Richard Howard — C302 | John McKenzie — D224 | Bill McKenzie Jr. — E309 | James McLain — R409 | Bob Howard — W102 | James F. McLaughlin — D2 | Steve Howe — L102 | Bryce McLaughlin — B454 | Rob Hoy — C410 | Danny McLawhorn — B374 | Don Hoyt — B255 | Joel McLawhorn — W210 | Dave Hubbard — L404 | Barry MacLean — W221 | Wayne Huckel — L412 | James MacLeod — B454 | Chris Hudgins — OFF | Jim McMillan — OFF | Colin Hudson — R311 | Steve McNabb — C213 | Jim Hudson — E102 | Jim MacNair — R301 | John Huggins — B176 | Sam McNeely — B325 | Vance Hughes — R110 | Duncan McRae — R207 | Joe Hughes — B157 | Bill McWilliams — R415 | Ned Hulbert — E405 | Steve Humphrey — D114
+Richard Hinson — E313 | Jim McAdams — B226 | Carey Hite — B276 | John McCammon — C308 |
+Peter Hobbie — B206 | Tim McCaulay — W306 | Mac Hobby — B324 | Dave McClintock — R01 |
+Tate Holbrook — E309 | Sean McCormick | C. R. Holcomb — R115 | Mackey McDonald — OFF | Locke
+Holland — OFF | Jim McDowell — B327 | Wendell Holmes — B323 | Charles McEwen — R401 | Lew
+Homer — L202 | Jack McGeachy — B301 | Mike Hood — E406 | Joseph A. McGlothlin — L212 |
+Robbie Hooker — R315 | Graham McGoogan — C108 | Ted Horne — R114 | Al McGraw | Bill Horton
+— B107 | Dave McInnis — OFF | Judson McKellar — W106 | George House — L412 | Bob McKellar
+— L305 | Jim Hovis | Cader Howard | Richard Howard — C302 | John McKenzie — D224 | Bill
+McKenzie Jr. — E309 | James McLain — R409 | Bob Howard — W102 | James F. McLaughlin — D2
+| Steve Howe — L102 | Bryce McLaughlin — B454 | Rob Hoy — C410 | Danny McLawhorn — B374
+| Don Hoyt — B255 | Joel McLawhorn — W210 | Dave Hubbard — L404 | Barry MacLean — W221
+| Wayne Huckel — L412 | James MacLeod — B454 | Chris Hudgins — OFF | Jim McMillan — OFF
+| Colin Hudson — R311 | Steve McNabb — C213 | Jim Hudson — E102 | Jim MacNair — R301
+| John Huggins — B176 | Sam McNeely — B325 | Vance Hughes — R110 | Duncan McRae — R207
+| Joe Hughes — B157 | Bill McWilliams — R415 | Ned Hulbert — E405 | Steve Humphrey — D114
 
 —M—
-Ron Hunt — C310 | John Hunter — D131 | John Edward Mack — B223 | Will Hunter | Mike Maloy — B229 | Norman Hurwitz — B224 | Windy March — E202 | Todd Hutton | Lewin — B04 | Hugh Marr — L410 | Henry Marrow — E203 | Jim Marrow — L110 | Ben Martin — B410 | Mamoru Ikeda — B212 | Neal Martin — R101 | Pierce Irby — B170 | Richard T. Martin — OFF | Bob Irons — L208 | John Mason — OFF | Tom Irons — OFF | Gray Mason — C312 | Norihiko Ishakawa — B453 | David Matthews — B253 | Hal Iverson — W401 | Glen Mauney — C314 | Rudy Mauney | King Mawhinney | Tom Maxwell | Jim May | Mike May | Bob Meadows | Bob Meek | Chuck Mendenhall | Dave Mensel | Roger Mercer | Rusty Mickler | Mike Mikolayunas | Richard Mildner | Jim Milholland | Terry Millar | Bayard Miller | Garth Miller | John Miller | Roger Mills | Bill Mills | Michael Milton | Nelson Missbach | John Mize | Michael Moats | David Mockebee | Jimmy Monroe | Lyn Montague | Ben Moore | John Moore | John Moore (Fr.) | Luther Moore | Mike Mooty | Jim Morawetz | Tupper Morehead | William Moretz | Tom Morrill | Dick Morrison | David Morrow | Whit Morrow
+Ron Hunt — C310 | John Hunter — D131 | John Edward Mack — B223 | Will Hunter | Mike
+Maloy — B229 | Norman Hurwitz — B224 | Windy March — E202 | Todd Hutton | Lewin — B04
+| Hugh Marr — L410 | Henry Marrow — E203 | Jim Marrow — L110 | Ben Martin — B410
+| Mamoru Ikeda — B212 | Neal Martin — R101 | Pierce Irby — B170 | Richard T. Martin —
+OFF | Bob Irons — L208 | John Mason — OFF | Tom Irons — OFF | Gray Mason —
+C312 | Norihiko Ishakawa — B453 | David Matthews — B253 | Hal Iverson — W401 | Glen Mauney —
+C314 | Rudy Mauney | King Mawhinney | Tom Maxwell | Jim May | Mike May | Bob Meadows |
+Bob Meek | Chuck Mendenhall | Dave Mensel | Roger Mercer | Rusty Mickler | Mike Mikolayunas | Richard Mildner
+| Jim Milholland | Terry Millar | Bayard Miller | Garth Miller | John Miller | Roger Mills | Bill
+Mills | Michael Milton | Nelson Missbach | John Mize | Michael Moats | David Mockebee | Jimmy Monroe |
+Lyn Montague | Ben Moore | John Moore | John Moore (Fr.) | Luther Moore | Mike Mooty | Jim
+Morawetz | Tupper Morehead | William Moretz | Tom Morrill | Dick Morrison | David Morrow | Whit Morrow
 
 —N—
-John Morse | Dave Moser | George Moskos — B209 | Bill Moye — W405 | Ted Mullen — B28 | Pat Mullen — W207 | Calvin Murphy — B51 | Leigh Murphy — W2 | Joseph Murphy — L410 | Frank Murphy — B354 | Robin Murray — B208 | Robert Myers — R205 | John Napier — L311 | Richard Neeley — B373 | Lindsay Neill — C105 | Alex Neisler — R406 | Kim Nelson — R402 | Bill New — E207 | Tom Newberry — L107 | Stagg Newman — B206 | Crighton Newsom — L105 | Steve Newsome — OFF | Charles Newton | Jim Newton — E203 | Garrel Nicholson — B124 | Clark Nickerson — B314 | Bob Niebauer — E303 | Steve Nipe — C203 | George Nixon — L110 | Carl Nordstrom — C203 | Larry Norfleet — D122 | Bob Norfleet — W201 | Joseph Norton — R407 | Peter Norton — B360 | Thomas Norwood — B126
+John Morse | Dave Moser | George Moskos — B209 | Bill Moye — W405 | Ted Mullen — B28
+| Pat Mullen — W207 | Calvin Murphy — B51 | Leigh Murphy — W2 | Joseph Murphy — L410
+| Frank Murphy — B354 | Robin Murray — B208 | Robert Myers — R205 | John Napier — L311
+| Richard Neeley — B373 | Lindsay Neill — C105 | Alex Neisler — R406 | Kim Nelson — R402
+| Bill New — E207 | Tom Newberry — L107 | Stagg Newman — B206 | Crighton Newsom — L105
+| Steve Newsome — OFF | Charles Newton | Jim Newton — E203 | Garrel Nicholson — B124 | Clark
+Nickerson — B314 | Bob Niebauer — E303 | Steve Nipe — C203 | George Nixon — L110 | Carl
+Nordstrom — C203 | Larry Norfleet — D122 | Bob Norfleet — W201 | Joseph Norton — R407 | Peter
+Norton — B360 | Thomas Norwood — B126
 
 —O—
-Tim O'Brien — R05 | Vernon Odom — B375 | William Oelrich — R111 | Pat Oglesby — JYA | John Oliver — B12 | Bill Olson — OFF | Mike O'Neill — L104 | Keith Onsdorff — W407 | Tom Opie — E204 | Anthony Orsbon | Ronald Outen — B408 | Allan Oxman | Charles Page — E408 | Ed Page — B204 | Mike Page — B303 | Stephen Page — L312 | John Pancake — R307 | Kern Parker — B466 | Harry Parker — R413 | Walter Parkhurst — B306 | Charlie Parks — E21 | James Parks — CA | Lyman Parrigin — E412 | Grey Pash — B451 | John Passmore — R408 | Larry Patrick — E408 | Cliff Patterson — B353 | Pat Patton — B410 | Mike Payne — R313 | Bill Pearsall — E412 | Tim Peddierd — B417 | Bob Peel — R309 | Gary Peklo — R114 | Michael Peltenberg — R312 | George Penick | Charles Perry | Bo Perry | Richard Perryman | Bryan Peterson | Roger Peterson | Jeff Pflugner | Raleigh Phillips — ETA | Randy Phillips | Tommy Phillips | Andrew Pickens | Bob Pickens | William Pierce | Bryan Pitman | Paul Pitts | Jeff Planer | Norwood Poland | Jimmy Poole | Dick Poole | Thomas Pope | Duncan Postma | Jan Postma | Tom Poston | Frank Powell | Mike Powell | Rob Powell | Roger Powell | Tom Powell | Theo Powell | Glenn Praay | Ken Prestwich | Julian Prosser | Bob Pryor | James Puckett | John Puckett — B326 | Terrell Pulliam | George Purvis — R306 | Robert Pyeatt — R312
+Tim O'Brien — R05 | Vernon Odom — B375 | William Oelrich — R111 | Pat Oglesby — JYA |
+John Oliver — B12 | Bill Olson — OFF | Mike O'Neill — L104 | Keith Onsdorff — W407 |
+Tom Opie — E204 | Anthony Orsbon | Ronald Outen — B408 | Allan Oxman | Charles Page — E408
+| Ed Page — B204 | Mike Page — B303 | Stephen Page — L312 | John Pancake — R307
+| Kern Parker — B466 | Harry Parker — R413 | Walter Parkhurst — B306 | Charlie Parks — E21
+| James Parks — CA | Lyman Parrigin — E412 | Grey Pash — B451 | John Passmore — R408
+| Larry Patrick — E408 | Cliff Patterson — B353 | Pat Patton — B410 | Mike Payne — R313
+| Bill Pearsall — E412 | Tim Peddierd — B417 | Bob Peel — R309 | Gary Peklo — R114
+| Michael Peltenberg — R312 | George Penick | Charles Perry | Bo Perry | Richard Perryman | Bryan Peterson
+| Roger Peterson | Jeff Pflugner | Raleigh Phillips — ETA | Randy Phillips | Tommy Phillips | Andrew Pickens
+| Bob Pickens | William Pierce | Bryan Pitman | Paul Pitts | Jeff Planer | Norwood Poland | Jimmy
+Poole | Dick Poole | Thomas Pope | Duncan Postma | Jan Postma | Tom Poston | Frank Powell |
+Mike Powell | Rob Powell | Roger Powell | Tom Powell | Theo Powell | Glenn Praay | Ken Prestwich
+| Julian Prosser | Bob Pryor | James Puckett | John Puckett — B326 | Terrell Pulliam | George Purvis
+— R306 | Robert Pyeatt — R312
 
 —R—
-Frank Rader — W303 | Charlie Ralston — E214 | Richard Ramseur — W104 | Sam Rankin | Tom Rannick | Andy Ratchford — R210 | Teddy Ravenel — E306 | Will Ravenel — C106 | Phil Ray — TVA | Mike Read — E211 | Mackey Reavis — B55 | Pat Reed | Kirk Reed | Bill Reeves | Bob Reid | Jim Reinoehl — B308 | John Reisner — B309 | Harrell Rentz — B104 | Norm Rentz — R215 | Neal Reynolds — OFF | Kent Rhodes
+Frank Rader — W303 | Charlie Ralston — E214 | Richard Ramseur — W104 | Sam Rankin | Tom Rannick
+| Andy Ratchford — R210 | Teddy Ravenel — E306 | Will Ravenel — C106 | Phil Ray — TVA
+| Mike Read — E211 | Mackey Reavis — B55 | Pat Reed | Kirk Reed | Bill Reeves |
+Bob Reid | Jim Reinoehl — B308 | John Reisner — B309 | Harrell Rentz — B104 | Norm Rentz
+— R215 | Neal Reynolds — OFF | Kent Rhodes
 
 VILLAGE STORE
 Davidson, N. C.
 
 Alan Paine "SHERWOOD" Sweater
-This fabulous new four-ply super-lambswool has a luxurious, full handle plus wonderful wearing ability. It features the English saddle shoulder specially designed by Alan Paine. A truly outstanding sweater. Sizes 38-46, in exclusive Alan Paine colors.
+This fabulous new four-ply super-lambswool has a luxurious, full handle plus wonderful wearing ability. It features the English saddle shoulder
+specially designed by Alan Paine. A truly outstanding sweater. Sizes 38-46, in exclusive Alan Paine colors.
 
 Bush Wilson, Ltd.
 Davidson, N. C.

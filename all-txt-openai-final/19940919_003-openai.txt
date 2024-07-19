@@ -9,25 +9,38 @@ Some students unhappy about loss of some well-liked features
 
 By Jeff Fuller
 
-Returning students who “logged in” to their computers for the first time this year were surprised to discover that their old passwords no longer worked. Computer Services installed a new VAX system, entitled Pollux, to replace the eight-year-old Apollo system. As a result of this new system, Internet e-mail addresses changed as well. Mail sent to old addresses will be forwarded.
+Returning students who “logged in” to their computers for the first time this year were surprised to discover that their
+old passwords no longer worked. Computer Services installed a new VAX system, entitled Pollux, to replace the eight-year-old Apollo system.
+As a result of this new system, Internet e-mail addresses changed as well. Mail sent to old addresses will be
+forwarded.
 
-Many students were bewildered by the changes and wondered what had happened to the old Apollo system. One student expressed his dismay by suggesting that the new Pollux system sounds like “some kind of disease.”
+Many students were bewildered by the changes and wondered what had happened to the old Apollo system. One student expressed
+his dismay by suggesting that the new Pollux system sounds like “some kind of disease.”
 
-Sophomore VAX user Thomas Wang says, “I’m not frustrated, but I don’t see the point in changing.” Wang adds that he believes many other students do not understand why these changes took place.
+Sophomore VAX user Thomas Wang says, “I’m not frustrated, but I don’t see the point in changing.” Wang adds that
+he believes many other students do not understand why these changes took place.
 
-Lydia Lorenzin, Coordinator of Academic Facilities and Service, explains the changes: “Six years is a lifetime for a computer.” Last year, a decline in performance was observed on Apollo, largely due to the increasing number of users and the inability of the system to support the excessive use. Sometimes it took as much as five minutes to log into the system.
+Lydia Lorenzin, Coordinator of Academic Facilities and Service, explains the changes: “Six years is a lifetime for a computer.” Last
+year, a decline in performance was observed on Apollo, largely due to the increasing number of users and the inability
+of the system to support the excessive use. Sometimes it took as much as five minutes to log into the
+system.
 
-To remedy this problem, Lorenzin explains that two new VAX systems were installed. One system, called Castor, will be used for statistics classes. The other, Pollux, is for general use.
+To remedy this problem, Lorenzin explains that two new VAX systems were installed. One system, called Castor, will be used
+for statistics classes. The other, Pollux, is for general use.
 
 The new systems are 25 times faster than Apollo. “We were straining Apollo to its max before,” says Lorenzin.
 
-Wang’s primary complaint about the new system is the absence of a “send” command. This was a popular command on the old system which allowed students to flash a quick message on others’ screens without sending a whole e-mail message.
+Wang’s primary complaint about the new system is the absence of a “send” command. This was a popular command on
+the old system which allowed students to flash a quick message on others’ screens without sending a whole e-mail message.
 
-Due to complaints, Lorenzin looked into getting the “send” command back; however, she says that it would be a tremendous expense for that one command.
+Due to complaints, Lorenzin looked into getting the “send” command back; however, she says that it would be a tremendous
+expense for that one command.
 
-Lorenzin explains that the installation of the “send” command in Pollux would require new software. The operating system was changed from VMS to Open VMS and the network operating system was changed from Pathworks 4.0 to Pathworks 5.
+Lorenzin explains that the installation of the “send” command in Pollux would require new software. The operating system was changed
+from VMS to Open VMS and the network operating system was changed from Pathworks 4.0 to Pathworks 5.
 
-One computer help desk attendant says, “From my point of view as a help desk worker, it has been a pain as well as a blessing... I think with any new computer you’re going to have bugs.”
+One computer help desk attendant says, “From my point of view as a help desk worker, it has been a
+pain as well as a blessing... I think with any new computer you’re going to have bugs.”
 
 Photo by Brooke McRae
 
@@ -39,29 +52,42 @@ Cable Wells, from page 1
 
 factors in their decision to attend Davidson.
 
-Sophomore Ann Hatfield remembers that her interview was extremely important to her. “The interview shows that Davidson really cares about individuality and that they have time for everyone. I’m not sure if it affected my admission, but it was really influential to me.”
+Sophomore Ann Hatfield remembers that her interview was extremely important to her. “The interview shows that Davidson really cares about
+individuality and that they have time for everyone. I’m not sure if it affected my admission, but it was really
+influential to me.”
 
-Prospective student Eric Wittlake was disappointed to discover the new policy: “I feel like an interview would increase my chances of getting in.”
+Prospective student Eric Wittlake was disappointed to discover the new policy: “I feel like an interview would increase my chances
+of getting in.”
 
 The Logistics of it all
 
-Nancy Cable Wells, Dean of Admissions, says that interviews for all applicants are not possible. The amount of visitors has gone up by 80%, but the size of the admissions staff has not increased.
+Nancy Cable Wells, Dean of Admissions, says that interviews for all applicants are not possible. The amount of visitors has
+gone up by 80%, but the size of the admissions staff has not increased.
 
-She also says that most visitors come during the spring and fall, the busiest times for counselors. In the fall they are traveling to various high schools around the world, and in the spring they are overloaded with applications.
+She also says that most visitors come during the spring and fall, the busiest times for counselors. In the fall
+they are traveling to various high schools around the world, and in the spring they are overloaded with applications.
 
 Why the changes?
 
-Many colleges have converted to this small information session method. Cable Wells thinks that interviews are not the best way to evaluate students. Comparing the interview process to the SAT, she says that students often come in nervous and don’t present themselves to their full potential.
+Many colleges have converted to this small information session method. Cable Wells thinks that interviews are not the best way
+to evaluate students. Comparing the interview process to the SAT, she says that students often come in nervous and don’t
+present themselves to their full potential.
 
-In addition, many students cannot afford to travel to Davidson. The admissions office doesn’t want to put any restrictions on those who are unable to make it to the campus.
+In addition, many students cannot afford to travel to Davidson. The admissions office doesn’t want to put any restrictions on
+those who are unable to make it to the campus.
 
 Other Ways to get Acquainted with Davidson
 
-Leonard Satterwhite, Senior Associate Dean of Admissions and Financial Aid, encourages prospectives to get acquainted with the school in other ways. “They need to be out meeting faculty and students instead of sitting in a room with an admissions counselor. We are trying to get the emphasis off the interview. There are all sorts of ways to get connected with Davidson.”
+Leonard Satterwhite, Senior Associate Dean of Admissions and Financial Aid, encourages prospectives to get acquainted with the school in other
+ways. “They need to be out meeting faculty and students instead of sitting in a room with an admissions counselor.
+We are trying to get the emphasis off the interview. There are all sorts of ways to get connected with
+Davidson.”
 
-Cable Wells cites student letters, Discover Davidson, and alumnae interviews around the country as other ways to become familiar with the college.
+Cable Wells cites student letters, Discover Davidson, and alumnae interviews around the country as other ways to become familiar with
+the college.
 
-Satterwhite says: “If a student feels a pressing reason to have an individual conversation, then we can accommodate that.” Cable Wells agrees: “We won't turn anybody away.”
+Satterwhite says: “If a student feels a pressing reason to have an individual conversation, then we can accommodate that.” Cable
+Wells agrees: “We won't turn anybody away.”
 
 "Clothes Make the Man... Naked People Have Little or No Influence on Society” Mark Twain
 

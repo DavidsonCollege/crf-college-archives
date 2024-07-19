@@ -4,19 +4,42 @@ Here is the cleaned OCR text, preserving the original meaning and punctuation:
 
 Video games: Students plug in to hi-tech toys
 
-A galaxy holds its breath as one courageous adventurer, having circumvented various blasts, bombs, lasers, and fireballs, prepares to encounter the enemy flagship — the last bastion of the invading robot hordes. Has Luke Skywalker so soon resumed his cinematic exploits? Or has Lorne Greene given up dog food and health insurance to continue his quest for Earth? The truth of the matter is that Mike H., on his nightly peregrination to the 900 Room, has stopped in the game room to challenge once more the forces of the Gorfian Empire.
+A galaxy holds its breath as one courageous adventurer, having circumvented various blasts, bombs, lasers, and fireballs, prepares to encounter
+the enemy flagship — the last bastion of the invading robot hordes. Has Luke Skywalker so soon resumed his cinematic
+exploits? Or has Lorne Greene given up dog food and health insurance to continue his quest for Earth? The truth
+of the matter is that Mike H., on his nightly peregrination to the 900 Room, has stopped in the game
+room to challenge once more the forces of the Gorfian Empire.
 
-Gorf represents a relatively recent phenomenon — the video game, a source of profit for its producers and a pastime for its patrons. Games like Space Invaders, Asteroids, and Pac-Man may seem firmly entrenched, but it was a mere eight years ago that Atari’s Pong introduced the revolutionary new type of game to the American public. Since then, video games — computer programs designed for amusement — have largely replaced pinball machines and claim a wider and more devoted following than their more mechanical forebearers could even muster.
+Gorf represents a relatively recent phenomenon — the video game, a source of profit for its producers and a pastime
+for its patrons. Games like Space Invaders, Asteroids, and Pac-Man may seem firmly entrenched, but it was a mere eight
+years ago that Atari’s Pong introduced the revolutionary new type of game to the American public. Since then, video games
+— computer programs designed for amusement — have largely replaced pinball machines and claim a wider and more devoted following
+than their more mechanical forebearers could even muster.
 
-In the Union game room, the pinball machine is no more, having yielded its place to the likes of Gorf, Astroblast, and Vanguard. For greater variety, the snack bar offers Asteroids and Wizard of War. Sophomore Eileen Benner, head of the game room, estimates that these five machines bring in roughly $400 of extra revenue for the College Union each week. This figure represents 50 percent of the total that goes into the machines, the other 50 percent going to the company that put them there. Dave Webb, game room supervisor, notes that there has been a “tremendous jump” in the use of the machines from last year to this but is unable to explain why.
+In the Union game room, the pinball machine is no more, having yielded its place to the likes of Gorf,
+Astroblast, and Vanguard. For greater variety, the snack bar offers Asteroids and Wizard of War. Sophomore Eileen Benner, head of
+the game room, estimates that these five machines bring in roughly $400 of extra revenue for the College Union each
+week. This figure represents 50 percent of the total that goes into the machines, the other 50 percent going to
+the company that put them there. Dave Webb, game room supervisor, notes that there has been a “tremendous jump” in
+the use of the machines from last year to this but is unable to explain why.
 
-In addition to the Union, the avid video-gamester can, in the immediate area, satisfy his cravings at the Peregrine House, Gus’s, Ham ’n Eggs, the 7-11, Cashion’s, and Belk lobby, which features Asteroids and Galaxian.
+In addition to the Union, the avid video-gamester can, in the immediate area, satisfy his cravings at the Peregrine House,
+Gus’s, Ham ’n Eggs, the 7-11, Cashion’s, and Belk lobby, which features Asteroids and Galaxian.
 
-Naturally, such a widespread phenomenon has evoked much speculation. Some sociologists fear that the video games are producing a generation able to relate better to computers than to people. Other experts see the games as nothing more than a mode of escapism. Anthropologist Edward Hall, author of Beyond Culture, believes that the players are “getting practice for the sort of things they’ll have to be doing in the future.” Here he agrees with student Dave R., who contends that the Asteroids players of today will be the fighter pilots of tomorrow.
+Naturally, such a widespread phenomenon has evoked much speculation. Some sociologists fear that the video games are producing a generation
+able to relate better to computers than to people. Other experts see the games as nothing more than a mode
+of escapism. Anthropologist Edward Hall, author of Beyond Culture, believes that the players are “getting practice for the sort of
+things they’ll have to be doing in the future.” Here he agrees with student Dave R., who contends that the
+Asteroids players of today will be the fighter pilots of tomorrow.
 
-Certainly, the video game, dependent on space-age computer technology for its existence, represents a changing world. The frequent use of science-fiction themes in video games attests to this fact. Hall claims that the games often provide “an orientation to the future.”
+Certainly, the video game, dependent on space-age computer technology for its existence, represents a changing world. The frequent use of
+science-fiction themes in video games attests to this fact. Hall claims that the games often provide “an orientation to the
+future.”
 
-Video games are, in fact, only the beginning. Today such big-name performers as Fleetwood Mac and Paul Simon are available in video concerts, a burgeoning and economical alternative to live concerts. So the next time you walk past a row of video games, take a moment to protect your planet from alien invaders. Not only will you be having fun, but you’ll be investing in the future.
+Video games are, in fact, only the beginning. Today such big-name performers as Fleetwood Mac and Paul Simon are available
+in video concerts, a burgeoning and economical alternative to live concerts. So the next time you walk past a row
+of video games, take a moment to protect your planet from alien invaders. Not only will you be having fun,
+but you’ll be investing in the future.
 
 By Drew Davis ’83.
 
@@ -24,18 +47,47 @@ By Drew Davis ’83.
 
 Computer programs: Putting the new computer to work teaching students
 
-As the new Prime 750 computer spreads its way through the heart of the College’s curriculum, the Computer Services Staff and the Computer Committee are working to help faculty and students to use it more effectively. New programs either currently in use or under consideration include the Statistical Package for the Social Sciences (SPSS), Computer Assisted Instruction (CAI), computer workshops for both students and faculty, text printers, and, in...In the not too distant future, the utilization of the system’s graphics capabilities. SPSS is a package of computer print-outs which enables students to statistically analyze patterns and similarities in various situations. The economics and sociology departments have been using the program since October. Economics Professor Clark Ross and Sociology Department Chairman Robert Ruth expect to continue to use these packages in their classes.
+As the new Prime 750 computer spreads its way through the heart of the College’s curriculum, the Computer Services Staff
+and the Computer Committee are working to help faculty and students to use it more effectively. New programs either currently
+in use or under consideration include the Statistical Package for the Social Sciences (SPSS), Computer Assisted Instruction (CAI), computer workshops
+for both students and faculty, text printers, and, in...In the not too distant future, the utilization of the system’s graphics
+capabilities. SPSS is a package of computer print-outs which enables students to statistically analyze patterns and similarities in various situations.
+The economics and sociology departments have been using the program since October. Economics Professor Clark Ross and Sociology Department Chairman
+Robert Ruth expect to continue to use these packages in their classes.
 
-CAI sets act as mechanical tutors, according to Computer Services Director Bob DeSieno. They correspond with students on a one-to-one basis. They first pose the student a question and correct his answer if the student answers incorrectly. They then explain the method behind the correction. These answer and inquiry sessions help students to better understand the subjects they are studying.
+CAI sets act as mechanical tutors, according to Computer Services Director Bob DeSieno. They correspond with students on a one-to-one
+basis. They first pose the student a question and correct his answer if the student answers incorrectly. They then explain
+the method behind the correction. These answer and inquiry sessions help students to better understand the subjects they are studying.
 
-The Computer Services Center (CSC) expects a text printing terminal to arrive sometime winter term. The text printers will process papers into type-written pages. The present computer printers produce letters in a dot-matrix form. Dr. DeSieno ordered the text quality printer several weeks ago. The computer also has the capability to sustain a graphics printer, but the CSC has not been able to appropriate the funds that would be required to install one. Dr. DeSieno said the CSC probably will not install a graphics system until the faculty shows a greater interest in establishing such a program. The graphics printer would translate mathematical formulas and theories into actual physical form, helping students to visualize their computations.
+The Computer Services Center (CSC) expects a text printing terminal to arrive sometime winter term. The text printers will process
+papers into type-written pages. The present computer printers produce letters in a dot-matrix form. Dr. DeSieno ordered the text quality
+printer several weeks ago. The computer also has the capability to sustain a graphics printer, but the CSC has not
+been able to appropriate the funds that would be required to install one. Dr. DeSieno said the CSC probably will
+not install a graphics system until the faculty shows a greater interest in establishing such a program. The graphics printer
+would translate mathematical formulas and theories into actual physical form, helping students to visualize their computations.
 
-The Computer Committee has established a series of workshops for members of the faculty and the student body interested in learning to work with the computer. These workshops run for one week with five sessions, two hours per session. Computer Services Liaison Ed Trumbull will instruct students and Dr. DeSieno will work with the faculty. Workshop sessions concentrate on a basic introduction to the computer as well as its general use. No programming experience is required. Dr. DeSieno said he urges all members of the College community to participate so that the computer can become as valuable and well-used a resource as the library.
+The Computer Committee has established a series of workshops for members of the faculty and the student body interested in
+learning to work with the computer. These workshops run for one week with five sessions, two hours per session. Computer
+Services Liaison Ed Trumbull will instruct students and Dr. DeSieno will work with the faculty. Workshop sessions concentrate on a
+basic introduction to the computer as well as its general use. No programming experience is required. Dr. DeSieno said he
+urges all members of the College community to participate so that the computer can become as valuable and well-used a
+resource as the library.
 
-The Computer Committee is an ad hoc organization of advisors with little or no authority. The Committee is chaired by Dr. DeSieno, and other members are: Dr. Clark Ross, Dr. Jerry Roberts, Dr. John Brockaway, and Dr. Ben Kleine. This committee was appointed by President Spencer after an earlier committee which appointed Dr. DeSieno to his post was disbanded. Although the faculty advisors are ineffectual in influencing actual decisions right now, President Spencer is selecting a new committee that will have five faculty and two student members.
+The Computer Committee is an ad hoc organization of advisors with little or no authority. The Committee is chaired by
+Dr. DeSieno, and other members are: Dr. Clark Ross, Dr. Jerry Roberts, Dr. John Brockaway, and Dr. Ben Kleine. This
+committee was appointed by President Spencer after an earlier committee which appointed Dr. DeSieno to his post was disbanded. Although
+the faculty advisors are ineffectual in influencing actual decisions right now, President Spencer is selecting a new committee that will
+have five faculty and two student members.
 
-The present group last met before Thanksgiving, when they discussed the matter of student access to the terminals. The issue had been the subject of controversy for quite some time, but was never resolved. Former Committee member, German Professor Hansford Epes, led the advisors in pushing for 24-hour use of the terminals. Though Dr. DeSieno refused to do this because he feared vandalism and misuse of the system, he compromised by extending the number of hours the computer terminals are available. Dr. Epes resigned his post before Thanksgiving because he felt “the Committee met too seldom to accomplish anything.” The Committee is not scheduled to meet again.
+The present group last met before Thanksgiving, when they discussed the matter of student access to the terminals. The issue
+had been the subject of controversy for quite some time, but was never resolved. Former Committee member, German Professor Hansford
+Epes, led the advisors in pushing for 24-hour use of the terminals. Though Dr. DeSieno refused to do this because
+he feared vandalism and misuse of the system, he compromised by extending the number of hours the computer terminals are
+available. Dr. Epes resigned his post before Thanksgiving because he felt “the Committee met too seldom to accomplish anything.” The
+Committee is not scheduled to meet again.
 
-The terminals are now open on weekends from 2 pm to 11 pm and on weekdays from 9 am to 11 pm. They are located in the Center for Special Studies, Martin and Dana science buildings, the library, the old computer room in the basement of Chambers, and the psychology department, and one is projected for the all-night study room.
+The terminals are now open on weekends from 2 pm to 11 pm and on weekdays from 9 am to
+11 pm. They are located in the Center for Special Studies, Martin and Dana science buildings, the library, the old
+computer room in the basement of Chambers, and the psychology department, and one is projected for the all-night study room.
 
 By John Marks '85.

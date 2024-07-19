@@ -25,7 +25,10 @@ Appalachian State University
 | Bergman | 2 | 0-0 | 0-0 | 0-0 | 0 | 0 | 0 |
 | Tyler | 6 | 0-0 | 0-0 | 0-0 | 0 | 0 | 0 |
 
-Percentages: FG - .364, FT - .789, 3-Point Goals: 3-16, .188 (Adderly 1-2, Phillips 0-1, Patterson 0-2, Darner 2-7, Adams 0-3, McMahon 0-1). Team rebounds: 6. Blocked shots: 2 (Holmes). Turnovers: 19 (Adderly 3, Kosmalski 3, Halbauer 2, Marshall 2, Armstrong 3, Patterson 2, Livingston, McMahon, Patterson). Steals: 11 (Grover 3, Adams 2, M. Phillips 2, Patterson 2, Livingston, McMahon, Patterson). Technical fouls: None. A: 4,119. Officials: Mike Wood, Sam Croft, Bryan Kersey.
+Percentages: FG - .364, FT - .789, 3-Point Goals: 3-16, .188 (Adderly 1-2, Phillips 0-1, Patterson 0-2, Darner 2-7, Adams
+0-3, McMahon 0-1). Team rebounds: 6. Blocked shots: 2 (Holmes). Turnovers: 19 (Adderly 3, Kosmalski 3, Halbauer 2, Marshall 2,
+Armstrong 3, Patterson 2, Livingston, McMahon, Patterson). Steals: 11 (Grover 3, Adams 2, M. Phillips 2, Patterson 2, Livingston, McMahon,
+Patterson). Technical fouls: None. A: 4,119. Officials: Mike Wood, Sam Croft, Bryan Kersey.
 
 DAVIDSON vs. Georgia Southern University
 
@@ -46,17 +49,25 @@ Georgia Southern University
 | Wilkes | 1-1 | 1-1 | 0-0 | 0-0 | 0 | 0 | 3 |
 | Goebel | 1-1 | 1-1 | 0-0 | 0-0 | 0 | 0 | 3 |
 
-Percentages: FG - .440, FT - .429, 3-Point Goals: 11-24, .458 (Martin 3-8, McGinnis 0-2, Daniel 0-2, Rolle 4-8, Wright 2-2, Wilkes 1-1, Goebel 1-1). Team rebounds: 3. Blocked shots: 1 (McGinnis). Turnovers: 19 (Daniel 4, Goebel 3, Gunn 2, Martin 2, Shepard 2, Wilkes 2, Jones). Steals: 7 (Jones 2, McGinnis 2, Goebel, Wilkes, Wright). Technical fouls: None. A: 4,119. Officials: Mike Wood, Sam Croft, Bryan Kersey.
+Percentages: FG - .440, FT - .429, 3-Point Goals: 11-24, .458 (Martin 3-8, McGinnis 0-2, Daniel 0-2, Rolle 4-8, Wright
+2-2, Wilkes 1-1, Goebel 1-1). Team rebounds: 3. Blocked shots: 1 (McGinnis). Turnovers: 19 (Daniel 4, Goebel 3, Gunn 2,
+Martin 2, Shepard 2, Wilkes 2, Jones). Steals: 7 (Jones 2, McGinnis 2, Goebel, Wilkes, Wright). Technical fouls: None. A:
+4,119. Officials: Mike Wood, Sam Croft, Bryan Kersey.
 
 ---
 
-Note: The table formatting is used to better present the data.0-0 1-3 1 0 3 O Wright 11 3-3 0-0 0-1 1 2 8 Burns 3 3-5 0-0 0-0 0 0 6 Wiles 10 1-1 0-0 0-0 0 4 2 Percentages: FG - .577, FT - .571, 3-Point Goals: 7-18, .389 (Donnelly 2-4, Kosmalski 0-1, Marshall 1-2, Armstrong 1-3, Burns 2-4, Halbauer 0-2, Holmes 1-2). Team rebounds: 1. Blocked shots: 4 (Donnelly, Kosmalski, Armstrong, Bergman). Turnovers: 11 (Ebong 4, Armstrong 2, Halbauer 2, Holmes, Kosmalski, Marshall). Steals: 9 (Armstrong 2, Donnelly 2, Ton 2, Ebong, Halbauer, Kosmalski).
+Note: The table formatting is used to better present the data.0-0 1-3 1 0 3 O Wright 11 3-3 0-0
+0-1 1 2 8 Burns 3 3-5 0-0 0-0 0 0 6 Wiles 10 1-1 0-0 0-0 0 4 2
+Percentages: FG - .577, FT - .571, 3-Point Goals: 7-18, .389 (Donnelly 2-4, Kosmalski 0-1, Marshall 1-2, Armstrong 1-3, Burns
+2-4, Halbauer 0-2, Holmes 1-2). Team rebounds: 1. Blocked shots: 4 (Donnelly, Kosmalski, Armstrong, Bergman). Turnovers: 11 (Ebong 4, Armstrong
+2, Halbauer 2, Holmes, Kosmalski, Marshall). Steals: 9 (Armstrong 2, Donnelly 2, Ton 2, Ebong, Halbauer, Kosmalski).
 
 Technical fouls: None. A: 2,779. Officials: Raymond Styons, Gary Maxwell, Bill Cheeks.
 
 University of Wisconsin-Platteville
 
-“If you have built castles in the air, your work need not be lost. That is where they should be. Now put the foundations under them.” 
+“If you have built castles in the air, your work need not be lost. That is where they should be.
+Now put the foundations under them.”
 -Henry David Thoreau
 
 BECAUSE THERE IS NO OFF-SEASON.
@@ -68,7 +79,8 @@ Study abroad in Seville, Spain, or London, England, for a summer, for a semester
 - Fluency in a foreign language not required
 - Home-stays with meals
 
-Every summer since 1965, AMIGOS has provided an opportunity to over 18,000 high school and college students to live and serve in Latin America.
+Every summer since 1965, AMIGOS has provided an opportunity to over 18,000 high school and college students to live and
+serve in Latin America.
 
 Countries Served | Projects Administered | Skills Developed
 Mexico | Community Sanitation | Communication

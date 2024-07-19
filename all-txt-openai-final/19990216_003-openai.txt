@@ -3,13 +3,28 @@ THE DAVIDSONIAN
 By Bill Giduz
 College Relations
 
-Vic Fleming, an innovative judge who presides over 700 DWI cases per year in Little Rock, Arkansas, will present a program entitled “Alcohol 151 - Circle Life, Not Death” at Davidson College on Thursday, February 18. 
+Vic Fleming, an innovative judge who presides over 700 DWI cases per year in Little Rock, Arkansas, will present a
+program entitled “Alcohol 151 - Circle Life, Not Death” at Davidson College on Thursday, February 18.
 
-Fleming’s presentations focus on risk analysis and “mega-information.” He uses music, humor, and videotape to bring home the message, “Stay in control of every situation.” A prolific writer and speaker, Fleming has made his presentation at more than 30 middle schools and high schools in the Little Rock area. He has more recently begun speaking at colleges, since binge drinking kills 40-50 students per year on America’s college campuses. “Kids are falling out of windows and off roofs, drowning, and just going to sleep and never waking up because of alcohol poisoning,” Fleming said. 
+Fleming’s presentations focus on risk analysis and “mega-information.” He uses music, humor, and videotape to bring home the message, “Stay
+in control of every situation.” A prolific writer and speaker, Fleming has made his presentation at more than 30 middle
+schools and high schools in the Little Rock area. He has more recently begun speaking at colleges, since binge drinking
+kills 40-50 students per year on America’s college campuses. “Kids are falling out of windows and off roofs, drowning, and
+just going to sleep and never waking up because of alcohol poisoning,” Fleming said.
 
-Moreover, Fleming said that alcohol misuse is the number one factor in date rape, and is a factor in two-thirds of violent campus behavior, half the physical injuries suffered by students, and 30% of academic problems. In his presentations, he takes a light approach to the heavy topic, citing actual courtroom dialogue, such as the defendant who told him, “I just want to throw my mercy on the court,” and the Little Rock college student who, when asked if he was going east or west, replied, “I’m from California, I don’t know the difference.”
+Moreover, Fleming said that alcohol misuse is the number one factor in date rape, and is a factor in two-thirds
+of violent campus behavior, half the physical injuries suffered by students, and 30% of academic problems. In his presentations, he
+takes a light approach to the heavy topic, citing actual courtroom dialogue, such as the defendant who told him, “I
+just want to throw my mercy on the court,” and the Little Rock college student who, when asked if he
+was going east or west, replied, “I’m from California, I don’t know the difference.”
 
-Fleming’s program is focused on avoiding the dangers of alcohol poisoning through accurate tracking of the alcohol content of beverages and personal blood alcohol content. He notes that the surest way to avoid a DWI citation is not to drive at all after drinking, but those who do drive should know how to calculate blood alcohol concentration (BAC) so they can stay off the road when it nears 0.075. His presentation will cover the mathematical calculations of figuring BAC and also the speed with which alcohol is purged by the system. Finally, he will emphasize to his audience the importance of the “Titanic Principle.” He explained, “As long as you take it in faster than you can get it out, you'll get progressively more under the influence—and sooner or later, you'll sink!”
+Fleming’s program is focused on avoiding the dangers of alcohol poisoning through accurate tracking of the alcohol content of beverages
+and personal blood alcohol content. He notes that the surest way to avoid a DWI citation is not to drive
+at all after drinking, but those who do drive should know how to calculate blood alcohol concentration (BAC) so they
+can stay off the road when it nears 0.075. His presentation will cover the mathematical calculations of figuring BAC and
+also the speed with which alcohol is purged by the system. Finally, he will emphasize to his audience the importance
+of the “Titanic Principle.” He explained, “As long as you take it in faster than you can get it out,
+you'll get progressively more under the influence—and sooner or later, you'll sink!”
 
 For more information on his presentation at Davidson, call the Student Health Center at 892-2300.
 
@@ -17,15 +32,37 @@ Physics web software expands curriculum
 
 By COLLEGE RELATIONS
 
-Physics professor Wolfgang Christian is leading his colleagues worldwide toward more effective use of technology to teach their discipline. The judges of the ninth annual educational software creation contest sponsored by Computers in Physics (CIP) magazine reaffirmed that fact by presenting Christian with its first-ever “Grand Prize” for his latest developments in physics software.
+Physics professor Wolfgang Christian is leading his colleagues worldwide toward more effective use of technology to teach their discipline. The
+judges of the ninth annual educational software creation contest sponsored by Computers in Physics (CIP) magazine reaffirmed that fact by
+presenting Christian with its first-ever “Grand Prize” for his latest developments in physics software.
 
-Christian’s prize this year recognized his development of “Efield” and “Poisson,” a collection of interactive simulations of force fields and electromagnetism that are accessible to anyone around the globe via the World Wide Web. Physics major Michael Lee ’98 was one of only two student winners in this year’s contest for another Web-based program, “Optics Bench.” The judges chose to award Christian a “Grand Prize” because of not only the content of his software but also its concept, organization, and development. “This approach seems to be one of the best methods for creating interactive displays for delivery on the Web,” the judges wrote. “We suggest that readers visit Christian’s Web page to learn more about it.”
+Christian’s prize this year recognized his development of “Efield” and “Poisson,” a collection of interactive simulations of force fields and
+electromagnetism that are accessible to anyone around the globe via the World Wide Web. Physics major Michael Lee ’98 was
+one of only two student winners in this year’s contest for another Web-based program, “Optics Bench.” The judges chose to
+award Christian a “Grand Prize” because of not only the content of his software but also its concept, organization, and
+development. “This approach seems to be one of the best methods for creating interactive displays for delivery on the Web,”
+the judges wrote. “We suggest that readers visit Christian’s Web page to learn more about it.”
 
-Christian’s approach is novel because it integrates interactive, customizable exercises accessed through the World Wide Web into physics instruction. Christian and two collaborators, Dr. Gregor Novak of Indiana University and Dr. Evelyn Patterson of the United States Air Force Academy, received a $304,000 grant from the National Science Foundation last fall for development of this instructional concept into a complete physics curriculum. Christian explained that their approach gives students the information necessary to solve physics problems in an interactive simulation, rather than in a written text question. Students solve the problem through observation of motion, application of appropriate physics concepts, and measurements leading to mathematical calculations.
+Christian’s approach is novel because it integrates interactive, customizable exercises accessed through the World Wide Web into physics instruction. Christian
+and two collaborators, Dr. Gregor Novak of Indiana University and Dr. Evelyn Patterson of the United States Air Force Academy,
+received a $304,000 grant from the National Science Foundation last fall for development of this instructional concept into a complete
+physics curriculum. Christian explained that their approach gives students the information necessary to solve physics problems in an interactive simulation,
+rather than in a written text question. Students solve the problem through observation of motion, application of appropriate physics concepts,
+and measurements leading to mathematical calculations.
 
-Christian and his students have so far developed about 25 of their exercises, which he calls “Physlets,” and students access them via the World Wide Web. The exercises are written as Java computer language “applets” so that they can be accessed via all popular computer operating systems, and they are not copyrighted so that other instructors can copy and modify them to fit their own course curricula.is remarkably different from typical novice strategies where students attempt to mathematically analyze a problem before qualitatively describing it. Teachers often call this approach “plug-and-chug” because it is characterized by the lack of conceptual thought during the problem-solving process. Christian believes that requiring students to consider the problem qualitatively, as is done in multi-media-focused problems, has a positive influence on their problem-solving skills and conceptual understanding. 
+Christian and his students have so far developed about 25 of their exercises, which he calls “Physlets,” and students access
+them via the World Wide Web. The exercises are written as Java computer language “applets” so that they can be
+accessed via all popular computer operating systems, and they are not copyrighted so that other instructors can copy and modify
+them to fit their own course curricula.is remarkably different from typical novice strategies where students attempt to mathematically analyze a
+problem before qualitatively describing it. Teachers often call this approach “plug-and-chug” because it is characterized by the lack of conceptual
+thought during the problem-solving process. Christian believes that requiring students to consider the problem qualitatively, as is done in multi-media-focused
+problems, has a positive influence on their problem-solving skills and conceptual understanding.
 
-Simulations enable students to view the forces or field lines on a collection of charges; the path of a particle injected into crossed electric and magnetic fields; the dynamics of a particle subject to a constant field plus another point charge; and the potential or field lines of a capacitor, a dipole, and a diffuse charge distribution placed inside a metallic Faraday cage. In each case, students can interact with the simulation, moving the charges or other elements or varying their properties, with immediate results.
+Simulations enable students to view the forces or field lines on a collection of charges; the path of a particle
+injected into crossed electric and magnetic fields; the dynamics of a particle subject to a constant field plus another point
+charge; and the potential or field lines of a capacitor, a dipole, and a diffuse charge distribution placed inside a
+metallic Faraday cage. In each case, students can interact with the simulation, moving the charges or other elements or varying
+their properties, with immediate results.
 
 Continued on page 5
 
@@ -33,32 +70,60 @@ Creative Writing Award Contests for 1999
 
 The Department of English Announces a Competition for THE 1999 VEREEN BELL MEMORIAL AWARD
 
-The Vereen Bell award carries a first prize of $100, a second prize of $50, and a third prize of $25. At the discretion of the judge, awards may be given in different genres. The Charles E. Lloyd Award is given annually to that member of the sophomore, junior, or senior class for excellence in non-fiction prose. Pieces submitted for the Award may include both formal, scholarly essays and personal essays. Awards may be made in both categories.
+The Vereen Bell award carries a first prize of $100, a second prize of $50, and a third prize of
+$25. At the discretion of the judge, awards may be given in different genres. The Charles E. Lloyd Award is
+given annually to that member of the sophomore, junior, or senior class for excellence in non-fiction prose. Pieces submitted for
+the Award may include both formal, scholarly essays and personal essays. Awards may be made in both categories.
 
-The judge for the 1999 Vereen Bell Award is the distinguished writer, Fred Chappell. Fred Chappell was born in Canton, North Carolina. He received a B.A. and an M.A. from Duke University, and honorary degrees from UNC-Chapel Hill and Spring Hill College. The North Carolina Poet Laureate, Fred Chappell has published sixteen collections of poetry and six novels. He is the recipient of the National Institute and American Academy Award in Literature, the Bollingen Prize in Poetry, the T.S. Eliot Prize, and among other awards. Fred Chappell is a professor at UNC-Greensboro, where he has taught since 1964. 
+The judge for the 1999 Vereen Bell Award is the distinguished writer, Fred Chappell. Fred Chappell was born in Canton,
+North Carolina. He received a B.A. and an M.A. from Duke University, and honorary degrees from UNC-Chapel Hill and Spring
+Hill College. The North Carolina Poet Laureate, Fred Chappell has published sixteen collections of poetry and six novels. He is
+the recipient of the National Institute and American Academy Award in Literature, the Bollingen Prize in Poetry, the T.S. Eliot
+Prize, and among other awards. Fred Chappell is a professor at UNC-Greensboro, where he has taught since 1964.
 
-The judge for the 1999 Charles E. Lloyd Writing Award for non-fiction prose is the distinguished writer, Lauren B. Smith. Lauren B. Smith ('85) has an M.F.A. in Poetry, an M.A. in Comparative Literature, and a Ph.D. in English Literature all from the University of Iowa. Co-editor of Swaying: Essays on Love, and the forthcoming Love in the Global Village: Interview Essays on Intercultural Families, she is an assistant professor of English and Women’s Studies at Eastern Illinois University. At Davidson, Lauren B. Smith twice won the Vereen Bell Writing Award.
+The judge for the 1999 Charles E. Lloyd Writing Award for non-fiction prose is the distinguished writer, Lauren B. Smith.
+Lauren B. Smith ('85) has an M.F.A. in Poetry, an M.A. in Comparative Literature, and a Ph.D. in English Literature
+all from the University of Iowa. Co-editor of Swaying: Essays on Love, and the forthcoming Love in the Global Village:
+Interview Essays on Intercultural Families, she is an assistant professor of English and Women’s Studies at Eastern Illinois University. At
+Davidson, Lauren B. Smith twice won the Vereen Bell Writing Award.
 
-Fred Chappell will present the Awards and read from his work at a special ceremony in the 900 Room of the College Union at 7:30 p.m. on April 20. All students who enter the competition must attend the Awards Ceremony. Lauren B. Smith will present the Awards and read from her work at a special ceremony in the 900 Room of the College Union at 7:30 p.m. on Tuesday, March 23. All students who enter the competition must attend the Awards Ceremony.
+Fred Chappell will present the Awards and read from his work at a special ceremony in the 900 Room of
+the College Union at 7:30 p.m. on April 20. All students who enter the competition must attend the Awards Ceremony.
+Lauren B. Smith will present the Awards and read from her work at a special ceremony in the 900 Room
+of the College Union at 7:30 p.m. on Tuesday, March 23. All students who enter the competition must attend the
+Awards Ceremony.
 
 Procedures for Submission
 
-1. All entries should be turned in to any member of the English Department by 5:00 p.m. on Thursday, February 25.
-2. Students may submit work in more than one genre. Page limits are: 15 pages for fiction, 10 pages for poetry, and, in the case of drama, no more than one act. Collections of poems and stories should be given a title. Manuscripts submitted for previous competitions may be revised and resubmitted if they were not awarded prizes.
-3. The name of the writer must not appear on the manuscript. Name, address, phone number, and the title of the manuscript should be included on a separate piece of paper.
+1. All entries should be turned in to any member of the English Department by 5:00 p.m. on Thursday, February
+25.
+2. Students may submit work in more than one genre. Page limits are: 15 pages for fiction, 10 pages for
+poetry, and, in the case of drama, no more than one act. Collections of poems and stories should be given
+a title. Manuscripts submitted for previous competitions may be revised and resubmitted if they were not awarded prizes.
+3. The name of the writer must not appear on the manuscript. Name, address, phone number, and the title of
+the manuscript should be included on a separate piece of paper.
 
 The Department of English Announces a Competition for THE 1999 CHARLES E. LLOYD WRITING AWARD
 
 The 1999 R. WINDLEY HALL WRITING AWARD FOR FRESHMAN
 
-The R. Windley Hall award is given annually to that member of the freshman class who submits the best work in fiction, poetry, or non-fiction prose. The award carries a first prize of $50 and a second prize of $25. Students may submit work in more than one genre.
+The R. Windley Hall award is given annually to that member of the freshman class who submits the best work
+in fiction, poetry, or non-fiction prose. The award carries a first prize of $50 and a second prize of $25.
+Students may submit work in more than one genre.
 
-The judge for the 1999 R. Windley Hall Writing Award is the distinguished writer, Michael Chitwood. Michael Chitwood, the author of three books of poems, including most recently The Weave Room, holds degrees from Emory and Henry College and the University of Virginia. He has taught at and throughout the South, including Lynchburg College, Wake Forest University, and Elon College, and is currently on the faculty of UNC-Chapel Hill. He is the past President of the North Carolina Writers’ Network.
+The judge for the 1999 R. Windley Hall Writing Award is the distinguished writer, Michael Chitwood. Michael Chitwood, the author
+of three books of poems, including most recently The Weave Room, holds degrees from Emory and Henry College and the
+University of Virginia. He has taught at and throughout the South, including Lynchburg College, Wake Forest University, and Elon College,
+and is currently on the faculty of UNC-Chapel Hill. He is the past President of the North Carolina Writers’ Network.
 
-Michael Chitwood will present the Awards and read from his work at a special ceremony in the 900 Room of the College Union at 7:30 p.m. on Tuesday, March 30. All students who enter the competition must attend the Awards Ceremony.
+Michael Chitwood will present the Awards and read from his work at a special ceremony in the 900 Room of
+the College Union at 7:30 p.m. on Tuesday, March 30. All students who enter the competition must attend the Awards
+Ceremony.
 
 Procedures for Submission
 
 1. Manuscripts should be turned in to any member of the English Department by 5:00 p.m. on Thursday, February 25.
-2. Students may submit up to 15 pages of poetry, fiction, or non-fiction prose; work of different genres may be included in a single portfolio, for a total of no more than 15 pages.
-3. The name of the writer must not appear on the manuscript. Name, address, phone number, and title of the manuscript should be included on a separate piece of paper.
+2. Students may submit up to 15 pages of poetry, fiction, or non-fiction prose; work of different genres may be
+included in a single portfolio, for a total of no more than 15 pages.
+3. The name of the writer must not appear on the manuscript. Name, address, phone number, and title of the
+manuscript should be included on a separate piece of paper.

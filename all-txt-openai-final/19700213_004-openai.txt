@@ -52,4 +52,5 @@ bo | — - —,
 
 ---
 
-Note: Some parts of the text remain unclear due to the quality of the OCR. If you have access to the original document, it might help to cross-reference for accuracy.
+Note: Some parts of the text remain unclear due to the quality of the OCR. If you have access to
+the original document, it might help to cross-reference for accuracy.

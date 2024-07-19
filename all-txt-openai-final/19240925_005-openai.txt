@@ -241,15 +241,58 @@ Ewing, D. C.
 Faggart, P. M.—109 We.
 Farnsworth, O.—402 We.
 Farrell, J. M.—106 Wa.
-Faucette,R. E.—B. We. Faucette, R. G.—B. We. Foil, Joe—301 FE. Fowler, J. C.—213 We. Frierson, H. S.—214 Ea. Frierson, J. C.—214 Ea. Garrison, R. G.—5 S. Gladney, J. P.—27 Ga. Glenn, H. F.—204 We. Glenn, R. R.—110 EF. Goodykuntz, H. G.—305 FE. Gordon, W. S.—403 We. Green, W. O.—209 Wa. Hall, J. H.—213 We. Hampton, P. A.—A. La. Hamilton, T. H.—108 E. Hand, J. G.—25 Ga. Haney, M. D.—E. We. Hansel, C. J.—3 S. Harris, A. K.—409 FE. Hastie, W. D.—113 We. Henry, Brock—Home. Hodgin, W. G.—4 R. Hodgkin, W. L.—9 S. Hudgins, F.—305 EF. Johnston, M. A.—2 Ga. Johnston, R. L.—107 Ea. Jones, P. F.—202 Wa. Justice, F. K.—Home. Keerans, J. W.—206 Wa. King, J. A.—310 Wa. Kiser, Will—6 La. Kiser, Wilse—6 La. Knox, S. C.—Home. Kornegay, W. H.—108 Wa. Kuykendall, J. B.—114 We. Lamons, Paul—1 Wa. Law, J. A.—308 EF. Leathers, L. H.—106 Wa. Leggette, W. H.—6 R. Lincoln, R. L.—309 Wa. Lingle, E. K.—8 Ga. Little, H. C.—Home. Long, C. A.—2 R. Long, J. A.—410 We. Love, H. A.—1 We. Luch, W. H.—6 S. Malloy, J. D.—314 We. McAlpine, J. A.—11 N. McConnell, Joe H.—201 Wa. McConnell, R. B.—403 Wa. McCutcheon, T. G.—15 N. McCutcheon, L. M.—1 R. McDaniel, J. Z.—2 S. McFadyen, J. S.—D. F. McIlwaine, R. H.—14 Ga. McInnis, J. A.—6 S. McIver, A.—203 We. McMillan, Garnett—8 S. McQueen, R. B.—209 LE. McRae, J. S.—107 Wa. Menzies, R. M.—10 R. Martin, Hugh—107 We. Mitchell, R. L.—13 Ga. Morgan, F. B.—112 EF. Morrison, J. R.—Williams. Murchison, C. C.—406 We. Norwood, C. L.—1 S. Ogden, W. C.—25 Ga. Patterson, C. D.—12 S. Pinkney, J. F.—210 We. Pressley, J. C.—208 E. Purcell, T. G.—314 EF. Ratchford, H. R.—C. East. Reeves, A. T.—306 We. Rice, W. B.—3 S. Robertson, R. D.—109 E. Sapp, H. O.—Gym. Sears, C. M.—410 We. Shelby, H. L.—10 N. Short, T. L.—14 S. Simpson, J. A. F. E. Sims, G. R.—22 R. Slaymaker, A. C.—C. E. Smith, J. K.—8 La. Sparrow, M.—Barnes’. Sparrow, W. R.—310 Wa. Stewart, D. H.—11 N. Story, W. R.—A. E. Taylor, W. F.—103 Wa. Townsend, O. L.—Barnes’. Treverton, W. J.—409 We. Turner, W. D.—311 E. Vaughn, Jas.—201 E. Wall, Steve—107 E. Webb, J. B.—8 N. White, J. M.—107 Wa. White, R. H.—108 E. Wilkinson, F. S.—308 We. Williamson, V.—403 Wa. Wilson, R. S.—22 Ga. Wharton, L. D., Jr.—22 Ga.
+Faucette,R. E.—B. We. Faucette, R. G.—B. We. Foil, Joe—301 FE. Fowler, J. C.—213 We. Frierson, H. S.—214 Ea. Frierson, J.
+C.—214 Ea. Garrison, R. G.—5 S. Gladney, J. P.—27 Ga. Glenn, H. F.—204 We. Glenn, R. R.—110 EF. Goodykuntz, H.
+G.—305 FE. Gordon, W. S.—403 We. Green, W. O.—209 Wa. Hall, J. H.—213 We. Hampton, P. A.—A. La. Hamilton, T.
+H.—108 E. Hand, J. G.—25 Ga. Haney, M. D.—E. We. Hansel, C. J.—3 S. Harris, A. K.—409 FE. Hastie, W.
+D.—113 We. Henry, Brock—Home. Hodgin, W. G.—4 R. Hodgkin, W. L.—9 S. Hudgins, F.—305 EF. Johnston, M. A.—2 Ga. Johnston,
+R. L.—107 Ea. Jones, P. F.—202 Wa. Justice, F. K.—Home. Keerans, J. W.—206 Wa. King, J. A.—310 Wa. Kiser, Will—6
+La. Kiser, Wilse—6 La. Knox, S. C.—Home. Kornegay, W. H.—108 Wa. Kuykendall, J. B.—114 We. Lamons, Paul—1 Wa. Law, J.
+A.—308 EF. Leathers, L. H.—106 Wa. Leggette, W. H.—6 R. Lincoln, R. L.—309 Wa. Lingle, E. K.—8 Ga. Little, H.
+C.—Home. Long, C. A.—2 R. Long, J. A.—410 We. Love, H. A.—1 We. Luch, W. H.—6 S. Malloy, J. D.—314
+We. McAlpine, J. A.—11 N. McConnell, Joe H.—201 Wa. McConnell, R. B.—403 Wa. McCutcheon, T. G.—15 N. McCutcheon, L. M.—1
+R. McDaniel, J. Z.—2 S. McFadyen, J. S.—D. F. McIlwaine, R. H.—14 Ga. McInnis, J. A.—6 S. McIver, A.—203 We.
+McMillan, Garnett—8 S. McQueen, R. B.—209 LE. McRae, J. S.—107 Wa. Menzies, R. M.—10 R. Martin, Hugh—107 We. Mitchell, R.
+L.—13 Ga. Morgan, F. B.—112 EF. Morrison, J. R.—Williams. Murchison, C. C.—406 We. Norwood, C. L.—1 S. Ogden, W. C.—25
+Ga. Patterson, C. D.—12 S. Pinkney, J. F.—210 We. Pressley, J. C.—208 E. Purcell, T. G.—314 EF. Ratchford, H. R.—C.
+East. Reeves, A. T.—306 We. Rice, W. B.—3 S. Robertson, R. D.—109 E. Sapp, H. O.—Gym. Sears, C. M.—410 We.
+Shelby, H. L.—10 N. Short, T. L.—14 S. Simpson, J. A. F. E. Sims, G. R.—22 R. Slaymaker, A. C.—C.
+E. Smith, J. K.—8 La. Sparrow, M.—Barnes’. Sparrow, W. R.—310 Wa. Stewart, D. H.—11 N. Story, W. R.—A. E. Taylor,
+W. F.—103 Wa. Townsend, O. L.—Barnes’. Treverton, W. J.—409 We. Turner, W. D.—311 E. Vaughn, Jas.—201 E. Wall, Steve—107 E.
+Webb, J. B.—8 N. White, J. M.—107 Wa. White, R. H.—108 E. Wilkinson, F. S.—308 We. Williamson, V.—403 Wa. Wilson,
+R. S.—22 Ga. Wharton, L. D., Jr.—22 Ga.
 
-The SHOPS for MEN in Charlotte, corded silk. $1.00 in the regimental colors of England’s crack regiment, the Grenadier Guards. THE PRINCE'S TIE! New York men are all wearing a new tie—the tie of the Grenadier Guards. Why? Because H. R. H. the Prince of Wales wears just such a tie in dark red and blue diagonal stripes. The Bon Marche shops for Men present it first. Fashioned of heavy lustrous silk, $1.00. The Greater Bon Marche.
+The SHOPS for MEN in Charlotte, corded silk. $1.00 in the regimental colors of England’s crack regiment, the Grenadier Guards.
+THE PRINCE'S TIE! New York men are all wearing a new tie—the tie of the Grenadier Guards. Why? Because H.
+R. H. the Prince of Wales wears just such a tie in dark red and blue diagonal stripes. The Bon
+Marche shops for Men present it first. Fashioned of heavy lustrous silk, $1.00. The Greater Bon Marche.
 
 FIRST FLOOR—TRADE STREET
 
-Crawford, Martin—301 Wa. Womack, R. C.—308 FF. Woodham, Welly—308 We. Woods, W. S.—406 We. Wyche, P. I.—307 We. Zimmerman, G. H.—207 Wa.
+Crawford, Martin—301 Wa. Womack, R. C.—308 FF. Woodham, Welly—308 We. Woods, W. S.—406 We. Wyche, P. I.—307 We. Zimmerman, G.
+H.—207 Wa.
 
 Freshmen
-Akers, John M.—29 Ga. Alderman, B. G.—26 R. Anderson, W. C.—402 Wa. Andrews, Chas.—402 EF. Andrew, J. M.—14 S. Ansley, David—6 Ga. Arbuckle, H. B., Jr.—110 We. Armfield, W. J.—208 Wa. Arrowood, Hugh—312 Wa. Arthur, R. B.—301 We. Babb, J. R.—404 FE. Baker, Rev. W. L.—Town. Baldwin, Chas.—105 Wa. Baldwin—Williams. Bradford, J. H. Baskerville, Chas.—105 Wa. Belk, Frank—1 E. Bishop, C. C.—Milburne. Bishop, R. H.—307 FE. Boulware, H.—214 We. Bowen, James—108 Wa. Bowen, James—405 E. Bowers, A.—307 FE. Bowers, Joe—302 FE. Boyce, J. M.—409 FE. Boyles, Ben—Home. Bradford, W. B., Jr.—15 R. Bridgers, H. C.—Mrs. Currie’s. Brock, Theo.—20 R. Brooks, Grady—402 FE. Brown, F. E.—309 FE. Brown, L. D.—312 E. Brown, Wm. A.—203 FE. Brown, W. H.—403 FE. Buchanan, W. C.—408 F. Buchanan, H. C.—104 We. Burgess, A.—311 EF. Caisson, A. A.—Laird’s. Caldwell, A. S.—401 Wa. Calhoun, J. A.—Erwin’s. Calhoun, R. G.—7 R. Campbell, H. G.—408 Wa. Carr, C. R.—401 Wa. Carr, R. W.—311 Wa. Carson, C. C.—404 Wa. Carter, A. B.—204 We. Cathey, C. O.—Home. Cathey, W. A.—Home. Chamberlain, S. H.—103 E. Chatham, Owen—306 E. Couper, K.—311 Wa. Cowan, J.—301 We. Crosland, R.—304 We. Crowell, G. C.—207 F. Croxton, Lexie—16 S. Currie, A. S.—414 We. Currie, D. A.—1 N. Currie, Duncan—Smith’s. Currie, J. M.—1 N. Currie, Letitia—Home. Currie, S. H.—303 We. Daniel, F. D.—406 FE. Davidson, C. G.—301 Wa. Davis, C. G.—3 F. Debele, I. C.—13 N. Dickson, Brady W.—10 S. Dillard, Tyree—407 Wa. Douglass, W. D.—Dr. Douglas’. Douglas, E. L.—205 We. Douglass, D. B.—Dr. Douglas’. Driver, I. H.—3 Ga. DuBose, P. C.—113 We. Duke, R. A.—309 We. Dulin, J. G.—3 N. Ebey, F. W.—201 EF. Edgar, C. F., Jr.—23 R. Edwards, G. D.—409 We. Engle, R.—14 N. Erwin, F. T.—410 E. Erwin, J. S.—Thompson’s. Evans, R. B., Jr.—303 We. Falls, J. R.—105 Wa. Farnum, Jack W.—401 EF. Fitts, M. M.—12 N. Fleshman, W. S.—407 Wa. Forbes, K.—304 EF. Foster, J. S., Jr.—306 FE. Frantz, James—2 E. Frazer, H. A.—Laird’s. Frontis, L.—303 EF. Gallent, James—21 R. Garner, M. B.—C. We. Garrison, P. J., Jr.—9 N. Gibson, L.—Home. Glenn, R. A.—112 We. Grady, F.—210 Wa. Grant, Wm.—414 E. Grey, A. E.—30 R. Grey, J. S.—401 E. Grey, J. W.—Grey’s. Grey, W. R., Jr.—Home. Gudger, J. M.—Home. Guthrie, V. J., Jr.—212 Wa. Gwinn, John—28 Ga. Gwinn, Walter—28 Ga. Hagood, B. H.—1 Ga. Hall, J. K., Jr.—412 Wa. Hall, M. M.—412 Wa. Hall, R. F.—206 We. Hancock, DeWitt—310 We. Harrison, C. W.—201 We. Harmon, J. P.—2 S.
+Akers, John M.—29 Ga. Alderman, B. G.—26 R. Anderson, W. C.—402 Wa. Andrews, Chas.—402 EF. Andrew, J. M.—14 S. Ansley,
+David—6 Ga. Arbuckle, H. B., Jr.—110 We. Armfield, W. J.—208 Wa. Arrowood, Hugh—312 Wa. Arthur, R. B.—301 We. Babb, J.
+R.—404 FE. Baker, Rev. W. L.—Town. Baldwin, Chas.—105 Wa. Baldwin—Williams. Bradford, J. H. Baskerville, Chas.—105 Wa. Belk, Frank—1 E. Bishop,
+C. C.—Milburne. Bishop, R. H.—307 FE. Boulware, H.—214 We. Bowen, James—108 Wa. Bowen, James—405 E. Bowers, A.—307 FE. Bowers, Joe—302
+FE. Boyce, J. M.—409 FE. Boyles, Ben—Home. Bradford, W. B., Jr.—15 R. Bridgers, H. C.—Mrs. Currie’s. Brock, Theo.—20 R. Brooks,
+Grady—402 FE. Brown, F. E.—309 FE. Brown, L. D.—312 E. Brown, Wm. A.—203 FE. Brown, W. H.—403 FE. Buchanan, W.
+C.—408 F. Buchanan, H. C.—104 We. Burgess, A.—311 EF. Caisson, A. A.—Laird’s. Caldwell, A. S.—401 Wa. Calhoun, J. A.—Erwin’s. Calhoun,
+R. G.—7 R. Campbell, H. G.—408 Wa. Carr, C. R.—401 Wa. Carr, R. W.—311 Wa. Carson, C. C.—404 Wa. Carter,
+A. B.—204 We. Cathey, C. O.—Home. Cathey, W. A.—Home. Chamberlain, S. H.—103 E. Chatham, Owen—306 E. Couper, K.—311 Wa. Cowan,
+J.—301 We. Crosland, R.—304 We. Crowell, G. C.—207 F. Croxton, Lexie—16 S. Currie, A. S.—414 We. Currie, D. A.—1 N.
+Currie, Duncan—Smith’s. Currie, J. M.—1 N. Currie, Letitia—Home. Currie, S. H.—303 We. Daniel, F. D.—406 FE. Davidson, C. G.—301 Wa.
+Davis, C. G.—3 F. Debele, I. C.—13 N. Dickson, Brady W.—10 S. Dillard, Tyree—407 Wa. Douglass, W. D.—Dr. Douglas’. Douglas,
+E. L.—205 We. Douglass, D. B.—Dr. Douglas’. Driver, I. H.—3 Ga. DuBose, P. C.—113 We. Duke, R. A.—309 We. Dulin,
+J. G.—3 N. Ebey, F. W.—201 EF. Edgar, C. F., Jr.—23 R. Edwards, G. D.—409 We. Engle, R.—14 N. Erwin,
+F. T.—410 E. Erwin, J. S.—Thompson’s. Evans, R. B., Jr.—303 We. Falls, J. R.—105 Wa. Farnum, Jack W.—401 EF. Fitts,
+M. M.—12 N. Fleshman, W. S.—407 Wa. Forbes, K.—304 EF. Foster, J. S., Jr.—306 FE. Frantz, James—2 E. Frazer, H.
+A.—Laird’s. Frontis, L.—303 EF. Gallent, James—21 R. Garner, M. B.—C. We. Garrison, P. J., Jr.—9 N. Gibson, L.—Home. Glenn, R.
+A.—112 We. Grady, F.—210 Wa. Grant, Wm.—414 E. Grey, A. E.—30 R. Grey, J. S.—401 E. Grey, J. W.—Grey’s. Grey,
+W. R., Jr.—Home. Gudger, J. M.—Home. Guthrie, V. J., Jr.—212 Wa. Gwinn, John—28 Ga. Gwinn, Walter—28 Ga. Hagood, B. H.—1
+Ga. Hall, J. K., Jr.—412 Wa. Hall, M. M.—412 Wa. Hall, R. F.—206 We. Hancock, DeWitt—310 We. Harrison, C. W.—201
+We. Harmon, J. P.—2 S.
 
 (Continued on page 6)

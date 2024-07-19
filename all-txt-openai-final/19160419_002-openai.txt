@@ -17,7 +17,9 @@ A. P. Saunders
 H. B. Fraser
 
 The reporters for this issue are:
-H. A. Scott, R. W. Robinson, C. W. Foreman, A. S. Potts, T. N. Morton, W. C. Cumming, W. C. Neel, E. A. Woods, R. B. Peters, A. B. Reese, O. J. Thies, Jr., M. A. Siske, J. W. Clark, E. B. Wright, G. T. Sternberger, W. A. Johnson.
+H. A. Scott, R. W. Robinson, C. W. Foreman, A. S. Potts, T. N. Morton, W. C. Cumming, W. C.
+Neel, E. A. Woods, R. B. Peters, A. B. Reese, O. J. Thies, Jr., M. A. Siske, J. W. Clark,
+E. B. Wright, G. T. Sternberger, W. A. Johnson.
 
 Management:
 W. H. Neal........ Business Manager
@@ -32,36 +34,247 @@ Entered as second-class matter at the Post Office, Davidson, N. C.
 
 Subscription, $1 Per Year
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *college to place a Davidson annual in their hands?
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * *college to place
+a Davidson annual in their hands?
 
 Y. M. C. A. MEETING.
-At the Y. M. C. A. meeting Thursday night, N. P. Farrior, of the Senior class, gave a very interesting and instructive talk on “The Call to the Foreign Field.” He spoke of those to whom the call comes, what constitutes a call, and the kind of work to be done in the field. The speaker gave some startling facts about the vast need of more workers, and the scarcity of laborers now in the field. It was announced that at the next meeting some stereopticon slides of the Blue Ridge Student Conference would be shown and the work and opportunities of the conference outlined.
+At the Y. M. C. A. meeting Thursday night, N. P. Farrior, of the Senior class, gave a very interesting
+and instructive talk on “The Call to the Foreign Field.” He spoke of those to whom the call comes, what
+constitutes a call, and the kind of work to be done in the field. The speaker gave some startling facts
+about the vast need of more workers, and the scarcity of laborers now in the field. It was announced that
+at the next meeting some stereopticon slides of the Blue Ridge Student Conference would be shown and the work and
+opportunities of the conference outlined.
 
 GOLF TOURNAMENT BEGINS.
-While baseball is in the ascendancy in Davidson's athletic world, golf is also becoming a popular and interesting sport. Carl Anderson, a professional, visited Davidson some time ago and the interest in golf has been greatly increased by his exhibition. The qualifying rounds for the annual spring handicap tournament were played Tuesday, April 6th. The winners were Professor Currie, Dr. McConnell, and Dr. Arbuckle. Peters played Clark Monday, resulting in a victory for the latter. The finals will begin the latter part of the week.
+While baseball is in the ascendancy in Davidson's athletic world, golf is also becoming a popular and interesting sport. Carl
+Anderson, a professional, visited Davidson some time ago and the interest in golf has been greatly increased by his exhibition.
+The qualifying rounds for the annual spring handicap tournament were played Tuesday, April 6th. The winners were Professor Currie, Dr.
+McConnell, and Dr. Arbuckle. Peters played Clark Monday, resulting in a victory for the latter. The finals will begin the
+latter part of the week.
 
 LITERARY SOCIETIES.
-Debate, April 22nd: “Resolved, That the United States Government should compel every male college student to take one year of adequate military training.”
+Debate, April 22nd: “Resolved, That the United States Government should compel every male college student to take one year of
+adequate military training.”
 Philanthropic — Affirmative: Clark, Dunlap, Gray, Kornegay, R. W. Robinson. Negative: McKeithan, W. H. Neal, Ratchford, R. H. Stone, Thames.
 Eumenean — Affirmative: Sayad, Good, Humphrey, J. P. Williams. Negative: Honeycutt, S. L. Hunter, Eikel.
 
 Declamations and Orations, April 24th:
-Philanthropic — Declamations: C. F. Monroe, Pharr, R. D. Hall, W. C. Neal. Orations: Murray, Clary, Farrior, J. M. McBryde, McLeod, Ormand.
+Philanthropic — Declamations: C. F. Monroe, Pharr, R. D. Hall, W. C. Neal. Orations: Murray, Clary, Farrior, J. M. McBryde,
+McLeod, Ormand.
 Eumenean — Declamations: Cunningham, Epps, Gilbert, Frierson, Fraser. Orations: Williams, P. B. Price, Hay, F. H. Smith.
 
-On Monday morning in the Eumenean Society the regular exercises were omitted and the first term officers of next year were elected as follows: President, L. H. Eikel; Vice-President, J. R. Woods; Secretary, E. A. Solomons; Reviewer, T. J. Mitchell; Treasurer, A. R. Craig. Two editors and an assistant manager for the Magazine were also chosen. They are: Senior Editor, T. J. Mitchell; Junior Editor, L. A. Chambliss; Assistant Manager, H. B. Fraser. G. C. Bellingrath was elected a member of the debating council.
+On Monday morning in the Eumenean Society the regular exercises were omitted and the first term officers of next year
+were elected as follows: President, L. H. Eikel; Vice-President, J. R. Woods; Secretary, E. A. Solomons; Reviewer, T. J. Mitchell;
+Treasurer, A. R. Craig. Two editors and an assistant manager for the Magazine were also chosen. They are: Senior Editor,
+T. J. Mitchell; Junior Editor, L. A. Chambliss; Assistant Manager, H. B. Fraser. G. C. Bellingrath was elected a member
+of the debating council.
 
-Special attention shown to Davidson men. For Good Clothes at Money Saving Prices VISIT V. WALLACE & SONS, 31-33 W. TRADE ST. The House of Kuppenheimer Clothes, Stetson Hats, Bates-Street Shirts, Manhattan Banister Shoes. 1-3 OFF ON ALL OVERCOATS. “WE SAVE YOU MONEY" V. WALLACE & SONS Tom Misenheimer, Agent STORES AT CHARLOTTE, SALISBURY, GREENSBORO
+Special attention shown to Davidson men. For Good Clothes at Money Saving Prices VISIT V. WALLACE & SONS, 31-33 W.
+TRADE ST. The House of Kuppenheimer Clothes, Stetson Hats, Bates-Street Shirts, Manhattan Banister Shoes. 1-3 OFF ON ALL OVERCOATS. “WE
+SAVE YOU MONEY" V. WALLACE & SONS Tom Misenheimer, Agent STORES AT CHARLOTTE, SALISBURY, GREENSBORO
 
-ROY MOOSE | SOUTHERN Official Photographer Interwoven Hose. SPECIAL: “Quips & Cranks” W. G. MORRISON Stieff Warerooms: 219 S. Tryon St. Charlotte, N. C.
+ROY MOOSE | SOUTHERN Official Photographer Interwoven Hose. SPECIAL: “Quips & Cranks” W. G. MORRISON Stieff Warerooms: 219 S. Tryon
+St. Charlotte, N. C.
 
 DAVIDSON COLLEGE Davidson, North Carolina THOROUGH COURSES Well Equipped Laboratories
 
 THE LATEST STYLES IN SCHLOSS CLOTHES CAN BE SEEN AT Brown-Knox Mercantile Company
 
-NOW! IS THE TIME FOR ALL “GOOD MEN” TO COME to The Davidson Pressing Club We do all kinds of Altering, Cleaning and Dyeing. We Press 6 Suits for $1.00. A Specialty on Ties Cleaned and Pressed, 2c. to 5c each. WE ARE HERE TO PLEASE OUR CUSTOMERS DAVIDSON PRESSING CLUB: R. L. Alexander, Prop.
+NOW! IS THE TIME FOR ALL “GOOD MEN” TO COME to The Davidson Pressing Club We do all kinds of
+Altering, Cleaning and Dyeing. We Press 6 Suits for $1.00. A Specialty on Ties Cleaned and Pressed, 2c. to 5c
+each. WE ARE HERE TO PLEASE OUR CUSTOMERS DAVIDSON PRESSING CLUB: R. L. Alexander, Prop.
 
-Character, Personality & Individuality are expressed in your STATIONERY AND ADVERTISING LET BRADY PRINT IT BRADY PRINTING CO. Statesville, N.C. L. A. Mullen, Agt.
+Character, Personality & Individuality are expressed in your STATIONERY AND ADVERTISING LET BRADY PRINT IT BRADY PRINTING CO. Statesville, N.C.
+L. A. Mullen, Agt.
 
 RAILWAY Premier Carrier of the South Special Attention given to Athletic Trips
 
