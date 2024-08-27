@@ -10,6 +10,7 @@ from whoosh.query import FuzzyTerm, Term
 import pandas as pd
 from io import StringIO
 import csv
+from flask import send_from_directory
 
 
 # Initializing Flask app and Whoosh Index
@@ -241,7 +242,14 @@ def download_csv():
 
     return send_file(io.BytesIO(si.getvalue().encode('utf-8')), mimetype='text/csv', as_attachment=True, download_name=filename)
 
+@app.route('/pdfs/<path:filename>')
+def serve_pdf(filename):
+    # Define the root directory where PDFs are stored
+    pdf_root_dir = os.path.abspath("../../../../media/volume/crf-college-archives/app_data/")
     
+    # Serve the PDF file based on the requested filename
+    return send_from_directory(pdf_root_dir, filename)
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
     #app.run(debug=True)
