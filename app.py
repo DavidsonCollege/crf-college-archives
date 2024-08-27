@@ -70,9 +70,13 @@ def search_index(query_str, date_from_str='', date_to_str='', context_lines_str=
 
             # Extract URLs for Issue and Page using dictionaries
             url = url_dict.get(hit_date, "#")
-            year = re.search(r'\d{4}', hit_date_str)
+            match = re.search(r'\d{4}', hit_date_str)
+            year = match.group() if match else "unknown"  # Extract year as a string
+            # Remove the '-openai' suffix and ensure the file has a .pdf extension
             hit_title_pdf = hit_title[:-4]
-            pdf_url = pdf_url = f"../../../../media/volume/crf-college-archives/app_data/{year}/{hit_date_str}/PDFs/{hit_title_pdf}.txt"
+            hit_title_pdf = hit_title.replace('-openai', '')  # Remove '-openai'
+            hit_title_pdf = f"{hit_title_pdf.rsplit('.', 1)[0]}.pdf"  # Replace current extension with .pdf
+            pdf_url = pdf_url = f"../../../../media/volume/crf-college-archives/app_data/slurm-output-files/{year}/{hit_date_str}/PDFs/{hit_title_pdf}"
             file_date = extract_date_from_title(hit['title']) # Extracting the date from the title
             # Date filters from advanced search parameters
             if not file_date:
