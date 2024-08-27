@@ -117,7 +117,7 @@
         list from the Davidson College Archives. Click on a name or term, and search results will appear automatically.</li></p>
       <p><li>If you are not using the Controlled Vocabulary list, type your term or name into the search bar and click 
         the “Search” button. You can use various search operators to refine your search. These operators are explained 
-        below. For more inforamtion, view our <a href="static/assets/OPERATORS_TABLE.png" class="image-link">table on search operators.</a></p></li>
+        below. For more inforamtion, view our <a href="{{ url_for('static', filename='assets/OPERATORS_TABLE.png') }}" class="image-link">table on search operators.</a></p></li>
             <ul>
               <li><strong>AND</strong> (default): This will produce search results that include every 
                 scan in which the operated terms both appear in. </li>
@@ -627,7 +627,7 @@
                                 <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#${collapseId}" aria-expanded="true" aria-controls="${collapseId}">
                                     ${item.title}
                                 </button>
-                                <a href="${item.url}" target="_blank" class="btn btn-link">View Page</a>
+                                <a href="${item.pdf_url}" target="_blank" class="btn btn-link">View Page</a>
                                 </button>
                                 <a href="${item.url}" target="_blank" class="btn btn-link">View Issue</a>
                             </h2>

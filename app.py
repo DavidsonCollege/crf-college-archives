@@ -35,7 +35,7 @@ def search_index(query_str, date_from_str='', date_to_str='', context_lines_str=
     # This is where all the file information will be saved  
     results = []
 
-    # Dictionaries for urls to pdf and tifs
+    # Dictionaries for urls
     url_dict = read_csv_to_dict('static/assets/Permalinks.csv')
 
     # Advanced search parameters 
@@ -53,7 +53,7 @@ def search_index(query_str, date_from_str='', date_to_str='', context_lines_str=
         query_parser = QueryParser("content", ix.schema) 
         query_parser.add_plugin(FuzzyTermPlugin()) # Adding the fuzzy (near misses) plug in
         
-        query = query_parser.parse(query_str) # # Parsing the content of the text files with the user query
+        query = query_parser.parse(query_str) # Parsing the content of the text files with the user query
 
         hits = searcher.search(query, limit=None) # Saving the hits (text files that satisfy the query)
 
@@ -70,7 +70,10 @@ def search_index(query_str, date_from_str='', date_to_str='', context_lines_str=
 
             # Extract URLs for Issue and Page using dictionaries
             url = url_dict.get(hit_date, "#")
-            # pdf_url = pdf_url_dict.get(hit_date, "#") # for pdf link
+            year = re.search(r'\d{4}', hit_date_str)
+            pdf_url = f"../../../../media/volume/crf-college-archives/app_date/{year}/{hit_date_str}/PDFs/{hit_title}"
+            # f"/static/pdf/{hit['title']}.pdf"  # Assuming PDF filenames match hit titles
+            #../../../../media/volume/crf-college-archives/app_date/1914/19140401/PDFs/19140401_001.pdf
 
     
             file_date = extract_date_from_title(hit['title']) # Extracting the date from the title
@@ -90,7 +93,7 @@ def search_index(query_str, date_from_str='', date_to_str='', context_lines_str=
                     "title": transform_title(hit["title"]),
                     "matching": matching_lines,
                     "url": url, 
-                    #"pdf_url": "", # this is where the pdf url variable: pdf_url will go 
+                    #"pdf_url": pdf_url, # this is where the pdf url variable: pdf_url will go 
                     "date": file_date.strftime("%Y-%m-%d"),
                     "score": hit.score # This is the relevance score
                 })
@@ -243,4 +246,5 @@ def download_csv():
 
     
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    #app.run(host='0.0.0.0', port=5000)
+    app.run(debug=True)
