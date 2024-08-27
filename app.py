@@ -93,7 +93,7 @@ def search_index(query_str, date_from_str='', date_to_str='', context_lines_str=
                     "title": transform_title(hit["title"]),
                     "matching": matching_lines,
                     "url": url, 
-                    #"pdf_url": pdf_url, # this is where the pdf url variable: pdf_url will go 
+                    "pdf_url": pdf_url, # this is where the pdf url variable: pdf_url will go 
                     "date": file_date.strftime("%Y-%m-%d"),
                     "score": hit.score # This is the relevance score
                 })
